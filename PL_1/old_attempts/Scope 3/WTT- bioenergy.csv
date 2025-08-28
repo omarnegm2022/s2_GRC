@@ -1,0 +1,52 @@
+index,Scope,Level 1,Activity,Fuel,UOM,GHG/Unit,GHG Conversion Factor
+3210,Scope 3,WTT- bioenergy,WTT- biofuel,Bioethanol,litres,kg CO2e,0.61516
+3211,Scope 3,WTT- bioenergy,WTT- biofuel,Bioethanol,GJ,kg CO2e,28.909
+3212,Scope 3,WTT- bioenergy,WTT- biofuel,Bioethanol,kg,kg CO2e,0.77476
+3213,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME,litres,kg CO2e,0.39508
+3214,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME,GJ,kg CO2e,11.933
+3215,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME,kg,kg CO2e,0.44391
+3216,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (compressed),litres,kg CO2e,
+3217,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (compressed),GJ,kg CO2e,15.797
+3218,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (compressed),kg,kg CO2e,0.77405
+3219,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from used cooking oil),litres,kg CO2e,0.3534
+32110,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from used cooking oil),GJ,kg CO2e,10.6742
+32111,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from used cooking oil),kg,kg CO2e,0.39708
+32112,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from Tallow),litres,kg CO2e,0.53232
+32113,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from Tallow),GJ,kg CO2e,16.07836
+32114,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from Tallow),kg,kg CO2e,0.59812
+32115,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel HVO,litres,kg CO2e,0.56439
+32116,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel HVO,GJ,kg CO2e,16.445
+32117,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel HVO,kg,kg CO2e,0.72358
+32118,Scope 3,WTT- bioenergy,WTT- biofuel,Biopropane,litres,kg CO2e,0.15752
+32119,Scope 3,WTT- bioenergy,WTT- biofuel,Biopropane,GJ,kg CO2e,6.613
+32120,Scope 3,WTT- bioenergy,WTT- biofuel,Biopropane,kg,kg CO2e,0.30684
+32121,Scope 3,WTT- bioenergy,WTT- biofuel,Development diesel,litres,kg CO2e,0.83338
+32122,Scope 3,WTT- bioenergy,WTT- biofuel,Development diesel,GJ,kg CO2e,23.32
+32123,Scope 3,WTT- bioenergy,WTT- biofuel,Development diesel,kg,kg CO2e,1.0034
+32124,Scope 3,WTT- bioenergy,WTT- biofuel,Development petrol,litres,kg CO2e,0.76505
+32125,Scope 3,WTT- bioenergy,WTT- biofuel,Development petrol,GJ,kg CO2e,23.097
+32126,Scope 3,WTT- bioenergy,WTT- biofuel,Development petrol,kg,kg CO2e,1.03129
+32127,Scope 3,WTT- bioenergy,WTT- biofuel,Off road biodiesel,litres,kg CO2e,0.39508
+32128,Scope 3,WTT- bioenergy,WTT- biofuel,Off road biodiesel,GJ,kg CO2e,11.933
+32129,Scope 3,WTT- bioenergy,WTT- biofuel,Off road biodiesel,kg,kg CO2e,0.44391
+32130,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (liquified),litres,kg CO2e,
+32131,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (liquified),GJ,kg CO2e,23.903
+32132,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (liquified),kg,kg CO2e,1.17125
+32133,Scope 3,WTT- bioenergy,WTT- biofuel,Methanol (bio),litres,kg CO2e,0.59414
+32134,Scope 3,WTT- bioenergy,WTT- biofuel,Methanol (bio),GJ,kg CO2e,37.597
+32135,Scope 3,WTT- bioenergy,WTT- biofuel,Methanol (bio),kg,kg CO2e,0.74923
+32136,Scope 3,WTT- bioenergy,WTT- biofuel,Avtur (renewable),litres,kg CO2e,0.53386
+32137,Scope 3,WTT- bioenergy,WTT- biofuel,Avtur (renewable),GJ,kg CO2e,15.256
+32138,Scope 3,WTT- bioenergy,WTT- biofuel,Avtur (renewable),kg,kg CO2e,0.67052
+3220,Scope 3,WTT- bioenergy,WTT- biomass,Wood logs,tonnes,kg CO2e,52.14
+3221,Scope 3,WTT- bioenergy,WTT- biomass,Wood logs,kWh,kg CO2e,0.01277
+3222,Scope 3,WTT- bioenergy,WTT- biomass,Wood chips,tonnes,kg CO2e,30.4
+3223,Scope 3,WTT- bioenergy,WTT- biomass,Wood chips,kWh,kg CO2e,0.00792
+3224,Scope 3,WTT- bioenergy,WTT- biomass,Wood pellets,tonnes,kg CO2e,177.0
+3225,Scope 3,WTT- bioenergy,WTT- biomass,Wood pellets,kWh,kg CO2e,0.03744
+3226,Scope 3,WTT- bioenergy,WTT- biomass,Grass/straw,tonnes,kg CO2e,68.65
+3227,Scope 3,WTT- bioenergy,WTT- biomass,Grass/straw,kWh,kg CO2e,0.01604
+3230,Scope 3,WTT- bioenergy,WTT- biogas,Biogas,tonnes,kg CO2e,102.85714
+3231,Scope 3,WTT- bioenergy,WTT- biogas,Biogas,kWh,kg CO2e,0.01851
+3232,Scope 3,WTT- bioenergy,WTT- biogas,Landfill gas,tonnes,kg CO2e,0.0
+3233,Scope 3,WTT- bioenergy,WTT- biogas,Landfill gas,kWh,kg CO2e,0.0

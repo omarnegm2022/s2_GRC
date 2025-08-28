@@ -1,0 +1,10 @@
+pandas==2.2.2
+pyparsing==3.2.3
+
+dataclasses-json==0.6.7
+jsonpatch==1.33
+jsonpath-python==1.0.6
+jsonpointer==3.0.0
+jsonref==0.2
+jsonschema==4.17.3
+orjson==3.10.18

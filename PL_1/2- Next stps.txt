@@ -1,0 +1,9 @@
+1-pipeline2: load your data to the target database
+2- backup the data firstly
+3- on the error, failover to the backup the database.
+4- PL2 must be connected to the pipeline 1, so in case:
+	for any new data, automatically transferred
+5- for anomaly chars, take it into removal consideration.
+
+
+https://airflow.apache.org/docs/apache-airflow-providers-postgres/stable/index.html

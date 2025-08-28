@@ -1,0 +1,56 @@
+index,Scope,Level 1,Activity,Country,UOM,GHG/Unit,GHG Conversion Factor
+31910,Scope 3,Hotel stay,Hotel stay,UK,Room per night,kg CO2e,10.4
+31911,Scope 3,Hotel stay,Hotel stay,UK (London),Room per night,kg CO2e,11.5
+31920,Scope 3,Hotel stay,Hotel stay,Argentina,Room per night,kg CO2e,
+31921,Scope 3,Hotel stay,Hotel stay,Australia,Room per night,kg CO2e,35.0
+31922,Scope 3,Hotel stay,Hotel stay,Austria,Room per night,kg CO2e,
+31923,Scope 3,Hotel stay,Hotel stay,Belgium,Room per night,kg CO2e,12.2
+31924,Scope 3,Hotel stay,Hotel stay,Brazil,Room per night,kg CO2e,8.7
+31925,Scope 3,Hotel stay,Hotel stay,Canada,Room per night,kg CO2e,7.4
+31926,Scope 3,Hotel stay,Hotel stay,Chile,Room per night,kg CO2e,27.6
+31927,Scope 3,Hotel stay,Hotel stay,China,Room per night,kg CO2e,53.5
+31928,Scope 3,Hotel stay,Hotel stay,Colombia,Room per night,kg CO2e,14.7
+31929,Scope 3,Hotel stay,Hotel stay,Costa Rica,Room per night,kg CO2e,4.7
+319210,Scope 3,Hotel stay,Hotel stay,Czech Republic,Room per night,kg CO2e,
+319211,Scope 3,Hotel stay,Hotel stay,Egypt,Room per night,kg CO2e,44.2
+319212,Scope 3,Hotel stay,Hotel stay,Fiji,Room per night,kg CO2e,
+319213,Scope 3,Hotel stay,Hotel stay,Finland,Room per night,kg CO2e,
+319214,Scope 3,Hotel stay,Hotel stay,France,Room per night,kg CO2e,6.7
+319215,Scope 3,Hotel stay,Hotel stay,Germany,Room per night,kg CO2e,13.2
+319216,Scope 3,Hotel stay,Hotel stay,Greece,Room per night,kg CO2e,
+319217,Scope 3,Hotel stay,Hotel stay,"Hong Kong, China",Room per night,kg CO2e,51.5
+319218,Scope 3,Hotel stay,Hotel stay,India,Room per night,kg CO2e,58.9
+319219,Scope 3,Hotel stay,Hotel stay,Indonesia,Room per night,kg CO2e,62.7
+319220,Scope 3,Hotel stay,Hotel stay,Ireland,Room per night,kg CO2e,
+319221,Scope 3,Hotel stay,Hotel stay,Israel,Room per night,kg CO2e,
+319222,Scope 3,Hotel stay,Hotel stay,Italy,Room per night,kg CO2e,14.3
+319223,Scope 3,Hotel stay,Hotel stay,Japan,Room per night,kg CO2e,39.0
+319224,Scope 3,Hotel stay,Hotel stay,Jordan,Room per night,kg CO2e,68.9
+319225,Scope 3,Hotel stay,Hotel stay,Kazakhstan,Room per night,kg CO2e,
+319226,Scope 3,Hotel stay,Hotel stay,Korea,Room per night,kg CO2e,55.8
+319227,Scope 3,Hotel stay,Hotel stay,"Macau, China",Room per night,kg CO2e,
+319228,Scope 3,Hotel stay,Hotel stay,Malaysia,Room per night,kg CO2e,61.5
+319229,Scope 3,Hotel stay,Hotel stay,Maldives,Room per night,kg CO2e,152.2
+319230,Scope 3,Hotel stay,Hotel stay,Mexico,Room per night,kg CO2e,19.3
+319231,Scope 3,Hotel stay,Hotel stay,Netherlands,Room per night,kg CO2e,14.8
+319232,Scope 3,Hotel stay,Hotel stay,New Zealand,Room per night,kg CO2e,
+319233,Scope 3,Hotel stay,Hotel stay,Oman,Room per night,kg CO2e,90.3
+319234,Scope 3,Hotel stay,Hotel stay,Panama,Room per night,kg CO2e,
+319235,Scope 3,Hotel stay,Hotel stay,Peru,Room per night,kg CO2e,
+319236,Scope 3,Hotel stay,Hotel stay,Philippines,Room per night,kg CO2e,54.3
+319237,Scope 3,Hotel stay,Hotel stay,Poland,Room per night,kg CO2e,
+319238,Scope 3,Hotel stay,Hotel stay,Portugal,Room per night,kg CO2e,19.0
+319239,Scope 3,Hotel stay,Hotel stay,Qatar,Room per night,kg CO2e,86.2
+319240,Scope 3,Hotel stay,Hotel stay,Romania,Room per night,kg CO2e,
+319241,Scope 3,Hotel stay,Hotel stay,Russian Federation,Room per night,kg CO2e,24.2
+319242,Scope 3,Hotel stay,Hotel stay,Saudi Arabia,Room per night,kg CO2e,106.4
+319243,Scope 3,Hotel stay,Hotel stay,Singapore,Room per night,kg CO2e,24.5
+319244,Scope 3,Hotel stay,Hotel stay,South Africa,Room per night,kg CO2e,51.4
+319245,Scope 3,Hotel stay,Hotel stay,Spain,Room per night,kg CO2e,7.0
+319246,Scope 3,Hotel stay,Hotel stay,Switzerland,Room per night,kg CO2e,6.6
+319247,Scope 3,Hotel stay,Hotel stay,"Taiwan, China",Room per night,kg CO2e,
+319248,Scope 3,Hotel stay,Hotel stay,Thailand,Room per night,kg CO2e,43.4
+319249,Scope 3,Hotel stay,Hotel stay,Turkey,Room per night,kg CO2e,32.1
+319250,Scope 3,Hotel stay,Hotel stay,United Arab Emirates,Room per night,kg CO2e,63.8
+319251,Scope 3,Hotel stay,Hotel stay,United States,Room per night,kg CO2e,16.1
+319252,Scope 3,Hotel stay,Hotel stay,Vietnam,Room per night,kg CO2e,38.5

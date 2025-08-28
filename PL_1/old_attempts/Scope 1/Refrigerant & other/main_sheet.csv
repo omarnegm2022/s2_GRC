@@ -1,0 +1,168 @@
+index,Scope,Level 1,Activity,Emission,Unit
+1310,Scope 1,Refrigerant & other,Kyoto protocol products,Carbon dioxide,kg
+1311,Scope 1,Refrigerant & other,Kyoto protocol products,Methane,kg
+1312,Scope 1,Refrigerant & other,Kyoto protocol products,Nitrous oxide,kg
+1313,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-23,kg
+1314,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-32,kg
+1315,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-41,kg
+1316,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-125,kg
+1317,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-134,kg
+1318,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-134a,kg
+1319,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-143,kg
+13110,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-143a,kg
+13111,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-152a,kg
+13112,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-227ea,kg
+13113,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236fa,kg
+13114,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-245fa,kg
+13115,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-43-I0mee,kg
+13116,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoromethane (PFC-14),kg
+13117,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoroethane (PFC-116),kg
+13118,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoropropane (PFC-218),kg
+13119,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorocyclobutane (PFC-318),kg
+13120,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorobutane (PFC-3-1-10),kg
+13121,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoropentane (PFC-4-1-12),kg
+13122,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorohexane (PFC-5-1-14),kg
+13123,Scope 1,Refrigerant & other,Kyoto protocol products,PFC-9-1-18,kg
+13124,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorocyclopropane,kg
+13125,Scope 1,Refrigerant & other,Kyoto protocol products,Sulphur hexafluoride (SF6),kg
+13126,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-152,kg
+13127,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-161,kg
+13128,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236cb,kg
+13129,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236ea,kg
+13130,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-245ca,kg
+13131,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-365mfc,kg
+13132,Scope 1,Refrigerant & other,Kyoto protocol products,Nitrogen trifluoride,kg
+1320,Scope 1,Refrigerant & other,Blends,R401A,kg
+1321,Scope 1,Refrigerant & other,Blends,R401B,kg
+1322,Scope 1,Refrigerant & other,Blends,R401C,kg
+1323,Scope 1,Refrigerant & other,Blends,R402A,kg
+1324,Scope 1,Refrigerant & other,Blends,R402B,kg
+1325,Scope 1,Refrigerant & other,Blends,R403A,kg
+1326,Scope 1,Refrigerant & other,Blends,R403B,kg
+1327,Scope 1,Refrigerant & other,Blends,R404A,kg
+1328,Scope 1,Refrigerant & other,Blends,R405A,kg
+1329,Scope 1,Refrigerant & other,Blends,R406A,kg
+13210,Scope 1,Refrigerant & other,Blends,R407A,kg
+13211,Scope 1,Refrigerant & other,Blends,R407B,kg
+13212,Scope 1,Refrigerant & other,Blends,R407C,kg
+13213,Scope 1,Refrigerant & other,Blends,R407D,kg
+13214,Scope 1,Refrigerant & other,Blends,R407E,kg
+13215,Scope 1,Refrigerant & other,Blends,R407F,kg
+13216,Scope 1,Refrigerant & other,Blends,R408A,kg
+13217,Scope 1,Refrigerant & other,Blends,R409A,kg
+13218,Scope 1,Refrigerant & other,Blends,R409B,kg
+13219,Scope 1,Refrigerant & other,Blends,R410A,kg
+13220,Scope 1,Refrigerant & other,Blends,R410B,kg
+13221,Scope 1,Refrigerant & other,Blends,R411A,kg
+13222,Scope 1,Refrigerant & other,Blends,R411B,kg
+13223,Scope 1,Refrigerant & other,Blends,R412A,kg
+13224,Scope 1,Refrigerant & other,Blends,R413A,kg
+13225,Scope 1,Refrigerant & other,Blends,R414A,kg
+13226,Scope 1,Refrigerant & other,Blends,R414B,kg
+13227,Scope 1,Refrigerant & other,Blends,R415A,kg
+13228,Scope 1,Refrigerant & other,Blends,R415B,kg
+13229,Scope 1,Refrigerant & other,Blends,R416A,kg
+13230,Scope 1,Refrigerant & other,Blends,R417A,kg
+13231,Scope 1,Refrigerant & other,Blends,R417B,kg
+13232,Scope 1,Refrigerant & other,Blends,R417C,kg
+13233,Scope 1,Refrigerant & other,Blends,R418A,kg
+13234,Scope 1,Refrigerant & other,Blends,R419A,kg
+13235,Scope 1,Refrigerant & other,Blends,R419B,kg
+13236,Scope 1,Refrigerant & other,Blends,R420A,kg
+13237,Scope 1,Refrigerant & other,Blends,R421A,kg
+13238,Scope 1,Refrigerant & other,Blends,R421B,kg
+13239,Scope 1,Refrigerant & other,Blends,R422A,kg
+13240,Scope 1,Refrigerant & other,Blends,R422B,kg
+13241,Scope 1,Refrigerant & other,Blends,R422C,kg
+13242,Scope 1,Refrigerant & other,Blends,R422D,kg
+13243,Scope 1,Refrigerant & other,Blends,R422E,kg
+13244,Scope 1,Refrigerant & other,Blends,R423A,kg
+13245,Scope 1,Refrigerant & other,Blends,R424A,kg
+13246,Scope 1,Refrigerant & other,Blends,R425A,kg
+13247,Scope 1,Refrigerant & other,Blends,R426A,kg
+13248,Scope 1,Refrigerant & other,Blends,R427A,kg
+13249,Scope 1,Refrigerant & other,Blends,R428A,kg
+13250,Scope 1,Refrigerant & other,Blends,R429A,kg
+13251,Scope 1,Refrigerant & other,Blends,R430A,kg
+13252,Scope 1,Refrigerant & other,Blends,R431A,kg
+13253,Scope 1,Refrigerant & other,Blends,R432A,kg
+13254,Scope 1,Refrigerant & other,Blends,R433A,kg
+13255,Scope 1,Refrigerant & other,Blends,R433B,kg
+13256,Scope 1,Refrigerant & other,Blends,R433C,kg
+13257,Scope 1,Refrigerant & other,Blends,R434A,kg
+13258,Scope 1,Refrigerant & other,Blends,R435A,kg
+13259,Scope 1,Refrigerant & other,Blends,R436A,kg
+13260,Scope 1,Refrigerant & other,Blends,R436B,kg
+13261,Scope 1,Refrigerant & other,Blends,R437A,kg
+13262,Scope 1,Refrigerant & other,Blends,R438A,kg
+13263,Scope 1,Refrigerant & other,Blends,R439A,kg
+13264,Scope 1,Refrigerant & other,Blends,R440A,kg
+13265,Scope 1,Refrigerant & other,Blends,R441A,kg
+13266,Scope 1,Refrigerant & other,Blends,R442A,kg
+13267,Scope 1,Refrigerant & other,Blends,R443A,kg
+13268,Scope 1,Refrigerant & other,Blends,R444A,kg
+13269,Scope 1,Refrigerant & other,Blends,R445A,kg
+13270,Scope 1,Refrigerant & other,Blends,R500,kg
+13271,Scope 1,Refrigerant & other,Blends,R501,kg
+13272,Scope 1,Refrigerant & other,Blends,R502,kg
+13273,Scope 1,Refrigerant & other,Blends,R503,kg
+13274,Scope 1,Refrigerant & other,Blends,R504,kg
+13275,Scope 1,Refrigerant & other,Blends,R505,kg
+13276,Scope 1,Refrigerant & other,Blends,R506,kg
+13277,Scope 1,Refrigerant & other,Blends,R507A,kg
+13278,Scope 1,Refrigerant & other,Blends,R508A,kg
+13279,Scope 1,Refrigerant & other,Blends,R508B,kg
+13280,Scope 1,Refrigerant & other,Blends,R509A,kg
+13281,Scope 1,Refrigerant & other,Blends,R510A,kg
+13282,Scope 1,Refrigerant & other,Blends,R511A,kg
+13283,Scope 1,Refrigerant & other,Blends,R512A,kg
+1330,Scope 1,Refrigerant & other,Montreal protocol products,CFC-11/R11 = trichlorofluoromethane,kg
+1331,Scope 1,Refrigerant & other,Montreal protocol products,CFC-12/R12 = dichlorodifluoromethane,kg
+1332,Scope 1,Refrigerant & other,Montreal protocol products,CFC-13,kg
+1333,Scope 1,Refrigerant & other,Montreal protocol products,CFC-113,kg
+1334,Scope 1,Refrigerant & other,Montreal protocol products,CFC-114,kg
+1335,Scope 1,Refrigerant & other,Montreal protocol products,CFC-115,kg
+1336,Scope 1,Refrigerant & other,Montreal protocol products,Halon-1211,kg
+1337,Scope 1,Refrigerant & other,Montreal protocol products,Halon-1301,kg
+1338,Scope 1,Refrigerant & other,Montreal protocol products,Halon-2402,kg
+1339,Scope 1,Refrigerant & other,Montreal protocol products,Carbon tetrachloride,kg
+13310,Scope 1,Refrigerant & other,Montreal protocol products,Methyl bromide,kg
+13311,Scope 1,Refrigerant & other,Montreal protocol products,Methyl chloroform,kg
+13312,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-22/R22 = chlorodifluoromethane,kg
+13313,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-123,kg
+13314,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-124,kg
+13315,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-141b,kg
+13316,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-142b,kg
+13317,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-225ca,kg
+13318,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-225cb,kg
+13319,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-21,kg
+1340,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-125,kg
+1341,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-134,kg
+1342,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-143a,kg
+1343,Scope 1,Refrigerant & other,Fluorinated ethers,HCFE-235da2,kg
+1344,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-245cb2,kg
+1345,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-245fa2,kg
+1346,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-254cb2,kg
+1347,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-347mcc3,kg
+1348,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-347pcf2,kg
+1349,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-356pcc3,kg
+13410,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-449sl (HFE-7100),kg
+13411,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-569sf2 (HFE-7200),kg
+13412,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-43-10pccc124 (H-Galden1040x),kg
+13413,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-236ca12 (HG-10),kg
+13414,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-338pcc13 (HG-01),kg
+1350,Scope 1,Refrigerant & other,Other products,Trifluoromethyl sulphur pentafluoride,kg
+1351,Scope 1,Refrigerant & other,Other products,PFPMIE,kg
+1352,Scope 1,Refrigerant & other,Other products,Dimethylether,kg
+1353,Scope 1,Refrigerant & other,Other products,Methylene chloride,kg
+1354,Scope 1,Refrigerant & other,Other products,Methyl chloride,kg
+1355,Scope 1,Refrigerant & other,Other products,R290 = propane,kg
+1356,Scope 1,Refrigerant & other,Other products,R600A = isobutane,kg
+1357,Scope 1,Refrigerant & other,Other products,R600 = butane,kg
+1358,Scope 1,Refrigerant & other,Other products,R601 = n-pentane,kg
+1359,Scope 1,Refrigerant & other,Other products,R601A = isopentane,kg
+13510,Scope 1,Refrigerant & other,Other products,R170 = ethane,kg
+13511,Scope 1,Refrigerant & other,Other products,R1270 = propylene,kg
+13512,Scope 1,Refrigerant & other,Other products,R1234yf*,kg
+13513,Scope 1,Refrigerant & other,Other products,R1234ze*,kg
+13514,Scope 1,Refrigerant & other,"* There is no specific figure available, however it is known that the GWP factor is less than 1 kg CO2e",R1234ze*,kg

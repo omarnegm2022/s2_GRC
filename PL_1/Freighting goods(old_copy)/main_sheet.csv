@@ -1,0 +1,119 @@
+index,Scope,Level 1,Activity,Type,Unit,Size
+31710,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),tonne.km,
+31711,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),km,
+31712,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),miles,
+31713,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),tonne.km,
+31714,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),km,
+31715,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),miles,
+31716,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),tonne.km,
+31717,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),km,
+31718,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),miles,
+31719,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),tonne.km,
+317110,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),km,
+317111,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),miles,
+31720,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),tonne.km,
+31721,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),km,
+31722,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),miles,
+31723,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),tonne.km,
+31724,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),km,
+31725,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),miles,
+31726,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),tonne.km,
+31727,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),km,
+31728,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),miles,
+31729,Scope 3,Freighting goods,HGV (all diesel),All rigids,tonne.km,
+317210,Scope 3,Freighting goods,HGV (all diesel),All rigids,km,
+317211,Scope 3,Freighting goods,HGV (all diesel),All rigids,miles,
+317212,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),tonne.km,
+317213,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),km,
+317214,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),miles,
+317215,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),tonne.km,
+317216,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),km,
+317217,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),miles,
+317218,Scope 3,Freighting goods,HGV (all diesel),All artics,tonne.km,
+317219,Scope 3,Freighting goods,HGV (all diesel),All artics,km,
+317220,Scope 3,Freighting goods,HGV (all diesel),All artics,miles,
+317221,Scope 3,Freighting goods,HGV (all diesel),All HGVs,tonne.km,
+317222,Scope 3,Freighting goods,HGV (all diesel),All HGVs,km,
+317223,Scope 3,Freighting goods,HGV (all diesel),All HGVs,miles,
+31730,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),tonne.km,
+31731,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),km,
+31732,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),miles,
+31733,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),tonne.km,
+31734,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),km,
+31735,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),miles,
+31736,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),tonne.km,
+31737,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),km,
+31738,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),miles,
+31739,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,tonne.km,
+317310,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,km,
+317311,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,miles,
+317312,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),tonne.km,
+317313,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),km,
+317314,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),miles,
+317315,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),tonne.km,
+317316,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),km,
+317317,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),miles,
+317318,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,tonne.km,
+317319,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,km,
+317320,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,miles,
+317321,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,tonne.km,
+317322,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,km,
+317323,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,miles,
+31740,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",tonne.km,
+31741,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",tonne.km,
+31742,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",tonne.km,
+31743,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",tonne.km,
+31750,Scope 3,Freighting goods,Rail,Freight train,tonne.km,
+31760,Scope 3,Freighting goods,Sea tanker,Crude tanker,tonne.km,"200,000+ dwt"
+31761,Scope 3,Freighting goods,Sea tanker,Crude tanker,tonne.km,"120,000–199,999 dwt"
+31762,Scope 3,Freighting goods,Sea tanker,Crude tanker,tonne.km,"80,000–119,999 dwt"
+31763,Scope 3,Freighting goods,Sea tanker,Crude tanker,tonne.km,"60,000–79,999 dwt"
+31764,Scope 3,Freighting goods,Sea tanker,Crude tanker,tonne.km,"10,000–59,999 dwt"
+31765,Scope 3,Freighting goods,Sea tanker,Crude tanker,tonne.km,0–9999 dwt
+31766,Scope 3,Freighting goods,Sea tanker,Crude tanker,tonne.km,Average
+31767,Scope 3,Freighting goods,Sea tanker,Products tanker ,tonne.km,"60,000+ dwt"
+31768,Scope 3,Freighting goods,Sea tanker,Products tanker ,tonne.km,"20,000–59,999 dwt"
+31769,Scope 3,Freighting goods,Sea tanker,Products tanker ,tonne.km,"10,000–19,999 dwt"
+317610,Scope 3,Freighting goods,Sea tanker,Products tanker ,tonne.km,5000–9999 dwt
+317611,Scope 3,Freighting goods,Sea tanker,Products tanker ,tonne.km,0–4999 dwt
+317612,Scope 3,Freighting goods,Sea tanker,Products tanker ,tonne.km,Average
+317613,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,tonne.km,"20,000+ dwt"
+317614,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,tonne.km,"10,000–19,999 dwt"
+317615,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,tonne.km,5000–9999 dwt
+317616,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,tonne.km,0–4999 dwt
+317617,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,tonne.km,Average
+317618,Scope 3,Freighting goods,Sea tanker,LNG tanker,tonne.km,"200,000+ m3"
+317619,Scope 3,Freighting goods,Sea tanker,LNG tanker,tonne.km,"0–199,999 m3"
+317620,Scope 3,Freighting goods,Sea tanker,LNG tanker,tonne.km,Average
+317621,Scope 3,Freighting goods,Sea tanker,LPG Tanker,tonne.km,"50,000+ m3"
+317622,Scope 3,Freighting goods,Sea tanker,LPG Tanker,tonne.km,"0–49,999 m3"
+317623,Scope 3,Freighting goods,Sea tanker,LPG Tanker,tonne.km,Average
+31770,Scope 3,Freighting goods,Cargo ship,Bulk carrier,tonne.km,"200,000+ dwt"
+31771,Scope 3,Freighting goods,Cargo ship,Bulk carrier,tonne.km,"100,000–199,999 dwt"
+31772,Scope 3,Freighting goods,Cargo ship,Bulk carrier,tonne.km,"60,000–99,999 dwt"
+31773,Scope 3,Freighting goods,Cargo ship,Bulk carrier,tonne.km,"35,000–59,999 dwt"
+31774,Scope 3,Freighting goods,Cargo ship,Bulk carrier,tonne.km,"10,000–34,999 dwt"
+31775,Scope 3,Freighting goods,Cargo ship,Bulk carrier,tonne.km,0–9999 dwt
+31776,Scope 3,Freighting goods,Cargo ship,Bulk carrier,tonne.km,Average
+31777,Scope 3,Freighting goods,Cargo ship,General cargo,tonne.km,"10,000+ dwt"
+31778,Scope 3,Freighting goods,Cargo ship,General cargo,tonne.km,5000–9999 dwt
+31779,Scope 3,Freighting goods,Cargo ship,General cargo,tonne.km,0–4999 dwt
+317710,Scope 3,Freighting goods,Cargo ship,General cargo,tonne.km,"10,000+ dwt 100+ TEU"
+317711,Scope 3,Freighting goods,Cargo ship,General cargo,tonne.km,5000–9999 dwt 100+ TEU
+317712,Scope 3,Freighting goods,Cargo ship,General cargo,tonne.km,0–4999 dwt 100+ TEU
+317713,Scope 3,Freighting goods,Cargo ship,General cargo,tonne.km,Average
+317714,Scope 3,Freighting goods,Cargo ship,Container ship,tonne.km,8000+ TEU
+317715,Scope 3,Freighting goods,Cargo ship,Container ship,tonne.km,5000–7999 TEU
+317716,Scope 3,Freighting goods,Cargo ship,Container ship,tonne.km,3000–4999 TEU
+317717,Scope 3,Freighting goods,Cargo ship,Container ship,tonne.km,2000–2999 TEU
+317718,Scope 3,Freighting goods,Cargo ship,Container ship,tonne.km,1000–1999 TEU
+317719,Scope 3,Freighting goods,Cargo ship,Container ship,tonne.km,0–999 TEU
+317720,Scope 3,Freighting goods,Cargo ship,Container ship,tonne.km,Average
+317721,Scope 3,Freighting goods,Cargo ship,Vehicle transport,tonne.km,4000+ CEU
+317722,Scope 3,Freighting goods,Cargo ship,Vehicle transport,tonne.km,0–3999 CEU
+317723,Scope 3,Freighting goods,Cargo ship,Vehicle transport,tonne.km,Average
+317724,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,tonne.km,2000+ LM
+317725,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,tonne.km,0–1999 LM
+317726,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,tonne.km,Average
+317727,Scope 3,Freighting goods,Cargo ship,Large RoPax ferry,tonne.km,Average
+317728,Scope 3,Freighting goods,Cargo ship,Refrigerated cargo,tonne.km, All dwt

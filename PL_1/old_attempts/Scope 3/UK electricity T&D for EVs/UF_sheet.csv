@@ -1,0 +1,305 @@
+index,Last level,GHG/Unit,GHG Conversion Factor
+3410,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3411,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3412,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00252
+3413,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00406
+3414,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00094
+3415,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00152
+3416,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00101
+3417,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00163
+3418,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00083
+3419,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00133
+34110,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00097
+34111,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00155
+34112,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00071
+34113,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00114
+34114,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00138
+34115,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00222
+34116,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00174
+34117,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00282
+3410,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3411,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3412,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00249
+3413,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00401
+3414,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00092
+3415,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00149
+3416,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00099
+3417,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.0016
+3418,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00081
+3419,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.0013
+34110,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00095
+34111,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00152
+34112,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00069
+34113,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00111
+34114,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00135
+34115,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00218
+34116,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00171
+34117,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00276
+3410,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3411,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3412,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3413,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3414,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3415,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3416,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3417,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3418,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3419,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34110,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34111,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34112,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34113,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34114,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34115,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34116,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34117,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3410,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3411,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3412,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3413,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3414,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3415,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3416,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3417,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3418,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3419,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+34110,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+34111,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+34112,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+34113,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+34114,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+34115,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,3e-05
+34116,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+34117,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3410,Battery Electric Vehicle,kg CO2e,0.00314
+3411,Battery Electric Vehicle,kg CO2e,0.00507
+3412,Battery Electric Vehicle,kg CO2e,0.00357
+3413,Battery Electric Vehicle,kg CO2e,0.00576
+3414,Battery Electric Vehicle,kg CO2e,0.00365
+3415,Battery Electric Vehicle,kg CO2e,0.00587
+3416,Battery Electric Vehicle,kg CO2e,0.00396
+3417,Battery Electric Vehicle,kg CO2e,0.00637
+3418,Battery Electric Vehicle,kg CO2e,0.00352
+3419,Battery Electric Vehicle,kg CO2e,0.00565
+34110,Battery Electric Vehicle,kg CO2e,0.00465
+34111,Battery Electric Vehicle,kg CO2e,0.00748
+34112,Battery Electric Vehicle,kg CO2e,0.00593
+34113,Battery Electric Vehicle,kg CO2e,0.00955
+34114,Battery Electric Vehicle,kg CO2e,0.00401
+34115,Battery Electric Vehicle,kg CO2e,0.00645
+34116,Battery Electric Vehicle,kg CO2e,0.00493
+34117,Battery Electric Vehicle,kg CO2e,0.00793
+3410,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00311
+3411,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00501
+3412,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00354
+3413,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.0057
+3414,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.0036
+3415,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.0058
+3416,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00393
+3417,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00632
+3418,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00347
+3419,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00558
+34110,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.0046
+34111,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.0074
+34112,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00587
+34113,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00945
+34114,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00395
+34115,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00636
+34116,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00487
+34117,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00784
+3410,Battery Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3411,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3412,Battery Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3413,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3414,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3415,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+3416,Battery Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3417,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3418,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3419,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+34110,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+34111,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+34112,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+34113,Battery Electric Vehicle,kg CO2e of CH4 per unit,4e-05
+34114,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+34115,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+34116,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+34117,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+3410,Battery Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3411,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3412,Battery Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3413,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3414,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3415,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3416,Battery Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3417,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3418,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3419,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+34110,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+34111,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+34112,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+34113,Battery Electric Vehicle,kg CO2e of N2O per unit,5e-05
+34114,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+34115,Battery Electric Vehicle,kg CO2e of N2O per unit,5e-05
+34116,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+34117,Battery Electric Vehicle,kg CO2e of N2O per unit,5e-05
+3420,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00252
+3421,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00406
+3422,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00098
+3423,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00157
+3424,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00132
+3425,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00212
+3426,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00122
+3427,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00197
+3420,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00249
+3421,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00401
+3422,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00096
+3423,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00154
+3424,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.0013
+3425,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00209
+3426,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.0012
+3427,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00194
+3420,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3421,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3422,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3423,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3424,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3425,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3426,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3427,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3420,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3421,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3422,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3423,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3424,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3425,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3426,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3427,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3420,Battery Electric Vehicle,kg CO2e,0.00349
+3421,Battery Electric Vehicle,kg CO2e,0.00563
+3422,Battery Electric Vehicle,kg CO2e,0.00368
+3423,Battery Electric Vehicle,kg CO2e,0.00592
+3424,Battery Electric Vehicle,kg CO2e,0.00398
+3425,Battery Electric Vehicle,kg CO2e,0.00641
+3426,Battery Electric Vehicle,kg CO2e,0.00384
+3427,Battery Electric Vehicle,kg CO2e,0.00618
+3420,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00346
+3421,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00557
+3422,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00363
+3423,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00585
+3424,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00393
+3425,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00633
+3426,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00379
+3427,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.0061
+3420,Battery Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3421,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3422,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3423,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+3424,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3425,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+3426,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3427,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+3420,Battery Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3421,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3422,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3423,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3424,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3425,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3426,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3427,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3430,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3431,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3432,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3433,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3434,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3435,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3436,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00369
+3437,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00146
+3438,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00234
+3439,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00369
+34310,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00146
+34311,Plug-in Hybrid Electric Vehicle,kg CO2e,0.00234
+3430,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3431,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3432,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3433,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3434,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3435,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3436,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00366
+3437,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00144
+3438,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00232
+3439,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00366
+34310,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00144
+34311,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.00232
+3430,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3431,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3432,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3433,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3434,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3435,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3436,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3437,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3438,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3439,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34310,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+34311,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3430,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3431,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3432,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3433,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3434,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3435,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3436,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3437,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3438,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3439,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,2e-05
+34310,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+34311,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,1e-05
+3430,Battery Electric Vehicle,kg CO2e,0.01183
+3431,Battery Electric Vehicle,kg CO2e,0.0036
+3432,Battery Electric Vehicle,kg CO2e,0.00579
+3433,Battery Electric Vehicle,kg CO2e,0.02361
+3434,Battery Electric Vehicle,kg CO2e,0.00548
+3435,Battery Electric Vehicle,kg CO2e,0.00882
+3436,Battery Electric Vehicle,kg CO2e,0.01945
+3437,Battery Electric Vehicle,kg CO2e,0.00721
+3438,Battery Electric Vehicle,kg CO2e,0.01161
+3439,Battery Electric Vehicle,kg CO2e,0.02084
+34310,Battery Electric Vehicle,kg CO2e,0.00662
+34311,Battery Electric Vehicle,kg CO2e,0.01066
+3430,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.01167
+3431,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00357
+3432,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00574
+3433,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.02342
+3434,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00543
+3435,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00874
+3436,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.01926
+3437,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00715
+3438,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.01151
+3439,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.02065
+34310,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.00657
+34311,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.01058
+3430,Battery Electric Vehicle,kg CO2e of CH4 per unit,7e-05
+3431,Battery Electric Vehicle,kg CO2e of CH4 per unit,1e-05
+3432,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3433,Battery Electric Vehicle,kg CO2e of CH4 per unit,8e-05
+3434,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3435,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+3436,Battery Electric Vehicle,kg CO2e of CH4 per unit,8e-05
+3437,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+3438,Battery Electric Vehicle,kg CO2e of CH4 per unit,4e-05
+3439,Battery Electric Vehicle,kg CO2e of CH4 per unit,8e-05
+34310,Battery Electric Vehicle,kg CO2e of CH4 per unit,2e-05
+34311,Battery Electric Vehicle,kg CO2e of CH4 per unit,3e-05
+3430,Battery Electric Vehicle,kg CO2e of N2O per unit,9e-05
+3431,Battery Electric Vehicle,kg CO2e of N2O per unit,2e-05
+3432,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3433,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00012
+3434,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+3435,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3436,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00011
+3437,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05
+3438,Battery Electric Vehicle,kg CO2e of N2O per unit,5e-05
+3439,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00012
+34310,Battery Electric Vehicle,kg CO2e of N2O per unit,3e-05
+34311,Battery Electric Vehicle,kg CO2e of N2O per unit,4e-05

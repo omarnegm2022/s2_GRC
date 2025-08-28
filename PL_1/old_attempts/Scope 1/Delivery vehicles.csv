@@ -1,0 +1,737 @@
+index,Scope,Level 1,Activity,Type,Last level,UOM,GHG/Unit,GHG Conversion Factor
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Diesel,km,kg CO2e,0.15738
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Diesel,miles,kg CO2e,0.25329
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Diesel,km,kg CO2e,0.1926
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Diesel,miles,kg CO2e,0.30996
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Diesel,km,kg CO2e,0.27878
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Diesel,miles,kg CO2e,0.44866
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Diesel,km,kg CO2e,0.25561
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Diesel,miles,kg CO2e,0.41138
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Diesel,km,kg CO2e of CO2 per unit,0.15572
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Diesel,miles,kg CO2e of CO2 per unit,0.25061
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Diesel,km,kg CO2e of CO2 per unit,0.19094
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Diesel,miles,kg CO2e of CO2 per unit,0.30728
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Diesel,km,kg CO2e of CO2 per unit,0.27712
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Diesel,miles,kg CO2e of CO2 per unit,0.44598
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Diesel,km,kg CO2e of CO2 per unit,0.25395
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Diesel,miles,kg CO2e of CO2 per unit,0.4087
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Diesel,km,kg CO2e of CH4 per unit,4.860776705385985e-06
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Diesel,km,kg CO2e of CH4 per unit,4.860776705385985e-06
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Diesel,km,kg CO2e of CH4 per unit,4.860776705385985e-06
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Diesel,km,kg CO2e of CH4 per unit,4.860776705385985e-06
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Diesel,km,kg CO2e of N2O per unit,0.00165
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Diesel,miles,kg CO2e of N2O per unit,0.00267
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Diesel,km,kg CO2e of N2O per unit,0.00165
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Diesel,miles,kg CO2e of N2O per unit,0.00267
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Diesel,km,kg CO2e of N2O per unit,0.00165
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Diesel,miles,kg CO2e of N2O per unit,0.00267
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Diesel,km,kg CO2e of N2O per unit,0.00165
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Diesel,miles,kg CO2e of N2O per unit,0.00267
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Petrol,km,kg CO2e,0.20188
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Petrol,miles,kg CO2e,0.3249
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Petrol,km,kg CO2e,0.20874
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Petrol,miles,kg CO2e,0.33594
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Petrol,km,kg CO2e,0.33845
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Petrol,miles,kg CO2e,0.54468
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Petrol,km,kg CO2e,0.21335
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Petrol,miles,kg CO2e,0.34336
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Petrol,km,kg CO2e of CO2 per unit,0.20118
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Petrol,miles,kg CO2e of CO2 per unit,0.32377
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Petrol,km,kg CO2e of CO2 per unit,0.20804
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Petrol,miles,kg CO2e of CO2 per unit,0.33481
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Petrol,km,kg CO2e of CO2 per unit,0.33775
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Petrol,miles,kg CO2e of CO2 per unit,0.54355
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Petrol,km,kg CO2e of CO2 per unit,0.21265
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Petrol,miles,kg CO2e of CO2 per unit,0.34223
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Petrol,km,kg CO2e of CH4 per unit,0.00027
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Petrol,miles,kg CO2e of CH4 per unit,0.00043
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Petrol,km,kg CO2e of CH4 per unit,0.00027
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Petrol,miles,kg CO2e of CH4 per unit,0.00043
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Petrol,km,kg CO2e of CH4 per unit,0.00027
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Petrol,miles,kg CO2e of CH4 per unit,0.00043
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Petrol,km,kg CO2e of CH4 per unit,0.00027
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Petrol,miles,kg CO2e of CH4 per unit,0.00043
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Petrol,km,kg CO2e of N2O per unit,0.00044
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Petrol,miles,kg CO2e of N2O per unit,0.0007
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Petrol,km,kg CO2e of N2O per unit,0.00044
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Petrol,miles,kg CO2e of N2O per unit,0.0007
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Petrol,km,kg CO2e of N2O per unit,0.00044
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Petrol,miles,kg CO2e of N2O per unit,0.0007
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Petrol,km,kg CO2e of N2O per unit,0.00044
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Petrol,miles,kg CO2e of N2O per unit,0.0007
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),CNG,km,kg CO2e,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),CNG,miles,kg CO2e,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),CNG,km,kg CO2e,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),CNG,miles,kg CO2e,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),CNG,km,kg CO2e,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),CNG,miles,kg CO2e,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),CNG,km,kg CO2e,0.25113
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),CNG,miles,kg CO2e,0.40415
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),CNG,km,kg CO2e of CO2 per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),CNG,miles,kg CO2e of CO2 per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),CNG,km,kg CO2e of CO2 per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),CNG,miles,kg CO2e of CO2 per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),CNG,km,kg CO2e of CO2 per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),CNG,miles,kg CO2e of CO2 per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),CNG,km,kg CO2e of CO2 per unit,0.24931
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),CNG,miles,kg CO2e of CO2 per unit,0.40123
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),CNG,km,kg CO2e of CH4 per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),CNG,miles,kg CO2e of CH4 per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),CNG,km,kg CO2e of CH4 per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),CNG,miles,kg CO2e of CH4 per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),CNG,km,kg CO2e of CH4 per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),CNG,miles,kg CO2e of CH4 per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),CNG,km,kg CO2e of CH4 per unit,0.00132
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),CNG,miles,kg CO2e of CH4 per unit,0.00212
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),CNG,km,kg CO2e of N2O per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),CNG,miles,kg CO2e of N2O per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),CNG,km,kg CO2e of N2O per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),CNG,miles,kg CO2e of N2O per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),CNG,km,kg CO2e of N2O per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),CNG,miles,kg CO2e of N2O per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),CNG,km,kg CO2e of N2O per unit,0.0005
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),CNG,miles,kg CO2e of N2O per unit,0.0008
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),LPG,km,kg CO2e,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),LPG,miles,kg CO2e,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),LPG,km,kg CO2e,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),LPG,miles,kg CO2e,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),LPG,km,kg CO2e,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),LPG,miles,kg CO2e,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),LPG,km,kg CO2e,0.2761
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),LPG,miles,kg CO2e,0.44433
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),LPG,km,kg CO2e of CO2 per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),LPG,miles,kg CO2e of CO2 per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),LPG,km,kg CO2e of CO2 per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),LPG,miles,kg CO2e of CO2 per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),LPG,km,kg CO2e of CO2 per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),LPG,miles,kg CO2e of CO2 per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),LPG,km,kg CO2e of CO2 per unit,0.27556
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),LPG,miles,kg CO2e of CO2 per unit,0.44346
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),LPG,km,kg CO2e of CH4 per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),LPG,miles,kg CO2e of CH4 per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),LPG,km,kg CO2e of CH4 per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),LPG,miles,kg CO2e of CH4 per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),LPG,km,kg CO2e of CH4 per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),LPG,miles,kg CO2e of CH4 per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),LPG,km,kg CO2e of CH4 per unit,4e-05
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),LPG,miles,kg CO2e of CH4 per unit,7e-05
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),LPG,km,kg CO2e of N2O per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),LPG,miles,kg CO2e of N2O per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),LPG,km,kg CO2e of N2O per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),LPG,miles,kg CO2e of N2O per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),LPG,km,kg CO2e of N2O per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),LPG,miles,kg CO2e of N2O per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),LPG,km,kg CO2e of N2O per unit,0.0005
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),LPG,miles,kg CO2e of N2O per unit,0.0008
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Unknown,km,kg CO2e,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Unknown,miles,kg CO2e,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Unknown,km,kg CO2e,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Unknown,miles,kg CO2e,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Unknown,km,kg CO2e,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Unknown,miles,kg CO2e,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Unknown,km,kg CO2e,0.2543
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Unknown,miles,kg CO2e,0.40926
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Unknown,km,kg CO2e of CO2 per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Unknown,miles,kg CO2e of CO2 per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Unknown,km,kg CO2e of CO2 per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Unknown,miles,kg CO2e of CO2 per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Unknown,km,kg CO2e of CO2 per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Unknown,miles,kg CO2e of CO2 per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Unknown,km,kg CO2e of CO2 per unit,0.25267
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Unknown,miles,kg CO2e of CO2 per unit,0.40664
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Unknown,km,kg CO2e of CH4 per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Unknown,miles,kg CO2e of CH4 per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Unknown,km,kg CO2e of CH4 per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Unknown,miles,kg CO2e of CH4 per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Unknown,km,kg CO2e of CH4 per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Unknown,miles,kg CO2e of CH4 per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Unknown,km,kg CO2e of CH4 per unit,1e-05
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Unknown,miles,kg CO2e of CH4 per unit,2e-05
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Unknown,km,kg CO2e of N2O per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Unknown,miles,kg CO2e of N2O per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Unknown,km,kg CO2e of N2O per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Unknown,miles,kg CO2e of N2O per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Unknown,km,kg CO2e of N2O per unit,
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Unknown,miles,kg CO2e of N2O per unit,
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Unknown,km,kg CO2e of N2O per unit,0.00162
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Unknown,miles,kg CO2e of N2O per unit,0.0026
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.13055
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.2101
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.13055
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.2101
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.12875
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.2072
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.12875
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.2072
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,1e-05
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,2e-05
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,1e-05
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,2e-05
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00179
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00288
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00179
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00288
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,km,kg CO2e,0.0
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,miles,kg CO2e,0.0
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,km,kg CO2e,0.0
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,miles,kg CO2e,0.0
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,km,kg CO2e,0.0
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,miles,kg CO2e,0.0
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,km,kg CO2e,0.0
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,miles,kg CO2e,0.0
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,km,kg CO2e,0.46138
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,miles,kg CO2e,0.74251
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,km,kg CO2e,0.55061
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,miles,kg CO2e,0.88612
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),0% Laden,km,kg CO2e,0.774
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),0% Laden,miles,kg CO2e,1.24562
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,0% Laden,km,kg CO2e,0.67912
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,0% Laden,miles,kg CO2e,1.09292
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),0% Laden,km,kg CO2e,0.62775
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),0% Laden,miles,kg CO2e,1.01024
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),0% Laden,km,kg CO2e,0.64734
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),0% Laden,miles,kg CO2e,1.04178
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,0% Laden,km,kg CO2e,0.64659
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,0% Laden,miles,kg CO2e,1.04057
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,0% Laden,km,kg CO2e,0.65975
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,0% Laden,miles,kg CO2e,1.06176
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,km,kg CO2e of CO2 per unit,0.45595
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,miles,kg CO2e of CO2 per unit,0.73378
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,km,kg CO2e of CO2 per unit,0.54399
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,miles,kg CO2e of CO2 per unit,0.87546
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),0% Laden,km,kg CO2e of CO2 per unit,0.76318
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),0% Laden,miles,kg CO2e of CO2 per unit,1.22821
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,0% Laden,km,kg CO2e of CO2 per unit,0.67005
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,0% Laden,miles,kg CO2e of CO2 per unit,1.07833
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),0% Laden,km,kg CO2e of CO2 per unit,0.61554
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),0% Laden,miles,kg CO2e of CO2 per unit,0.99061
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),0% Laden,km,kg CO2e of CO2 per unit,0.63282
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),0% Laden,miles,kg CO2e of CO2 per unit,1.01842
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,0% Laden,km,kg CO2e of CO2 per unit,0.63216
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,0% Laden,miles,kg CO2e of CO2 per unit,1.01736
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,0% Laden,km,kg CO2e of CO2 per unit,0.64764
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,0% Laden,miles,kg CO2e of CO2 per unit,1.04228
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,km,kg CO2e of CH4 per unit,0.00011
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,miles,kg CO2e of CH4 per unit,0.00018
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,km,kg CO2e of CH4 per unit,0.00013
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),0% Laden,km,kg CO2e of CH4 per unit,0.00022
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),0% Laden,miles,kg CO2e of CH4 per unit,0.00037
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,0% Laden,km,kg CO2e of CH4 per unit,0.00019
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,0% Laden,miles,kg CO2e of CH4 per unit,0.0003
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),0% Laden,km,kg CO2e of CH4 per unit,0.00012
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),0% Laden,miles,kg CO2e of CH4 per unit,0.00019
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),0% Laden,km,kg CO2e of CH4 per unit,0.00015
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,0% Laden,km,kg CO2e of CH4 per unit,0.00016
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,0% Laden,miles,kg CO2e of CH4 per unit,0.00026
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,km,kg CO2e of N2O per unit,0.00532
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,miles,kg CO2e of N2O per unit,0.00855
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,km,kg CO2e of N2O per unit,0.00648
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,miles,kg CO2e of N2O per unit,0.01043
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),0% Laden,km,kg CO2e of N2O per unit,0.01059
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),0% Laden,miles,kg CO2e of N2O per unit,0.01704
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,0% Laden,km,kg CO2e of N2O per unit,0.00888
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,0% Laden,miles,kg CO2e of N2O per unit,0.01429
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),0% Laden,km,kg CO2e of N2O per unit,0.01209
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),0% Laden,miles,kg CO2e of N2O per unit,0.01944
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),0% Laden,km,kg CO2e of N2O per unit,0.01438
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),0% Laden,miles,kg CO2e of N2O per unit,0.02314
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,0% Laden,km,kg CO2e of N2O per unit,0.01428
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,0% Laden,miles,kg CO2e of N2O per unit,0.02299
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,0% Laden,km,kg CO2e of N2O per unit,0.01195
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,0% Laden,miles,kg CO2e of N2O per unit,0.01923
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,km,kg CO2e,0.50103
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,miles,kg CO2e,0.80632
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,km,kg CO2e,0.62832
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,miles,kg CO2e,1.01119
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),50% Laden,km,kg CO2e,0.94152
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),50% Laden,miles,kg CO2e,1.51523
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,50% Laden,km,kg CO2e,0.80803
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,50% Laden,miles,kg CO2e,1.3004
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,km,kg CO2e,0.78163
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,miles,kg CO2e,1.25789
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),50% Laden,km,kg CO2e,0.85827
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),50% Laden,miles,kg CO2e,1.38125
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,50% Laden,km,kg CO2e,0.85536
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,50% Laden,miles,kg CO2e,1.37656
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,50% Laden,km,kg CO2e,0.83589
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,50% Laden,miles,kg CO2e,1.34523
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,km,kg CO2e of CO2 per unit,0.4956
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,miles,kg CO2e of CO2 per unit,0.79759
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,km,kg CO2e of CO2 per unit,0.6217
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,miles,kg CO2e of CO2 per unit,1.00053
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),50% Laden,km,kg CO2e of CO2 per unit,0.9307
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),50% Laden,miles,kg CO2e of CO2 per unit,1.49782
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,50% Laden,km,kg CO2e of CO2 per unit,0.79896
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,50% Laden,miles,kg CO2e of CO2 per unit,1.28581
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,km,kg CO2e of CO2 per unit,0.76942
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,miles,kg CO2e of CO2 per unit,1.23826
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),50% Laden,km,kg CO2e of CO2 per unit,0.84375
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),50% Laden,miles,kg CO2e of CO2 per unit,1.35789
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,50% Laden,km,kg CO2e of CO2 per unit,0.84093
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,50% Laden,miles,kg CO2e of CO2 per unit,1.35335
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,50% Laden,km,kg CO2e of CO2 per unit,0.82378
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,50% Laden,miles,kg CO2e of CO2 per unit,1.32575
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,km,kg CO2e of CH4 per unit,0.00011
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,miles,kg CO2e of CH4 per unit,0.00018
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,km,kg CO2e of CH4 per unit,0.00013
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),50% Laden,km,kg CO2e of CH4 per unit,0.00022
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),50% Laden,miles,kg CO2e of CH4 per unit,0.00037
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,50% Laden,km,kg CO2e of CH4 per unit,0.00019
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,50% Laden,miles,kg CO2e of CH4 per unit,0.0003
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,km,kg CO2e of CH4 per unit,0.00012
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,miles,kg CO2e of CH4 per unit,0.00019
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),50% Laden,km,kg CO2e of CH4 per unit,0.00015
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,50% Laden,km,kg CO2e of CH4 per unit,0.00016
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,50% Laden,miles,kg CO2e of CH4 per unit,0.00026
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,km,kg CO2e of N2O per unit,0.00532
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,miles,kg CO2e of N2O per unit,0.00855
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,km,kg CO2e of N2O per unit,0.00648
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,miles,kg CO2e of N2O per unit,0.01043
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),50% Laden,km,kg CO2e of N2O per unit,0.01059
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),50% Laden,miles,kg CO2e of N2O per unit,0.01704
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,50% Laden,km,kg CO2e of N2O per unit,0.00888
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,50% Laden,miles,kg CO2e of N2O per unit,0.01429
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,km,kg CO2e of N2O per unit,0.01209
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),50% Laden,miles,kg CO2e of N2O per unit,0.01944
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),50% Laden,km,kg CO2e of N2O per unit,0.01438
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),50% Laden,miles,kg CO2e of N2O per unit,0.02314
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,50% Laden,km,kg CO2e of N2O per unit,0.01428
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,50% Laden,miles,kg CO2e of N2O per unit,0.02299
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,50% Laden,km,kg CO2e of N2O per unit,0.01195
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,50% Laden,miles,kg CO2e of N2O per unit,0.01923
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,km,kg CO2e,0.54068
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,miles,kg CO2e,0.87012
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,km,kg CO2e,0.70603
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,miles,kg CO2e,1.13625
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),100% Laden,km,kg CO2e,1.10905
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),100% Laden,miles,kg CO2e,1.78484
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,100% Laden,km,kg CO2e,0.93695
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,100% Laden,miles,kg CO2e,1.50787
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,km,kg CO2e,0.93552
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,miles,kg CO2e,1.50555
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),100% Laden,km,kg CO2e,1.06921
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),100% Laden,miles,kg CO2e,1.72072
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,100% Laden,km,kg CO2e,1.06414
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,100% Laden,miles,kg CO2e,1.71255
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,100% Laden,km,kg CO2e,1.01203
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,100% Laden,miles,kg CO2e,1.6287
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,km,kg CO2e of CO2 per unit,0.53525
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,miles,kg CO2e of CO2 per unit,0.86139
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,km,kg CO2e of CO2 per unit,0.69941
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,miles,kg CO2e of CO2 per unit,1.12559
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),100% Laden,km,kg CO2e of CO2 per unit,1.09823
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),100% Laden,miles,kg CO2e of CO2 per unit,1.76743
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,100% Laden,km,kg CO2e of CO2 per unit,0.92788
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,100% Laden,miles,kg CO2e of CO2 per unit,1.49328
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,km,kg CO2e of CO2 per unit,0.92331
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,miles,kg CO2e of CO2 per unit,1.48592
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),100% Laden,km,kg CO2e of CO2 per unit,1.05469
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),100% Laden,miles,kg CO2e of CO2 per unit,1.69736
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,100% Laden,km,kg CO2e of CO2 per unit,1.04971
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,100% Laden,miles,kg CO2e of CO2 per unit,1.68934
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,100% Laden,km,kg CO2e of CO2 per unit,0.99992
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,100% Laden,miles,kg CO2e of CO2 per unit,1.60922
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,km,kg CO2e of CH4 per unit,0.00011
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,miles,kg CO2e of CH4 per unit,0.00018
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,km,kg CO2e of CH4 per unit,0.00013
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),100% Laden,km,kg CO2e of CH4 per unit,0.00022
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),100% Laden,miles,kg CO2e of CH4 per unit,0.00037
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,100% Laden,km,kg CO2e of CH4 per unit,0.00019
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,100% Laden,miles,kg CO2e of CH4 per unit,0.0003
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,km,kg CO2e of CH4 per unit,0.00012
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,miles,kg CO2e of CH4 per unit,0.00019
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),100% Laden,km,kg CO2e of CH4 per unit,0.00015
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,100% Laden,km,kg CO2e of CH4 per unit,0.00016
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,100% Laden,miles,kg CO2e of CH4 per unit,0.00026
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,km,kg CO2e of N2O per unit,0.00532
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,miles,kg CO2e of N2O per unit,0.00855
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,km,kg CO2e of N2O per unit,0.00648
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,miles,kg CO2e of N2O per unit,0.01043
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),100% Laden,km,kg CO2e of N2O per unit,0.01059
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),100% Laden,miles,kg CO2e of N2O per unit,0.01704
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,100% Laden,km,kg CO2e of N2O per unit,0.00888
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,100% Laden,miles,kg CO2e of N2O per unit,0.01429
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,km,kg CO2e of N2O per unit,0.01209
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),100% Laden,miles,kg CO2e of N2O per unit,0.01944
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),100% Laden,km,kg CO2e of N2O per unit,0.01438
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),100% Laden,miles,kg CO2e of N2O per unit,0.02314
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,100% Laden,km,kg CO2e of N2O per unit,0.01428
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,100% Laden,miles,kg CO2e of N2O per unit,0.02299
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,100% Laden,km,kg CO2e of N2O per unit,0.01195
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,100% Laden,miles,kg CO2e of N2O per unit,0.01923
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,km,kg CO2e,0.49548
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,miles,kg CO2e,0.79738
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,km,kg CO2e,0.60501
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,miles,kg CO2e,0.97367
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),Average laden,km,kg CO2e,0.99156
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),Average laden,miles,kg CO2e,1.59575
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,Average laden,km,kg CO2e,0.83751
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,Average laden,miles,kg CO2e,1.34783
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,km,kg CO2e,0.78471
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,miles,kg CO2e,1.26285
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),Average laden,km,kg CO2e,0.93421
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),Average laden,miles,kg CO2e,1.50346
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,Average laden,km,kg CO2e,0.92854
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,Average laden,miles,kg CO2e,1.49432
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,Average laden,km,kg CO2e,0.89121
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,Average laden,miles,kg CO2e,1.43425
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,km,kg CO2e of CO2 per unit,0.49005
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,miles,kg CO2e of CO2 per unit,0.78865
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,km,kg CO2e of CO2 per unit,0.59839
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,miles,kg CO2e of CO2 per unit,0.96301
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),Average laden,km,kg CO2e of CO2 per unit,0.98074
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),Average laden,miles,kg CO2e of CO2 per unit,1.57834
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,Average laden,km,kg CO2e of CO2 per unit,0.82844
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,Average laden,miles,kg CO2e of CO2 per unit,1.33324
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,km,kg CO2e of CO2 per unit,0.7725
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,miles,kg CO2e of CO2 per unit,1.24322
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),Average laden,km,kg CO2e of CO2 per unit,0.91969
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),Average laden,miles,kg CO2e of CO2 per unit,1.4801
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,Average laden,km,kg CO2e of CO2 per unit,0.91411
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,Average laden,miles,kg CO2e of CO2 per unit,1.47111
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,Average laden,km,kg CO2e of CO2 per unit,0.8791
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,Average laden,miles,kg CO2e of CO2 per unit,1.41477
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,km,kg CO2e of CH4 per unit,0.00011
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,miles,kg CO2e of CH4 per unit,0.00018
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,km,kg CO2e of CH4 per unit,0.00013
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,miles,kg CO2e of CH4 per unit,0.00022
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),Average laden,km,kg CO2e of CH4 per unit,0.00022
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),Average laden,miles,kg CO2e of CH4 per unit,0.00037
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,Average laden,km,kg CO2e of CH4 per unit,0.00019
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,Average laden,miles,kg CO2e of CH4 per unit,0.0003
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,km,kg CO2e of CH4 per unit,0.00012
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,miles,kg CO2e of CH4 per unit,0.00019
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),Average laden,km,kg CO2e of CH4 per unit,0.00015
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),Average laden,miles,kg CO2e of CH4 per unit,0.00022
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,Average laden,km,kg CO2e of CH4 per unit,0.00015
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,Average laden,miles,kg CO2e of CH4 per unit,0.00022
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,Average laden,km,kg CO2e of CH4 per unit,0.00016
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,Average laden,miles,kg CO2e of CH4 per unit,0.00026
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,km,kg CO2e of N2O per unit,0.00532
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,miles,kg CO2e of N2O per unit,0.00855
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,km,kg CO2e of N2O per unit,0.00648
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,miles,kg CO2e of N2O per unit,0.01043
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),Average laden,km,kg CO2e of N2O per unit,0.01059
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),Average laden,miles,kg CO2e of N2O per unit,0.01704
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,Average laden,km,kg CO2e of N2O per unit,0.00888
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,Average laden,miles,kg CO2e of N2O per unit,0.01429
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,km,kg CO2e of N2O per unit,0.01209
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),Average laden,miles,kg CO2e of N2O per unit,0.01944
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),Average laden,km,kg CO2e of N2O per unit,0.01438
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),Average laden,miles,kg CO2e of N2O per unit,0.02314
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,Average laden,km,kg CO2e of N2O per unit,0.01428
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,Average laden,miles,kg CO2e of N2O per unit,0.02299
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,Average laden,km,kg CO2e of N2O per unit,0.01195
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,Average laden,miles,kg CO2e of N2O per unit,0.01923
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,km,kg CO2e,0.54937
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,miles,kg CO2e,0.88412
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,km,kg CO2e,0.65559
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,miles,kg CO2e,1.05508
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),0% Laden,km,kg CO2e,0.92128
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),0% Laden,miles,kg CO2e,1.48266
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,0% Laden,km,kg CO2e,0.80843
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,0% Laden,miles,kg CO2e,1.30103
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),0% Laden,km,kg CO2e,0.72566
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),0% Laden,miles,kg CO2e,1.16782
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),0% Laden,km,kg CO2e,0.748
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),0% Laden,miles,kg CO2e,1.20378
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,0% Laden,km,kg CO2e,0.74715
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,0% Laden,miles,kg CO2e,1.20241
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,0% Laden,km,kg CO2e,0.77175
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,0% Laden,miles,kg CO2e,1.242
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,km,kg CO2e of CO2 per unit,0.54394
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,miles,kg CO2e of CO2 per unit,0.87539
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,km,kg CO2e of CO2 per unit,0.64897
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,miles,kg CO2e of CO2 per unit,1.04442
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),0% Laden,km,kg CO2e of CO2 per unit,0.91046
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),0% Laden,miles,kg CO2e of CO2 per unit,1.46525
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,0% Laden,km,kg CO2e of CO2 per unit,0.79936
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,0% Laden,miles,kg CO2e of CO2 per unit,1.28644
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),0% Laden,km,kg CO2e of CO2 per unit,0.71345
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),0% Laden,miles,kg CO2e of CO2 per unit,1.14819
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),0% Laden,km,kg CO2e of CO2 per unit,0.73348
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),0% Laden,miles,kg CO2e of CO2 per unit,1.18042
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,0% Laden,km,kg CO2e of CO2 per unit,0.73272
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,0% Laden,miles,kg CO2e of CO2 per unit,1.1792
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,0% Laden,km,kg CO2e of CO2 per unit,0.75964
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,0% Laden,miles,kg CO2e of CO2 per unit,1.22252
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,km,kg CO2e of CH4 per unit,0.00011
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,miles,kg CO2e of CH4 per unit,0.00018
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,km,kg CO2e of CH4 per unit,0.00013
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),0% Laden,km,kg CO2e of CH4 per unit,0.00022
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),0% Laden,miles,kg CO2e of CH4 per unit,0.00037
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,0% Laden,km,kg CO2e of CH4 per unit,0.00019
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,0% Laden,miles,kg CO2e of CH4 per unit,0.0003
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),0% Laden,km,kg CO2e of CH4 per unit,0.00012
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),0% Laden,miles,kg CO2e of CH4 per unit,0.00019
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),0% Laden,km,kg CO2e of CH4 per unit,0.00015
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,0% Laden,km,kg CO2e of CH4 per unit,0.00016
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,0% Laden,miles,kg CO2e of CH4 per unit,0.00026
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,km,kg CO2e of N2O per unit,0.00532
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),0% Laden,miles,kg CO2e of N2O per unit,0.00855
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,km,kg CO2e of N2O per unit,0.00648
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),0% Laden,miles,kg CO2e of N2O per unit,0.01043
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),0% Laden,km,kg CO2e of N2O per unit,0.01059
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),0% Laden,miles,kg CO2e of N2O per unit,0.01704
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,0% Laden,km,kg CO2e of N2O per unit,0.00888
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,0% Laden,miles,kg CO2e of N2O per unit,0.01429
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),0% Laden,km,kg CO2e of N2O per unit,0.01209
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),0% Laden,miles,kg CO2e of N2O per unit,0.01944
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),0% Laden,km,kg CO2e of N2O per unit,0.01438
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),0% Laden,miles,kg CO2e of N2O per unit,0.02314
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,0% Laden,km,kg CO2e of N2O per unit,0.01428
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,0% Laden,miles,kg CO2e of N2O per unit,0.02299
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,0% Laden,km,kg CO2e of N2O per unit,0.01195
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,0% Laden,miles,kg CO2e of N2O per unit,0.01923
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,km,kg CO2e,0.59667
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,miles,kg CO2e,0.96024
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,km,kg CO2e,0.7483
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,miles,kg CO2e,1.20428
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,km,kg CO2e,1.12114
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,miles,kg CO2e,1.8043
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,50% Laden,km,kg CO2e,0.96223
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,50% Laden,miles,kg CO2e,1.54855
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,km,kg CO2e,0.90403
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,miles,kg CO2e,1.45487
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),50% Laden,km,kg CO2e,0.99249
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),50% Laden,miles,kg CO2e,1.59725
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,50% Laden,km,kg CO2e,0.98913
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,50% Laden,miles,kg CO2e,1.59184
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,50% Laden,km,kg CO2e,0.97835
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,50% Laden,miles,kg CO2e,1.5745
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,km,kg CO2e of CO2 per unit,0.59124
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,miles,kg CO2e of CO2 per unit,0.95151
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,km,kg CO2e of CO2 per unit,0.74168
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,miles,kg CO2e of CO2 per unit,1.19362
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,km,kg CO2e of CO2 per unit,1.11032
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,miles,kg CO2e of CO2 per unit,1.78689
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,50% Laden,km,kg CO2e of CO2 per unit,0.95316
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,50% Laden,miles,kg CO2e of CO2 per unit,1.53396
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,km,kg CO2e of CO2 per unit,0.89182
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,miles,kg CO2e of CO2 per unit,1.43524
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),50% Laden,km,kg CO2e of CO2 per unit,0.97797
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),50% Laden,miles,kg CO2e of CO2 per unit,1.57389
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,50% Laden,km,kg CO2e of CO2 per unit,0.9747
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,50% Laden,miles,kg CO2e of CO2 per unit,1.56863
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,50% Laden,km,kg CO2e of CO2 per unit,0.96624
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,50% Laden,miles,kg CO2e of CO2 per unit,1.55502
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,km,kg CO2e of CH4 per unit,0.00011
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,miles,kg CO2e of CH4 per unit,0.00018
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,km,kg CO2e of CH4 per unit,0.00013
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,km,kg CO2e of CH4 per unit,0.00022
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,miles,kg CO2e of CH4 per unit,0.00037
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,50% Laden,km,kg CO2e of CH4 per unit,0.00019
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,50% Laden,miles,kg CO2e of CH4 per unit,0.0003
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,km,kg CO2e of CH4 per unit,0.00012
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,miles,kg CO2e of CH4 per unit,0.00019
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),50% Laden,km,kg CO2e of CH4 per unit,0.00015
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,50% Laden,km,kg CO2e of CH4 per unit,0.00016
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,50% Laden,miles,kg CO2e of CH4 per unit,0.00026
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,km,kg CO2e of N2O per unit,0.00532
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),50% Laden,miles,kg CO2e of N2O per unit,0.00855
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,km,kg CO2e of N2O per unit,0.00648
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),50% Laden,miles,kg CO2e of N2O per unit,0.01043
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,km,kg CO2e of N2O per unit,0.01059
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),50% Laden,miles,kg CO2e of N2O per unit,0.01704
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,50% Laden,km,kg CO2e of N2O per unit,0.00888
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,50% Laden,miles,kg CO2e of N2O per unit,0.01429
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,km,kg CO2e of N2O per unit,0.01209
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),50% Laden,miles,kg CO2e of N2O per unit,0.01944
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),50% Laden,km,kg CO2e of N2O per unit,0.01438
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),50% Laden,miles,kg CO2e of N2O per unit,0.02314
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,50% Laden,km,kg CO2e of N2O per unit,0.01428
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,50% Laden,miles,kg CO2e of N2O per unit,0.02299
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,50% Laden,km,kg CO2e of N2O per unit,0.01195
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,50% Laden,miles,kg CO2e of N2O per unit,0.01923
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,km,kg CO2e,0.64397
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,miles,kg CO2e,1.03637
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,km,kg CO2e,0.84101
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,miles,kg CO2e,1.35348
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,km,kg CO2e,1.321
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,miles,kg CO2e,2.12594
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,100% Laden,km,kg CO2e,1.11603
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,100% Laden,miles,kg CO2e,1.79606
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,km,kg CO2e,1.08239
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,miles,kg CO2e,1.74192
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),100% Laden,km,kg CO2e,1.23699
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),100% Laden,miles,kg CO2e,1.99073
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,100% Laden,km,kg CO2e,1.23112
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,100% Laden,miles,kg CO2e,1.98128
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,100% Laden,km,kg CO2e,1.18495
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,100% Laden,miles,kg CO2e,1.90699
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,km,kg CO2e of CO2 per unit,0.63854
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,miles,kg CO2e of CO2 per unit,1.02764
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,km,kg CO2e of CO2 per unit,0.83439
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,miles,kg CO2e of CO2 per unit,1.34282
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,km,kg CO2e of CO2 per unit,1.31018
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,miles,kg CO2e of CO2 per unit,2.10853
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,100% Laden,km,kg CO2e of CO2 per unit,1.10696
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,100% Laden,miles,kg CO2e of CO2 per unit,1.78147
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,km,kg CO2e of CO2 per unit,1.07018
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,miles,kg CO2e of CO2 per unit,1.72229
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),100% Laden,km,kg CO2e of CO2 per unit,1.22247
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),100% Laden,miles,kg CO2e of CO2 per unit,1.96737
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,100% Laden,km,kg CO2e of CO2 per unit,1.21669
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,100% Laden,miles,kg CO2e of CO2 per unit,1.95807
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,100% Laden,km,kg CO2e of CO2 per unit,1.17284
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,100% Laden,miles,kg CO2e of CO2 per unit,1.88751
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,km,kg CO2e of CH4 per unit,0.00011
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,miles,kg CO2e of CH4 per unit,0.00018
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,km,kg CO2e of CH4 per unit,0.00013
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,km,kg CO2e of CH4 per unit,0.00022
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,miles,kg CO2e of CH4 per unit,0.00037
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,100% Laden,km,kg CO2e of CH4 per unit,0.00019
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,100% Laden,miles,kg CO2e of CH4 per unit,0.0003
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,km,kg CO2e of CH4 per unit,0.00012
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,miles,kg CO2e of CH4 per unit,0.00019
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),100% Laden,km,kg CO2e of CH4 per unit,0.00015
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,100% Laden,km,kg CO2e of CH4 per unit,0.00016
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,100% Laden,miles,kg CO2e of CH4 per unit,0.00026
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,km,kg CO2e of N2O per unit,0.00532
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),100% Laden,miles,kg CO2e of N2O per unit,0.00855
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,km,kg CO2e of N2O per unit,0.00648
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),100% Laden,miles,kg CO2e of N2O per unit,0.01043
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,km,kg CO2e of N2O per unit,0.01059
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),100% Laden,miles,kg CO2e of N2O per unit,0.01704
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,100% Laden,km,kg CO2e of N2O per unit,0.00888
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,100% Laden,miles,kg CO2e of N2O per unit,0.01429
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,km,kg CO2e of N2O per unit,0.01209
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),100% Laden,miles,kg CO2e of N2O per unit,0.01944
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),100% Laden,km,kg CO2e of N2O per unit,0.01438
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),100% Laden,miles,kg CO2e of N2O per unit,0.02314
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,100% Laden,km,kg CO2e of N2O per unit,0.01428
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,100% Laden,miles,kg CO2e of N2O per unit,0.02299
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,100% Laden,km,kg CO2e of N2O per unit,0.01195
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,100% Laden,miles,kg CO2e of N2O per unit,0.01923
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,km,kg CO2e,0.59005
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,miles,kg CO2e,0.94959
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,km,kg CO2e,0.72049
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,miles,kg CO2e,1.15952
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),Average laden,km,kg CO2e,1.18083
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),Average laden,miles,kg CO2e,1.90036
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,Average laden,km,kg CO2e,0.99739
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,Average laden,miles,kg CO2e,1.60513
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,km,kg CO2e,0.90759
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,miles,kg CO2e,1.46061
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),Average laden,km,kg CO2e,1.08051
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),Average laden,miles,kg CO2e,1.7389
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,Average laden,km,kg CO2e,1.07395
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,Average laden,miles,kg CO2e,1.72834
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,Average laden,km,kg CO2e,1.04323
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,Average laden,miles,kg CO2e,1.67891
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,km,kg CO2e of CO2 per unit,0.58462
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,miles,kg CO2e of CO2 per unit,0.94086
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,km,kg CO2e of CO2 per unit,0.71387
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,miles,kg CO2e of CO2 per unit,1.14886
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),Average laden,km,kg CO2e of CO2 per unit,1.17001
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),Average laden,miles,kg CO2e of CO2 per unit,1.88295
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,Average laden,km,kg CO2e of CO2 per unit,0.98832
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,Average laden,miles,kg CO2e of CO2 per unit,1.59054
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,km,kg CO2e of CO2 per unit,0.89538
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,miles,kg CO2e of CO2 per unit,1.44098
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),Average laden,km,kg CO2e of CO2 per unit,1.06599
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),Average laden,miles,kg CO2e of CO2 per unit,1.71554
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,Average laden,km,kg CO2e of CO2 per unit,1.05952
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,Average laden,miles,kg CO2e of CO2 per unit,1.70513
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,Average laden,km,kg CO2e of CO2 per unit,1.03112
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,Average laden,miles,kg CO2e of CO2 per unit,1.65943
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,km,kg CO2e of CH4 per unit,0.00011
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,miles,kg CO2e of CH4 per unit,0.00018
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,km,kg CO2e of CH4 per unit,0.00013
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,miles,kg CO2e of CH4 per unit,0.00022
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),Average laden,km,kg CO2e of CH4 per unit,0.00022
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),Average laden,miles,kg CO2e of CH4 per unit,0.00037
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,Average laden,km,kg CO2e of CH4 per unit,0.00019
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,Average laden,miles,kg CO2e of CH4 per unit,0.0003
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,km,kg CO2e of CH4 per unit,0.00012
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,miles,kg CO2e of CH4 per unit,0.00019
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),Average laden,km,kg CO2e of CH4 per unit,0.00015
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),Average laden,miles,kg CO2e of CH4 per unit,0.00022
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,Average laden,km,kg CO2e of CH4 per unit,0.00015
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,Average laden,miles,kg CO2e of CH4 per unit,0.00022
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,Average laden,km,kg CO2e of CH4 per unit,0.00016
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,Average laden,miles,kg CO2e of CH4 per unit,0.00026
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,km,kg CO2e of N2O per unit,0.00532
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),Average laden,miles,kg CO2e of N2O per unit,0.00855
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,km,kg CO2e of N2O per unit,0.00648
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),Average laden,miles,kg CO2e of N2O per unit,0.01043
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),Average laden,km,kg CO2e of N2O per unit,0.01059
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),Average laden,miles,kg CO2e of N2O per unit,0.01704
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,Average laden,km,kg CO2e of N2O per unit,0.00888
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,Average laden,miles,kg CO2e of N2O per unit,0.01429
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,km,kg CO2e of N2O per unit,0.01209
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),Average laden,miles,kg CO2e of N2O per unit,0.01944
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),Average laden,km,kg CO2e of N2O per unit,0.01438
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),Average laden,miles,kg CO2e of N2O per unit,0.02314
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,Average laden,km,kg CO2e of N2O per unit,0.01428
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,Average laden,miles,kg CO2e of N2O per unit,0.02299
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,Average laden,km,kg CO2e of N2O per unit,0.01195
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,Average laden,miles,kg CO2e of N2O per unit,0.01923

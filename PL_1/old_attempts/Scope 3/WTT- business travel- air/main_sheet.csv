@@ -1,0 +1,15 @@
+index,Scope,Level 1,Activity,Haul,Class,Unit
+31210,Scope 3,WTT- business travel- air,WTT- flights,"Domestic, to/from UK",Average passenger,passenger.km
+31211,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Average passenger,passenger.km
+31212,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Economy class,passenger.km
+31213,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Business class,passenger.km
+31214,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Average passenger,passenger.km
+31215,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Economy class,passenger.km
+31216,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Premium economy class,passenger.km
+31217,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Business class,passenger.km
+31218,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",First class,passenger.km
+31219,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Average passenger,passenger.km
+312110,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Economy class,passenger.km
+312111,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Premium economy class,passenger.km
+312112,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Business class,passenger.km
+312113,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",First class,passenger.km

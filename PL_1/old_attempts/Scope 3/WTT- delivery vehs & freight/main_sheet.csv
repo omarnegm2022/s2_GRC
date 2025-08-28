@@ -1,0 +1,119 @@
+index,Scope,Level 1,Activity,Type,Unit,Size
+3210,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class I (up to 1.305 tonnes),tonne.km,
+3211,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class I (up to 1.305 tonnes),km,
+3212,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class I (up to 1.305 tonnes),miles,
+3213,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class II (1.305 to 1.74 tonnes),tonne.km,
+3214,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class II (1.305 to 1.74 tonnes),km,
+3215,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class II (1.305 to 1.74 tonnes),miles,
+3216,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class III (1.74 to 3.5 tonnes),tonne.km,
+3217,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class III (1.74 to 3.5 tonnes),km,
+3218,Scope 3,WTT- delivery vehs & freight,WTT- vans,Class III (1.74 to 3.5 tonnes),miles,
+3219,Scope 3,WTT- delivery vehs & freight,WTT- vans,Average (up to 3.5 tonnes),tonne.km,
+32110,Scope 3,WTT- delivery vehs & freight,WTT- vans,Average (up to 3.5 tonnes),km,
+32111,Scope 3,WTT- delivery vehs & freight,WTT- vans,Average (up to 3.5 tonnes),miles,
+3220,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),tonne.km,
+3221,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),km,
+3222,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),miles,
+3223,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),tonne.km,
+3224,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),km,
+3225,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),miles,
+3226,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>17 tonnes),tonne.km,
+3227,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>17 tonnes),km,
+3228,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Rigid (>17 tonnes),miles,
+3229,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All rigids,tonne.km,
+32210,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All rigids,km,
+32211,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All rigids,miles,
+32212,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Articulated (>3.5 - 33t),tonne.km,
+32213,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Articulated (>3.5 - 33t),km,
+32214,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Articulated (>3.5 - 33t),miles,
+32215,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Articulated (>33t),tonne.km,
+32216,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Articulated (>33t),km,
+32217,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),Articulated (>33t),miles,
+32218,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All artics,tonne.km,
+32219,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All artics,km,
+32220,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All artics,miles,
+32221,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All HGVs,tonne.km,
+32222,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All HGVs,km,
+32223,Scope 3,WTT- delivery vehs & freight,WTT- HGV (all diesel),All HGVs,miles,
+3230,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),tonne.km,
+3231,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),km,
+3232,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),miles,
+3233,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),tonne.km,
+3234,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),km,
+3235,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),miles,
+3236,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>17 tonnes),tonne.km,
+3237,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>17 tonnes),km,
+3238,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Rigid (>17 tonnes),miles,
+3239,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All rigids,tonne.km,
+32310,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All rigids,km,
+32311,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All rigids,miles,
+32312,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Articulated (>3.5 - 33t),tonne.km,
+32313,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Articulated (>3.5 - 33t),km,
+32314,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Articulated (>3.5 - 33t),miles,
+32315,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Articulated (>33t),tonne.km,
+32316,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Articulated (>33t),km,
+32317,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),Articulated (>33t),miles,
+32318,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All artics,tonne.km,
+32319,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All artics,km,
+32320,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All artics,miles,
+32321,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All HGVs,tonne.km,
+32322,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All HGVs,km,
+32323,Scope 3,WTT- delivery vehs & freight,WTT- HGV refrigerated (all diesel),All HGVs,miles,
+3240,Scope 3,WTT- delivery vehs & freight,WTT- freight flights,"Domestic, to/from UK",tonne.km,
+3241,Scope 3,WTT- delivery vehs & freight,WTT- freight flights,"Short-haul, to/from UK",tonne.km,
+3242,Scope 3,WTT- delivery vehs & freight,WTT- freight flights,"Long-haul, to/from UK",tonne.km,
+3243,Scope 3,WTT- delivery vehs & freight,WTT- freight flights,"International, to/from non-UK",tonne.km,
+3250,Scope 3,WTT- delivery vehs & freight,WTT- rail,Freight train,tonne.km,
+3260,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Crude tanker,tonne.km,"200,000+ dwt"
+3261,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Crude tanker,tonne.km,"120,000–199,999 dwt"
+3262,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Crude tanker,tonne.km,"80,000–119,999 dwt"
+3263,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Crude tanker,tonne.km,"60,000–79,999 dwt"
+3264,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Crude tanker,tonne.km,"10,000–59,999 dwt"
+3265,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Crude tanker,tonne.km,0–9999 dwt
+3266,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Crude tanker,tonne.km,Average
+3267,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Products tanker ,tonne.km,"60,000+ dwt"
+3268,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Products tanker ,tonne.km,"20,000–59,999 dwt"
+3269,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Products tanker ,tonne.km,"10,000–19,999 dwt"
+32610,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Products tanker ,tonne.km,5000–9999 dwt
+32611,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Products tanker ,tonne.km,0–4999 dwt
+32612,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Products tanker ,tonne.km,Average
+32613,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Chemical tanker ,tonne.km,"20,000+ dwt"
+32614,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Chemical tanker ,tonne.km,"10,000–19,999 dwt"
+32615,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Chemical tanker ,tonne.km,5000–9999 dwt
+32616,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Chemical tanker ,tonne.km,0–4999 dwt
+32617,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,Chemical tanker ,tonne.km,Average
+32618,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,LNG tanker,tonne.km,"200,000+ m3"
+32619,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,LNG tanker,tonne.km,"0–199,999 m3"
+32620,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,LNG tanker,tonne.km,Average
+32621,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,LPG tanker,tonne.km,"50,000+ m3"
+32622,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,LPG tanker,tonne.km,"0–49,999 m3"
+32623,Scope 3,WTT- delivery vehs & freight,WTT- sea tanker,LPG tanker,tonne.km,Average
+3270,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Bulk carrier,tonne.km,"200,000+ dwt"
+3271,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Bulk carrier,tonne.km,"100,000–199,999 dwt"
+3272,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Bulk carrier,tonne.km,"60,000–99,999 dwt"
+3273,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Bulk carrier,tonne.km,"35,000–59,999 dwt"
+3274,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Bulk carrier,tonne.km,"10,000–34,999 dwt"
+3275,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Bulk carrier,tonne.km,0–9999 dwt
+3276,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Bulk carrier,tonne.km,Average
+3277,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,General cargo,tonne.km,"10,000+ dwt"
+3278,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,General cargo,tonne.km,5000–9999 dwt
+3279,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,General cargo,tonne.km,0–4999 dwt
+32710,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,General cargo,tonne.km,"10,000+ dwt 100+ TEU"
+32711,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,General cargo,tonne.km,5000–9999 dwt 100+ TEU
+32712,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,General cargo,tonne.km,0–4999 dwt 100+ TEU
+32713,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,General cargo,tonne.km,Average
+32714,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Container ship,tonne.km,8000+ TEU
+32715,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Container ship,tonne.km,5000–7999 TEU
+32716,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Container ship,tonne.km,3000–4999 TEU
+32717,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Container ship,tonne.km,2000–2999 TEU
+32718,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Container ship,tonne.km,1000–1999 TEU
+32719,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Container ship,tonne.km,0–999 TEU
+32720,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Container ship,tonne.km,Average
+32721,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Vehicle transport,tonne.km,4000+ CEU
+32722,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Vehicle transport,tonne.km,0–3999 CEU
+32723,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Vehicle transport,tonne.km,Average
+32724,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,RoRo-Ferry,tonne.km,2000+ LM
+32725,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,RoRo-Ferry,tonne.km,0–1999 LM
+32726,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,RoRo-Ferry,tonne.km,Average
+32727,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Large RoPax ferry,tonne.km,Average
+32728,Scope 3,WTT- delivery vehs & freight,WTT- cargo ship,Refrigerated cargo,tonne.km, All dwt

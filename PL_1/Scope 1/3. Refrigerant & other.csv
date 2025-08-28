@@ -1,0 +1,502 @@
+index,Scope,Level 1,Activity,Emission,Last level,UOM,GHG/Unit,GHG Conversion Factor
+1310,Scope 1,Refrigerant & other,Kyoto protocol products,Carbon dioxide,Emissions including only Kyoto products,kg,kg CO2e,1.0
+1311,Scope 1,Refrigerant & other,Kyoto protocol products,Methane,Emissions including only Kyoto products,kg,kg CO2e,28.0
+1312,Scope 1,Refrigerant & other,Kyoto protocol products,Nitrous oxide,Emissions including only Kyoto products,kg,kg CO2e,265.0
+1313,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-23,Emissions including only Kyoto products,kg,kg CO2e,12400.0
+1314,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-32,Emissions including only Kyoto products,kg,kg CO2e,677.0
+1315,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-41,Emissions including only Kyoto products,kg,kg CO2e,116.0
+1316,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-125,Emissions including only Kyoto products,kg,kg CO2e,3170.0
+1317,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-134,Emissions including only Kyoto products,kg,kg CO2e,1120.0
+1318,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-134a,Emissions including only Kyoto products,kg,kg CO2e,1300.0
+1319,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-143,Emissions including only Kyoto products,kg,kg CO2e,328.0
+13110,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-143a,Emissions including only Kyoto products,kg,kg CO2e,4800.0
+13111,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-152a,Emissions including only Kyoto products,kg,kg CO2e,138.0
+13112,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-227ea,Emissions including only Kyoto products,kg,kg CO2e,3350.0
+13113,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236fa,Emissions including only Kyoto products,kg,kg CO2e,8060.0
+13114,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-245fa,Emissions including only Kyoto products,kg,kg CO2e,858.0
+13115,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-43-I0mee,Emissions including only Kyoto products,kg,kg CO2e,1650.0
+13116,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoromethane (PFC-14),Emissions including only Kyoto products,kg,kg CO2e,6630.0
+13117,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoroethane (PFC-116),Emissions including only Kyoto products,kg,kg CO2e,11100.0
+13118,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoropropane (PFC-218),Emissions including only Kyoto products,kg,kg CO2e,8900.0
+13119,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorocyclobutane (PFC-318),Emissions including only Kyoto products,kg,kg CO2e,9540.0
+13120,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorobutane (PFC-3-1-10),Emissions including only Kyoto products,kg,kg CO2e,9200.0
+13121,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoropentane (PFC-4-1-12),Emissions including only Kyoto products,kg,kg CO2e,8550.0
+13122,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorohexane (PFC-5-1-14),Emissions including only Kyoto products,kg,kg CO2e,7910.0
+13123,Scope 1,Refrigerant & other,Kyoto protocol products,PFC-9-1-18,Emissions including only Kyoto products,kg,kg CO2e,7190.0
+13124,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorocyclopropane,Emissions including only Kyoto products,kg,kg CO2e,9200.0
+13125,Scope 1,Refrigerant & other,Kyoto protocol products,Sulphur hexafluoride (SF6),Emissions including only Kyoto products,kg,kg CO2e,23500.0
+13126,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-152,Emissions including only Kyoto products,kg,kg CO2e,16.0
+13127,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-161,Emissions including only Kyoto products,kg,kg CO2e,4.0
+13128,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236cb,Emissions including only Kyoto products,kg,kg CO2e,1210.0
+13129,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236ea,Emissions including only Kyoto products,kg,kg CO2e,1330.0
+13130,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-245ca,Emissions including only Kyoto products,kg,kg CO2e,716.0
+13131,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-365mfc,Emissions including only Kyoto products,kg,kg CO2e,804.0
+13132,Scope 1,Refrigerant & other,Kyoto protocol products,Nitrogen trifluoride,Emissions including only Kyoto products,kg,kg CO2e,16100.0
+1310,Scope 1,Refrigerant & other,Kyoto protocol products,Carbon dioxide,Emissions including only non-Kyoto products,kg,kg CO2e,
+1311,Scope 1,Refrigerant & other,Kyoto protocol products,Methane,Emissions including only non-Kyoto products,kg,kg CO2e,
+1312,Scope 1,Refrigerant & other,Kyoto protocol products,Nitrous oxide,Emissions including only non-Kyoto products,kg,kg CO2e,
+1313,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-23,Emissions including only non-Kyoto products,kg,kg CO2e,
+1314,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-32,Emissions including only non-Kyoto products,kg,kg CO2e,
+1315,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-41,Emissions including only non-Kyoto products,kg,kg CO2e,
+1316,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-125,Emissions including only non-Kyoto products,kg,kg CO2e,
+1317,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-134,Emissions including only non-Kyoto products,kg,kg CO2e,
+1318,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-134a,Emissions including only non-Kyoto products,kg,kg CO2e,
+1319,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-143,Emissions including only non-Kyoto products,kg,kg CO2e,
+13110,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-143a,Emissions including only non-Kyoto products,kg,kg CO2e,
+13111,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-152a,Emissions including only non-Kyoto products,kg,kg CO2e,
+13112,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-227ea,Emissions including only non-Kyoto products,kg,kg CO2e,
+13113,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236fa,Emissions including only non-Kyoto products,kg,kg CO2e,
+13114,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-245fa,Emissions including only non-Kyoto products,kg,kg CO2e,
+13115,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-43-I0mee,Emissions including only non-Kyoto products,kg,kg CO2e,
+13116,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoromethane (PFC-14),Emissions including only non-Kyoto products,kg,kg CO2e,
+13117,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoroethane (PFC-116),Emissions including only non-Kyoto products,kg,kg CO2e,
+13118,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoropropane (PFC-218),Emissions including only non-Kyoto products,kg,kg CO2e,
+13119,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorocyclobutane (PFC-318),Emissions including only non-Kyoto products,kg,kg CO2e,
+13120,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorobutane (PFC-3-1-10),Emissions including only non-Kyoto products,kg,kg CO2e,
+13121,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoropentane (PFC-4-1-12),Emissions including only non-Kyoto products,kg,kg CO2e,
+13122,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorohexane (PFC-5-1-14),Emissions including only non-Kyoto products,kg,kg CO2e,
+13123,Scope 1,Refrigerant & other,Kyoto protocol products,PFC-9-1-18,Emissions including only non-Kyoto products,kg,kg CO2e,
+13124,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorocyclopropane,Emissions including only non-Kyoto products,kg,kg CO2e,
+13125,Scope 1,Refrigerant & other,Kyoto protocol products,Sulphur hexafluoride (SF6),Emissions including only non-Kyoto products,kg,kg CO2e,
+13126,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-152,Emissions including only non-Kyoto products,kg,kg CO2e,
+13127,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-161,Emissions including only non-Kyoto products,kg,kg CO2e,
+13128,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236cb,Emissions including only non-Kyoto products,kg,kg CO2e,
+13129,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236ea,Emissions including only non-Kyoto products,kg,kg CO2e,
+13130,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-245ca,Emissions including only non-Kyoto products,kg,kg CO2e,
+13131,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-365mfc,Emissions including only non-Kyoto products,kg,kg CO2e,
+13132,Scope 1,Refrigerant & other,Kyoto protocol products,Nitrogen trifluoride,Emissions including only non-Kyoto products,kg,kg CO2e,
+1310,Scope 1,Refrigerant & other,Kyoto protocol products,Carbon dioxide,Total emissions including non-Kyoto products,kg,kg CO2e,1.0
+1311,Scope 1,Refrigerant & other,Kyoto protocol products,Methane,Total emissions including non-Kyoto products,kg,kg CO2e,28.0
+1312,Scope 1,Refrigerant & other,Kyoto protocol products,Nitrous oxide,Total emissions including non-Kyoto products,kg,kg CO2e,265.0
+1313,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-23,Total emissions including non-Kyoto products,kg,kg CO2e,12400.0
+1314,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-32,Total emissions including non-Kyoto products,kg,kg CO2e,677.0
+1315,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-41,Total emissions including non-Kyoto products,kg,kg CO2e,116.0
+1316,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-125,Total emissions including non-Kyoto products,kg,kg CO2e,3170.0
+1317,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-134,Total emissions including non-Kyoto products,kg,kg CO2e,1120.0
+1318,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-134a,Total emissions including non-Kyoto products,kg,kg CO2e,1300.0
+1319,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-143,Total emissions including non-Kyoto products,kg,kg CO2e,328.0
+13110,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-143a,Total emissions including non-Kyoto products,kg,kg CO2e,4800.0
+13111,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-152a,Total emissions including non-Kyoto products,kg,kg CO2e,138.0
+13112,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-227ea,Total emissions including non-Kyoto products,kg,kg CO2e,3350.0
+13113,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236fa,Total emissions including non-Kyoto products,kg,kg CO2e,8060.0
+13114,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-245fa,Total emissions including non-Kyoto products,kg,kg CO2e,858.0
+13115,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-43-I0mee,Total emissions including non-Kyoto products,kg,kg CO2e,1650.0
+13116,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoromethane (PFC-14),Total emissions including non-Kyoto products,kg,kg CO2e,6630.0
+13117,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoroethane (PFC-116),Total emissions including non-Kyoto products,kg,kg CO2e,11100.0
+13118,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoropropane (PFC-218),Total emissions including non-Kyoto products,kg,kg CO2e,8900.0
+13119,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorocyclobutane (PFC-318),Total emissions including non-Kyoto products,kg,kg CO2e,9540.0
+13120,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorobutane (PFC-3-1-10),Total emissions including non-Kyoto products,kg,kg CO2e,9200.0
+13121,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluoropentane (PFC-4-1-12),Total emissions including non-Kyoto products,kg,kg CO2e,8550.0
+13122,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorohexane (PFC-5-1-14),Total emissions including non-Kyoto products,kg,kg CO2e,7910.0
+13123,Scope 1,Refrigerant & other,Kyoto protocol products,PFC-9-1-18,Total emissions including non-Kyoto products,kg,kg CO2e,7190.0
+13124,Scope 1,Refrigerant & other,Kyoto protocol products,Perfluorocyclopropane,Total emissions including non-Kyoto products,kg,kg CO2e,9200.0
+13125,Scope 1,Refrigerant & other,Kyoto protocol products,Sulphur hexafluoride (SF6),Total emissions including non-Kyoto products,kg,kg CO2e,23500.0
+13126,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-152,Total emissions including non-Kyoto products,kg,kg CO2e,16.0
+13127,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-161,Total emissions including non-Kyoto products,kg,kg CO2e,4.0
+13128,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236cb,Total emissions including non-Kyoto products,kg,kg CO2e,1210.0
+13129,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-236ea,Total emissions including non-Kyoto products,kg,kg CO2e,1330.0
+13130,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-245ca,Total emissions including non-Kyoto products,kg,kg CO2e,716.0
+13131,Scope 1,Refrigerant & other,Kyoto protocol products,HFC-365mfc,Total emissions including non-Kyoto products,kg,kg CO2e,804.0
+13132,Scope 1,Refrigerant & other,Kyoto protocol products,Nitrogen trifluoride,Total emissions including non-Kyoto products,kg,kg CO2e,16100.0
+1320,Scope 1,Refrigerant & other,Blends,R401A,Emissions including only Kyoto products,kg,kg CO2e,18.0
+1321,Scope 1,Refrigerant & other,Blends,R401B,Emissions including only Kyoto products,kg,kg CO2e,15.0
+1322,Scope 1,Refrigerant & other,Blends,R401C,Emissions including only Kyoto products,kg,kg CO2e,21.0
+1323,Scope 1,Refrigerant & other,Blends,R402A,Emissions including only Kyoto products,kg,kg CO2e,1902.0
+1324,Scope 1,Refrigerant & other,Blends,R402B,Emissions including only Kyoto products,kg,kg CO2e,1205.0
+1325,Scope 1,Refrigerant & other,Blends,R403A,Emissions including only Kyoto products,kg,kg CO2e,1780.0
+1326,Scope 1,Refrigerant & other,Blends,R403B,Emissions including only Kyoto products,kg,kg CO2e,3471.0
+1327,Scope 1,Refrigerant & other,Blends,R404A,Emissions including only Kyoto products,kg,kg CO2e,3943.0
+1328,Scope 1,Refrigerant & other,Blends,R405A,Emissions including only Kyoto products,kg,kg CO2e,3920.0
+1329,Scope 1,Refrigerant & other,Blends,R406A,Emissions including only Kyoto products,kg,kg CO2e,
+13210,Scope 1,Refrigerant & other,Blends,R407A,Emissions including only Kyoto products,kg,kg CO2e,1923.0
+13211,Scope 1,Refrigerant & other,Blends,R407B,Emissions including only Kyoto products,kg,kg CO2e,2547.0
+13212,Scope 1,Refrigerant & other,Blends,R407C,Emissions including only Kyoto products,kg,kg CO2e,1624.0
+13213,Scope 1,Refrigerant & other,Blends,R407D,Emissions including only Kyoto products,kg,kg CO2e,1487.0
+13214,Scope 1,Refrigerant & other,Blends,R407E,Emissions including only Kyoto products,kg,kg CO2e,1425.0
+13215,Scope 1,Refrigerant & other,Blends,R407F,Emissions including only Kyoto products,kg,kg CO2e,1674.0
+13216,Scope 1,Refrigerant & other,Blends,R408A,Emissions including only Kyoto products,kg,kg CO2e,2430.0
+13217,Scope 1,Refrigerant & other,Blends,R409A,Emissions including only Kyoto products,kg,kg CO2e,
+13218,Scope 1,Refrigerant & other,Blends,R409B,Emissions including only Kyoto products,kg,kg CO2e,
+13219,Scope 1,Refrigerant & other,Blends,R410A,Emissions including only Kyoto products,kg,kg CO2e,1924.0
+13220,Scope 1,Refrigerant & other,Blends,R410B,Emissions including only Kyoto products,kg,kg CO2e,2048.0
+13221,Scope 1,Refrigerant & other,Blends,R411A,Emissions including only Kyoto products,kg,kg CO2e,15.0
+13222,Scope 1,Refrigerant & other,Blends,R411B,Emissions including only Kyoto products,kg,kg CO2e,4.0
+13223,Scope 1,Refrigerant & other,Blends,R412A,Emissions including only Kyoto products,kg,kg CO2e,445.0
+13224,Scope 1,Refrigerant & other,Blends,R413A,Emissions including only Kyoto products,kg,kg CO2e,1945.0
+13225,Scope 1,Refrigerant & other,Blends,R414A,Emissions including only Kyoto products,kg,kg CO2e,
+13226,Scope 1,Refrigerant & other,Blends,R414B,Emissions including only Kyoto products,kg,kg CO2e,
+13227,Scope 1,Refrigerant & other,Blends,R415A,Emissions including only Kyoto products,kg,kg CO2e,25.0
+13228,Scope 1,Refrigerant & other,Blends,R415B,Emissions including only Kyoto products,kg,kg CO2e,104.0
+13229,Scope 1,Refrigerant & other,Blends,R416A,Emissions including only Kyoto products,kg,kg CO2e,767.0
+13230,Scope 1,Refrigerant & other,Blends,R417A,Emissions including only Kyoto products,kg,kg CO2e,2127.0
+13231,Scope 1,Refrigerant & other,Blends,R417B,Emissions including only Kyoto products,kg,kg CO2e,2742.0
+13232,Scope 1,Refrigerant & other,Blends,R417C,Emissions including only Kyoto products,kg,kg CO2e,1643.0
+13233,Scope 1,Refrigerant & other,Blends,R418A,Emissions including only Kyoto products,kg,kg CO2e,3.0
+13234,Scope 1,Refrigerant & other,Blends,R419A,Emissions including only Kyoto products,kg,kg CO2e,2688.0
+13235,Scope 1,Refrigerant & other,Blends,R419B,Emissions including only Kyoto products,kg,kg CO2e,2161.0
+13236,Scope 1,Refrigerant & other,Blends,R420A,Emissions including only Kyoto products,kg,kg CO2e,1144.0
+13237,Scope 1,Refrigerant & other,Blends,R421A,Emissions including only Kyoto products,kg,kg CO2e,2385.0
+13238,Scope 1,Refrigerant & other,Blends,R421B,Emissions including only Kyoto products,kg,kg CO2e,2890.0
+13239,Scope 1,Refrigerant & other,Blends,R422A,Emissions including only Kyoto products,kg,kg CO2e,2847.0
+13240,Scope 1,Refrigerant & other,Blends,R422B,Emissions including only Kyoto products,kg,kg CO2e,2290.0
+13241,Scope 1,Refrigerant & other,Blends,R422C,Emissions including only Kyoto products,kg,kg CO2e,2794.0
+13242,Scope 1,Refrigerant & other,Blends,R422D,Emissions including only Kyoto products,kg,kg CO2e,2473.0
+13243,Scope 1,Refrigerant & other,Blends,R422E,Emissions including only Kyoto products,kg,kg CO2e,2350.0
+13244,Scope 1,Refrigerant & other,Blends,R423A,Emissions including only Kyoto products,kg,kg CO2e,2274.0
+13245,Scope 1,Refrigerant & other,Blends,R424A,Emissions including only Kyoto products,kg,kg CO2e,2212.0
+13246,Scope 1,Refrigerant & other,Blends,R425A,Emissions including only Kyoto products,kg,kg CO2e,1431.0
+13247,Scope 1,Refrigerant & other,Blends,R426A,Emissions including only Kyoto products,kg,kg CO2e,1371.0
+13248,Scope 1,Refrigerant & other,Blends,R427A,Emissions including only Kyoto products,kg,kg CO2e,2024.0
+13249,Scope 1,Refrigerant & other,Blends,R428A,Emissions including only Kyoto products,kg,kg CO2e,3417.0
+13250,Scope 1,Refrigerant & other,Blends,R429A,Emissions including only Kyoto products,kg,kg CO2e,13.8
+13251,Scope 1,Refrigerant & other,Blends,R430A,Emissions including only Kyoto products,kg,kg CO2e,105.0
+13252,Scope 1,Refrigerant & other,Blends,R431A,Emissions including only Kyoto products,kg,kg CO2e,40.0
+13253,Scope 1,Refrigerant & other,Blends,R432A,Emissions including only Kyoto products,kg,kg CO2e,
+13254,Scope 1,Refrigerant & other,Blends,R433A,Emissions including only Kyoto products,kg,kg CO2e,
+13255,Scope 1,Refrigerant & other,Blends,R433B,Emissions including only Kyoto products,kg,kg CO2e,
+13256,Scope 1,Refrigerant & other,Blends,R433C,Emissions including only Kyoto products,kg,kg CO2e,
+13257,Scope 1,Refrigerant & other,Blends,R434A,Emissions including only Kyoto products,kg,kg CO2e,3075.0
+13258,Scope 1,Refrigerant & other,Blends,R435A,Emissions including only Kyoto products,kg,kg CO2e,27.6
+13259,Scope 1,Refrigerant & other,Blends,R436A,Emissions including only Kyoto products,kg,kg CO2e,
+13260,Scope 1,Refrigerant & other,Blends,R436B,Emissions including only Kyoto products,kg,kg CO2e,
+13261,Scope 1,Refrigerant & other,Blends,R437A,Emissions including only Kyoto products,kg,kg CO2e,1639.0
+13262,Scope 1,Refrigerant & other,Blends,R438A,Emissions including only Kyoto products,kg,kg CO2e,2059.0
+13263,Scope 1,Refrigerant & other,Blends,R439A,Emissions including only Kyoto products,kg,kg CO2e,1828.0
+13264,Scope 1,Refrigerant & other,Blends,R440A,Emissions including only Kyoto products,kg,kg CO2e,156.0
+13265,Scope 1,Refrigerant & other,Blends,R441A,Emissions including only Kyoto products,kg,kg CO2e,
+13266,Scope 1,Refrigerant & other,Blends,R442A,Emissions including only Kyoto products,kg,kg CO2e,1754.0
+13267,Scope 1,Refrigerant & other,Blends,R443A,Emissions including only Kyoto products,kg,kg CO2e,
+13268,Scope 1,Refrigerant & other,Blends,R444A,Emissions including only Kyoto products,kg,kg CO2e,88.0
+13269,Scope 1,Refrigerant & other,Blends,R445A,Emissions including only Kyoto products,kg,kg CO2e,117.0
+13270,Scope 1,Refrigerant & other,Blends,R500,Emissions including only Kyoto products,kg,kg CO2e,36.0
+13271,Scope 1,Refrigerant & other,Blends,R501,Emissions including only Kyoto products,kg,kg CO2e,
+13272,Scope 1,Refrigerant & other,Blends,R502,Emissions including only Kyoto products,kg,kg CO2e,
+13273,Scope 1,Refrigerant & other,Blends,R503,Emissions including only Kyoto products,kg,kg CO2e,4972.0
+13274,Scope 1,Refrigerant & other,Blends,R504,Emissions including only Kyoto products,kg,kg CO2e,326.0
+13275,Scope 1,Refrigerant & other,Blends,R505,Emissions including only Kyoto products,kg,kg CO2e,
+13276,Scope 1,Refrigerant & other,Blends,R506,Emissions including only Kyoto products,kg,kg CO2e,
+13277,Scope 1,Refrigerant & other,Blends,R507A,Emissions including only Kyoto products,kg,kg CO2e,3985.0
+13278,Scope 1,Refrigerant & other,Blends,R508A,Emissions including only Kyoto products,kg,kg CO2e,11607.0
+13279,Scope 1,Refrigerant & other,Blends,R508B,Emissions including only Kyoto products,kg,kg CO2e,11698.0
+13280,Scope 1,Refrigerant & other,Blends,R509A,Emissions including only Kyoto products,kg,kg CO2e,4984.0
+13281,Scope 1,Refrigerant & other,Blends,R510A,Emissions including only Kyoto products,kg,kg CO2e,
+13282,Scope 1,Refrigerant & other,Blends,R511A,Emissions including only Kyoto products,kg,kg CO2e,6.9
+13283,Scope 1,Refrigerant & other,Blends,R512A,Emissions including only Kyoto products,kg,kg CO2e,196.0
+1320,Scope 1,Refrigerant & other,Blends,R401A,Emissions including only non-Kyoto products,kg,kg CO2e,1112.0
+1321,Scope 1,Refrigerant & other,Blends,R401B,Emissions including only non-Kyoto products,kg,kg CO2e,1221.0
+1322,Scope 1,Refrigerant & other,Blends,R401C,Emissions including only non-Kyoto products,kg,kg CO2e,855.0
+1323,Scope 1,Refrigerant & other,Blends,R402A,Emissions including only non-Kyoto products,kg,kg CO2e,669.0
+1324,Scope 1,Refrigerant & other,Blends,R402B,Emissions including only non-Kyoto products,kg,kg CO2e,1056.0
+1325,Scope 1,Refrigerant & other,Blends,R403A,Emissions including only non-Kyoto products,kg,kg CO2e,1320.0
+1326,Scope 1,Refrigerant & other,Blends,R403B,Emissions including only non-Kyoto products,kg,kg CO2e,986.0
+1327,Scope 1,Refrigerant & other,Blends,R404A,Emissions including only non-Kyoto products,kg,kg CO2e,
+1328,Scope 1,Refrigerant & other,Blends,R405A,Emissions including only non-Kyoto products,kg,kg CO2e,901.0
+1329,Scope 1,Refrigerant & other,Blends,R406A,Emissions including only non-Kyoto products,kg,kg CO2e,1780.0
+13210,Scope 1,Refrigerant & other,Blends,R407A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13211,Scope 1,Refrigerant & other,Blends,R407B,Emissions including only non-Kyoto products,kg,kg CO2e,
+13212,Scope 1,Refrigerant & other,Blends,R407C,Emissions including only non-Kyoto products,kg,kg CO2e,
+13213,Scope 1,Refrigerant & other,Blends,R407D,Emissions including only non-Kyoto products,kg,kg CO2e,
+13214,Scope 1,Refrigerant & other,Blends,R407E,Emissions including only non-Kyoto products,kg,kg CO2e,
+13215,Scope 1,Refrigerant & other,Blends,R407F,Emissions including only non-Kyoto products,kg,kg CO2e,
+13216,Scope 1,Refrigerant & other,Blends,R408A,Emissions including only non-Kyoto products,kg,kg CO2e,827.0
+13217,Scope 1,Refrigerant & other,Blends,R409A,Emissions including only non-Kyoto products,kg,kg CO2e,1485.0
+13218,Scope 1,Refrigerant & other,Blends,R409B,Emissions including only non-Kyoto products,kg,kg CO2e,1474.0
+13219,Scope 1,Refrigerant & other,Blends,R410A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13220,Scope 1,Refrigerant & other,Blends,R410B,Emissions including only non-Kyoto products,kg,kg CO2e,
+13221,Scope 1,Refrigerant & other,Blends,R411A,Emissions including only non-Kyoto products,kg,kg CO2e,1540.0
+13222,Scope 1,Refrigerant & other,Blends,R411B,Emissions including only non-Kyoto products,kg,kg CO2e,1654.0
+13223,Scope 1,Refrigerant & other,Blends,R412A,Emissions including only non-Kyoto products,kg,kg CO2e,1727.0
+13224,Scope 1,Refrigerant & other,Blends,R413A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13225,Scope 1,Refrigerant & other,Blends,R414A,Emissions including only non-Kyoto products,kg,kg CO2e,1375.0
+13226,Scope 1,Refrigerant & other,Blends,R414B,Emissions including only non-Kyoto products,kg,kg CO2e,1274.0
+13227,Scope 1,Refrigerant & other,Blends,R415A,Emissions including only non-Kyoto products,kg,kg CO2e,1443.0
+13228,Scope 1,Refrigerant & other,Blends,R415B,Emissions including only non-Kyoto products,kg,kg CO2e,440.0
+13229,Scope 1,Refrigerant & other,Blends,R416A,Emissions including only non-Kyoto products,kg,kg CO2e,208.0
+13230,Scope 1,Refrigerant & other,Blends,R417A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13231,Scope 1,Refrigerant & other,Blends,R417B,Emissions including only non-Kyoto products,kg,kg CO2e,
+13232,Scope 1,Refrigerant & other,Blends,R417C,Emissions including only non-Kyoto products,kg,kg CO2e,
+13233,Scope 1,Refrigerant & other,Blends,R418A,Emissions including only non-Kyoto products,kg,kg CO2e,1690.0
+13234,Scope 1,Refrigerant & other,Blends,R419A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13235,Scope 1,Refrigerant & other,Blends,R419B,Emissions including only non-Kyoto products,kg,kg CO2e,
+13236,Scope 1,Refrigerant & other,Blends,R420A,Emissions including only non-Kyoto products,kg,kg CO2e,238.0
+13237,Scope 1,Refrigerant & other,Blends,R421A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13238,Scope 1,Refrigerant & other,Blends,R421B,Emissions including only non-Kyoto products,kg,kg CO2e,
+13239,Scope 1,Refrigerant & other,Blends,R422A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13240,Scope 1,Refrigerant & other,Blends,R422B,Emissions including only non-Kyoto products,kg,kg CO2e,
+13241,Scope 1,Refrigerant & other,Blends,R422C,Emissions including only non-Kyoto products,kg,kg CO2e,
+13242,Scope 1,Refrigerant & other,Blends,R422D,Emissions including only non-Kyoto products,kg,kg CO2e,
+13243,Scope 1,Refrigerant & other,Blends,R422E,Emissions including only non-Kyoto products,kg,kg CO2e,
+13244,Scope 1,Refrigerant & other,Blends,R423A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13245,Scope 1,Refrigerant & other,Blends,R424A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13246,Scope 1,Refrigerant & other,Blends,R425A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13247,Scope 1,Refrigerant & other,Blends,R426A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13248,Scope 1,Refrigerant & other,Blends,R427A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13249,Scope 1,Refrigerant & other,Blends,R428A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13250,Scope 1,Refrigerant & other,Blends,R429A,Emissions including only non-Kyoto products,kg,kg CO2e,1.5
+13251,Scope 1,Refrigerant & other,Blends,R430A,Emissions including only non-Kyoto products,kg,kg CO2e,1.0
+13252,Scope 1,Refrigerant & other,Blends,R431A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13253,Scope 1,Refrigerant & other,Blends,R432A,Emissions including only non-Kyoto products,kg,kg CO2e,1.8
+13254,Scope 1,Refrigerant & other,Blends,R433A,Emissions including only non-Kyoto products,kg,kg CO2e,0.64
+13255,Scope 1,Refrigerant & other,Blends,R433B,Emissions including only non-Kyoto products,kg,kg CO2e,0.16
+13256,Scope 1,Refrigerant & other,Blends,R433C,Emissions including only non-Kyoto products,kg,kg CO2e,0.55
+13257,Scope 1,Refrigerant & other,Blends,R434A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13258,Scope 1,Refrigerant & other,Blends,R435A,Emissions including only non-Kyoto products,kg,kg CO2e,0.8
+13259,Scope 1,Refrigerant & other,Blends,R436A,Emissions including only non-Kyoto products,kg,kg CO2e,1.35
+13260,Scope 1,Refrigerant & other,Blends,R436B,Emissions including only non-Kyoto products,kg,kg CO2e,1.47
+13261,Scope 1,Refrigerant & other,Blends,R437A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13262,Scope 1,Refrigerant & other,Blends,R438A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13263,Scope 1,Refrigerant & other,Blends,R439A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13264,Scope 1,Refrigerant & other,Blends,R440A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13265,Scope 1,Refrigerant & other,Blends,R441A,Emissions including only non-Kyoto products,kg,kg CO2e,0.23
+13266,Scope 1,Refrigerant & other,Blends,R442A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13267,Scope 1,Refrigerant & other,Blends,R443A,Emissions including only non-Kyoto products,kg,kg CO2e,1.0
+13268,Scope 1,Refrigerant & other,Blends,R444A,Emissions including only non-Kyoto products,kg,kg CO2e,1.0
+13269,Scope 1,Refrigerant & other,Blends,R445A,Emissions including only non-Kyoto products,kg,kg CO2e,1.0
+13270,Scope 1,Refrigerant & other,Blends,R500,Emissions including only non-Kyoto products,kg,kg CO2e,7528.0
+13271,Scope 1,Refrigerant & other,Blends,R501,Emissions including only non-Kyoto products,kg,kg CO2e,3870.0
+13272,Scope 1,Refrigerant & other,Blends,R502,Emissions including only non-Kyoto products,kg,kg CO2e,4786.0
+13273,Scope 1,Refrigerant & other,Blends,R503,Emissions including only non-Kyoto products,kg,kg CO2e,8326.0
+13274,Scope 1,Refrigerant & other,Blends,R504,Emissions including only non-Kyoto products,kg,kg CO2e,3973.0
+13275,Scope 1,Refrigerant & other,Blends,R505,Emissions including only non-Kyoto products,kg,kg CO2e,7956.0
+13276,Scope 1,Refrigerant & other,Blends,R506,Emissions including only non-Kyoto products,kg,kg CO2e,3857.0
+13277,Scope 1,Refrigerant & other,Blends,R507A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13278,Scope 1,Refrigerant & other,Blends,R508A,Emissions including only non-Kyoto products,kg,kg CO2e,
+13279,Scope 1,Refrigerant & other,Blends,R508B,Emissions including only non-Kyoto products,kg,kg CO2e,
+13280,Scope 1,Refrigerant & other,Blends,R509A,Emissions including only non-Kyoto products,kg,kg CO2e,774.0
+13281,Scope 1,Refrigerant & other,Blends,R510A,Emissions including only non-Kyoto products,kg,kg CO2e,1.24
+13282,Scope 1,Refrigerant & other,Blends,R511A,Emissions including only non-Kyoto products,kg,kg CO2e,0.1
+13283,Scope 1,Refrigerant & other,Blends,R512A,Emissions including only non-Kyoto products,kg,kg CO2e,
+1320,Scope 1,Refrigerant & other,Blends,R401A,Total emissions including non-Kyoto products,kg,kg CO2e,1130.0
+1321,Scope 1,Refrigerant & other,Blends,R401B,Total emissions including non-Kyoto products,kg,kg CO2e,1236.0
+1322,Scope 1,Refrigerant & other,Blends,R401C,Total emissions including non-Kyoto products,kg,kg CO2e,876.0
+1323,Scope 1,Refrigerant & other,Blends,R402A,Total emissions including non-Kyoto products,kg,kg CO2e,2571.0
+1324,Scope 1,Refrigerant & other,Blends,R402B,Total emissions including non-Kyoto products,kg,kg CO2e,2261.0
+1325,Scope 1,Refrigerant & other,Blends,R403A,Total emissions including non-Kyoto products,kg,kg CO2e,3100.0
+1326,Scope 1,Refrigerant & other,Blends,R403B,Total emissions including non-Kyoto products,kg,kg CO2e,4457.0
+1327,Scope 1,Refrigerant & other,Blends,R404A,Total emissions including non-Kyoto products,kg,kg CO2e,3943.0
+1328,Scope 1,Refrigerant & other,Blends,R405A,Total emissions including non-Kyoto products,kg,kg CO2e,4821.0
+1329,Scope 1,Refrigerant & other,Blends,R406A,Total emissions including non-Kyoto products,kg,kg CO2e,1780.0
+13210,Scope 1,Refrigerant & other,Blends,R407A,Total emissions including non-Kyoto products,kg,kg CO2e,1923.0
+13211,Scope 1,Refrigerant & other,Blends,R407B,Total emissions including non-Kyoto products,kg,kg CO2e,2547.0
+13212,Scope 1,Refrigerant & other,Blends,R407C,Total emissions including non-Kyoto products,kg,kg CO2e,1624.0
+13213,Scope 1,Refrigerant & other,Blends,R407D,Total emissions including non-Kyoto products,kg,kg CO2e,1487.0
+13214,Scope 1,Refrigerant & other,Blends,R407E,Total emissions including non-Kyoto products,kg,kg CO2e,1425.0
+13215,Scope 1,Refrigerant & other,Blends,R407F,Total emissions including non-Kyoto products,kg,kg CO2e,1674.0
+13216,Scope 1,Refrigerant & other,Blends,R408A,Total emissions including non-Kyoto products,kg,kg CO2e,3257.0
+13217,Scope 1,Refrigerant & other,Blends,R409A,Total emissions including non-Kyoto products,kg,kg CO2e,1485.0
+13218,Scope 1,Refrigerant & other,Blends,R409B,Total emissions including non-Kyoto products,kg,kg CO2e,1474.0
+13219,Scope 1,Refrigerant & other,Blends,R410A,Total emissions including non-Kyoto products,kg,kg CO2e,1924.0
+13220,Scope 1,Refrigerant & other,Blends,R410B,Total emissions including non-Kyoto products,kg,kg CO2e,2048.0
+13221,Scope 1,Refrigerant & other,Blends,R411A,Total emissions including non-Kyoto products,kg,kg CO2e,1555.0
+13222,Scope 1,Refrigerant & other,Blends,R411B,Total emissions including non-Kyoto products,kg,kg CO2e,1659.0
+13223,Scope 1,Refrigerant & other,Blends,R412A,Total emissions including non-Kyoto products,kg,kg CO2e,2172.0
+13224,Scope 1,Refrigerant & other,Blends,R413A,Total emissions including non-Kyoto products,kg,kg CO2e,1945.0
+13225,Scope 1,Refrigerant & other,Blends,R414A,Total emissions including non-Kyoto products,kg,kg CO2e,1375.0
+13226,Scope 1,Refrigerant & other,Blends,R414B,Total emissions including non-Kyoto products,kg,kg CO2e,1274.0
+13227,Scope 1,Refrigerant & other,Blends,R415A,Total emissions including non-Kyoto products,kg,kg CO2e,1468.0
+13228,Scope 1,Refrigerant & other,Blends,R415B,Total emissions including non-Kyoto products,kg,kg CO2e,544.0
+13229,Scope 1,Refrigerant & other,Blends,R416A,Total emissions including non-Kyoto products,kg,kg CO2e,975.0
+13230,Scope 1,Refrigerant & other,Blends,R417A,Total emissions including non-Kyoto products,kg,kg CO2e,2127.0
+13231,Scope 1,Refrigerant & other,Blends,R417B,Total emissions including non-Kyoto products,kg,kg CO2e,2742.0
+13232,Scope 1,Refrigerant & other,Blends,R417C,Total emissions including non-Kyoto products,kg,kg CO2e,1643.0
+13233,Scope 1,Refrigerant & other,Blends,R418A,Total emissions including non-Kyoto products,kg,kg CO2e,1693.0
+13234,Scope 1,Refrigerant & other,Blends,R419A,Total emissions including non-Kyoto products,kg,kg CO2e,2688.0
+13235,Scope 1,Refrigerant & other,Blends,R419B,Total emissions including non-Kyoto products,kg,kg CO2e,2161.0
+13236,Scope 1,Refrigerant & other,Blends,R420A,Total emissions including non-Kyoto products,kg,kg CO2e,1382.0
+13237,Scope 1,Refrigerant & other,Blends,R421A,Total emissions including non-Kyoto products,kg,kg CO2e,2385.0
+13238,Scope 1,Refrigerant & other,Blends,R421B,Total emissions including non-Kyoto products,kg,kg CO2e,2890.0
+13239,Scope 1,Refrigerant & other,Blends,R422A,Total emissions including non-Kyoto products,kg,kg CO2e,2847.0
+13240,Scope 1,Refrigerant & other,Blends,R422B,Total emissions including non-Kyoto products,kg,kg CO2e,2290.0
+13241,Scope 1,Refrigerant & other,Blends,R422C,Total emissions including non-Kyoto products,kg,kg CO2e,2794.0
+13242,Scope 1,Refrigerant & other,Blends,R422D,Total emissions including non-Kyoto products,kg,kg CO2e,2473.0
+13243,Scope 1,Refrigerant & other,Blends,R422E,Total emissions including non-Kyoto products,kg,kg CO2e,2350.0
+13244,Scope 1,Refrigerant & other,Blends,R423A,Total emissions including non-Kyoto products,kg,kg CO2e,2274.0
+13245,Scope 1,Refrigerant & other,Blends,R424A,Total emissions including non-Kyoto products,kg,kg CO2e,2212.0
+13246,Scope 1,Refrigerant & other,Blends,R425A,Total emissions including non-Kyoto products,kg,kg CO2e,1431.0
+13247,Scope 1,Refrigerant & other,Blends,R426A,Total emissions including non-Kyoto products,kg,kg CO2e,1371.0
+13248,Scope 1,Refrigerant & other,Blends,R427A,Total emissions including non-Kyoto products,kg,kg CO2e,2024.0
+13249,Scope 1,Refrigerant & other,Blends,R428A,Total emissions including non-Kyoto products,kg,kg CO2e,3417.0
+13250,Scope 1,Refrigerant & other,Blends,R429A,Total emissions including non-Kyoto products,kg,kg CO2e,15.3
+13251,Scope 1,Refrigerant & other,Blends,R430A,Total emissions including non-Kyoto products,kg,kg CO2e,106.0
+13252,Scope 1,Refrigerant & other,Blends,R431A,Total emissions including non-Kyoto products,kg,kg CO2e,40.0
+13253,Scope 1,Refrigerant & other,Blends,R432A,Total emissions including non-Kyoto products,kg,kg CO2e,1.8
+13254,Scope 1,Refrigerant & other,Blends,R433A,Total emissions including non-Kyoto products,kg,kg CO2e,0.64
+13255,Scope 1,Refrigerant & other,Blends,R433B,Total emissions including non-Kyoto products,kg,kg CO2e,0.16
+13256,Scope 1,Refrigerant & other,Blends,R433C,Total emissions including non-Kyoto products,kg,kg CO2e,0.55
+13257,Scope 1,Refrigerant & other,Blends,R434A,Total emissions including non-Kyoto products,kg,kg CO2e,3076.0
+13258,Scope 1,Refrigerant & other,Blends,R435A,Total emissions including non-Kyoto products,kg,kg CO2e,28.4
+13259,Scope 1,Refrigerant & other,Blends,R436A,Total emissions including non-Kyoto products,kg,kg CO2e,1.35
+13260,Scope 1,Refrigerant & other,Blends,R436B,Total emissions including non-Kyoto products,kg,kg CO2e,1.47
+13261,Scope 1,Refrigerant & other,Blends,R437A,Total emissions including non-Kyoto products,kg,kg CO2e,1639.0
+13262,Scope 1,Refrigerant & other,Blends,R438A,Total emissions including non-Kyoto products,kg,kg CO2e,2059.0
+13263,Scope 1,Refrigerant & other,Blends,R439A,Total emissions including non-Kyoto products,kg,kg CO2e,1828.0
+13264,Scope 1,Refrigerant & other,Blends,R440A,Total emissions including non-Kyoto products,kg,kg CO2e,156.0
+13265,Scope 1,Refrigerant & other,Blends,R441A,Total emissions including non-Kyoto products,kg,kg CO2e,0.23
+13266,Scope 1,Refrigerant & other,Blends,R442A,Total emissions including non-Kyoto products,kg,kg CO2e,1754.0
+13267,Scope 1,Refrigerant & other,Blends,R443A,Total emissions including non-Kyoto products,kg,kg CO2e,1.0
+13268,Scope 1,Refrigerant & other,Blends,R444A,Total emissions including non-Kyoto products,kg,kg CO2e,89.0
+13269,Scope 1,Refrigerant & other,Blends,R445A,Total emissions including non-Kyoto products,kg,kg CO2e,118.0
+13270,Scope 1,Refrigerant & other,Blends,R500,Total emissions including non-Kyoto products,kg,kg CO2e,7564.0
+13271,Scope 1,Refrigerant & other,Blends,R501,Total emissions including non-Kyoto products,kg,kg CO2e,3870.0
+13272,Scope 1,Refrigerant & other,Blends,R502,Total emissions including non-Kyoto products,kg,kg CO2e,4786.0
+13273,Scope 1,Refrigerant & other,Blends,R503,Total emissions including non-Kyoto products,kg,kg CO2e,13299.0
+13274,Scope 1,Refrigerant & other,Blends,R504,Total emissions including non-Kyoto products,kg,kg CO2e,4299.0
+13275,Scope 1,Refrigerant & other,Blends,R505,Total emissions including non-Kyoto products,kg,kg CO2e,7956.0
+13276,Scope 1,Refrigerant & other,Blends,R506,Total emissions including non-Kyoto products,kg,kg CO2e,3857.0
+13277,Scope 1,Refrigerant & other,Blends,R507A,Total emissions including non-Kyoto products,kg,kg CO2e,3985.0
+13278,Scope 1,Refrigerant & other,Blends,R508A,Total emissions including non-Kyoto products,kg,kg CO2e,11607.0
+13279,Scope 1,Refrigerant & other,Blends,R508B,Total emissions including non-Kyoto products,kg,kg CO2e,11698.0
+13280,Scope 1,Refrigerant & other,Blends,R509A,Total emissions including non-Kyoto products,kg,kg CO2e,5758.0
+13281,Scope 1,Refrigerant & other,Blends,R510A,Total emissions including non-Kyoto products,kg,kg CO2e,1.24
+13282,Scope 1,Refrigerant & other,Blends,R511A,Total emissions including non-Kyoto products,kg,kg CO2e,7.0
+13283,Scope 1,Refrigerant & other,Blends,R512A,Total emissions including non-Kyoto products,kg,kg CO2e,196.0
+1330,Scope 1,Refrigerant & other,Montreal protocol products,CFC-11/R11 = trichlorofluoromethane,Emissions including only Kyoto products,kg,kg CO2e,
+1331,Scope 1,Refrigerant & other,Montreal protocol products,CFC-12/R12 = dichlorodifluoromethane,Emissions including only Kyoto products,kg,kg CO2e,
+1332,Scope 1,Refrigerant & other,Montreal protocol products,CFC-13,Emissions including only Kyoto products,kg,kg CO2e,
+1333,Scope 1,Refrigerant & other,Montreal protocol products,CFC-113,Emissions including only Kyoto products,kg,kg CO2e,
+1334,Scope 1,Refrigerant & other,Montreal protocol products,CFC-114,Emissions including only Kyoto products,kg,kg CO2e,
+1335,Scope 1,Refrigerant & other,Montreal protocol products,CFC-115,Emissions including only Kyoto products,kg,kg CO2e,
+1336,Scope 1,Refrigerant & other,Montreal protocol products,Halon-1211,Emissions including only Kyoto products,kg,kg CO2e,
+1337,Scope 1,Refrigerant & other,Montreal protocol products,Halon-1301,Emissions including only Kyoto products,kg,kg CO2e,
+1338,Scope 1,Refrigerant & other,Montreal protocol products,Halon-2402,Emissions including only Kyoto products,kg,kg CO2e,
+1339,Scope 1,Refrigerant & other,Montreal protocol products,Carbon tetrachloride,Emissions including only Kyoto products,kg,kg CO2e,
+13310,Scope 1,Refrigerant & other,Montreal protocol products,Methyl bromide,Emissions including only Kyoto products,kg,kg CO2e,
+13311,Scope 1,Refrigerant & other,Montreal protocol products,Methyl chloroform,Emissions including only Kyoto products,kg,kg CO2e,
+13312,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-22/R22 = chlorodifluoromethane,Emissions including only Kyoto products,kg,kg CO2e,
+13313,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-123,Emissions including only Kyoto products,kg,kg CO2e,
+13314,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-124,Emissions including only Kyoto products,kg,kg CO2e,
+13315,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-141b,Emissions including only Kyoto products,kg,kg CO2e,
+13316,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-142b,Emissions including only Kyoto products,kg,kg CO2e,
+13317,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-225ca,Emissions including only Kyoto products,kg,kg CO2e,
+13318,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-225cb,Emissions including only Kyoto products,kg,kg CO2e,
+13319,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-21,Emissions including only Kyoto products,kg,kg CO2e,
+1330,Scope 1,Refrigerant & other,Montreal protocol products,CFC-11/R11 = trichlorofluoromethane,Emissions including only non-Kyoto products,kg,kg CO2e,4660.0
+1331,Scope 1,Refrigerant & other,Montreal protocol products,CFC-12/R12 = dichlorodifluoromethane,Emissions including only non-Kyoto products,kg,kg CO2e,10200.0
+1332,Scope 1,Refrigerant & other,Montreal protocol products,CFC-13,Emissions including only non-Kyoto products,kg,kg CO2e,13900.0
+1333,Scope 1,Refrigerant & other,Montreal protocol products,CFC-113,Emissions including only non-Kyoto products,kg,kg CO2e,5820.0
+1334,Scope 1,Refrigerant & other,Montreal protocol products,CFC-114,Emissions including only non-Kyoto products,kg,kg CO2e,8590.0
+1335,Scope 1,Refrigerant & other,Montreal protocol products,CFC-115,Emissions including only non-Kyoto products,kg,kg CO2e,7670.0
+1336,Scope 1,Refrigerant & other,Montreal protocol products,Halon-1211,Emissions including only non-Kyoto products,kg,kg CO2e,1750.0
+1337,Scope 1,Refrigerant & other,Montreal protocol products,Halon-1301,Emissions including only non-Kyoto products,kg,kg CO2e,6290.0
+1338,Scope 1,Refrigerant & other,Montreal protocol products,Halon-2402,Emissions including only non-Kyoto products,kg,kg CO2e,1470.0
+1339,Scope 1,Refrigerant & other,Montreal protocol products,Carbon tetrachloride,Emissions including only non-Kyoto products,kg,kg CO2e,1730.0
+13310,Scope 1,Refrigerant & other,Montreal protocol products,Methyl bromide,Emissions including only non-Kyoto products,kg,kg CO2e,2.0
+13311,Scope 1,Refrigerant & other,Montreal protocol products,Methyl chloroform,Emissions including only non-Kyoto products,kg,kg CO2e,160.0
+13312,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-22/R22 = chlorodifluoromethane,Emissions including only non-Kyoto products,kg,kg CO2e,1760.0
+13313,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-123,Emissions including only non-Kyoto products,kg,kg CO2e,79.0
+13314,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-124,Emissions including only non-Kyoto products,kg,kg CO2e,527.0
+13315,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-141b,Emissions including only non-Kyoto products,kg,kg CO2e,782.0
+13316,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-142b,Emissions including only non-Kyoto products,kg,kg CO2e,1980.0
+13317,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-225ca,Emissions including only non-Kyoto products,kg,kg CO2e,127.0
+13318,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-225cb,Emissions including only non-Kyoto products,kg,kg CO2e,525.0
+13319,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-21,Emissions including only non-Kyoto products,kg,kg CO2e,148.0
+1330,Scope 1,Refrigerant & other,Montreal protocol products,CFC-11/R11 = trichlorofluoromethane,Total emissions including non-Kyoto products,kg,kg CO2e,4660.0
+1331,Scope 1,Refrigerant & other,Montreal protocol products,CFC-12/R12 = dichlorodifluoromethane,Total emissions including non-Kyoto products,kg,kg CO2e,10200.0
+1332,Scope 1,Refrigerant & other,Montreal protocol products,CFC-13,Total emissions including non-Kyoto products,kg,kg CO2e,13900.0
+1333,Scope 1,Refrigerant & other,Montreal protocol products,CFC-113,Total emissions including non-Kyoto products,kg,kg CO2e,5820.0
+1334,Scope 1,Refrigerant & other,Montreal protocol products,CFC-114,Total emissions including non-Kyoto products,kg,kg CO2e,8590.0
+1335,Scope 1,Refrigerant & other,Montreal protocol products,CFC-115,Total emissions including non-Kyoto products,kg,kg CO2e,7670.0
+1336,Scope 1,Refrigerant & other,Montreal protocol products,Halon-1211,Total emissions including non-Kyoto products,kg,kg CO2e,1750.0
+1337,Scope 1,Refrigerant & other,Montreal protocol products,Halon-1301,Total emissions including non-Kyoto products,kg,kg CO2e,6290.0
+1338,Scope 1,Refrigerant & other,Montreal protocol products,Halon-2402,Total emissions including non-Kyoto products,kg,kg CO2e,1470.0
+1339,Scope 1,Refrigerant & other,Montreal protocol products,Carbon tetrachloride,Total emissions including non-Kyoto products,kg,kg CO2e,1730.0
+13310,Scope 1,Refrigerant & other,Montreal protocol products,Methyl bromide,Total emissions including non-Kyoto products,kg,kg CO2e,2.0
+13311,Scope 1,Refrigerant & other,Montreal protocol products,Methyl chloroform,Total emissions including non-Kyoto products,kg,kg CO2e,160.0
+13312,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-22/R22 = chlorodifluoromethane,Total emissions including non-Kyoto products,kg,kg CO2e,1760.0
+13313,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-123,Total emissions including non-Kyoto products,kg,kg CO2e,79.0
+13314,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-124,Total emissions including non-Kyoto products,kg,kg CO2e,527.0
+13315,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-141b,Total emissions including non-Kyoto products,kg,kg CO2e,782.0
+13316,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-142b,Total emissions including non-Kyoto products,kg,kg CO2e,1980.0
+13317,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-225ca,Total emissions including non-Kyoto products,kg,kg CO2e,127.0
+13318,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-225cb,Total emissions including non-Kyoto products,kg,kg CO2e,525.0
+13319,Scope 1,Refrigerant & other,Montreal protocol products,HCFC-21,Total emissions including non-Kyoto products,kg,kg CO2e,148.0
+1340,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-125,Emissions including only Kyoto products,kg,kg CO2e,
+1341,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-134,Emissions including only Kyoto products,kg,kg CO2e,
+1342,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-143a,Emissions including only Kyoto products,kg,kg CO2e,
+1343,Scope 1,Refrigerant & other,Fluorinated ethers,HCFE-235da2,Emissions including only Kyoto products,kg,kg CO2e,
+1344,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-245cb2,Emissions including only Kyoto products,kg,kg CO2e,
+1345,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-245fa2,Emissions including only Kyoto products,kg,kg CO2e,
+1346,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-254cb2,Emissions including only Kyoto products,kg,kg CO2e,
+1347,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-347mcc3,Emissions including only Kyoto products,kg,kg CO2e,
+1348,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-347pcf2,Emissions including only Kyoto products,kg,kg CO2e,
+1349,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-356pcc3,Emissions including only Kyoto products,kg,kg CO2e,
+13410,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-449sl (HFE-7100),Emissions including only Kyoto products,kg,kg CO2e,
+13411,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-569sf2 (HFE-7200),Emissions including only Kyoto products,kg,kg CO2e,
+13412,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-43-10pccc124 (H-Galden1040x),Emissions including only Kyoto products,kg,kg CO2e,
+13413,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-236ca12 (HG-10),Emissions including only Kyoto products,kg,kg CO2e,
+13414,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-338pcc13 (HG-01),Emissions including only Kyoto products,kg,kg CO2e,
+1340,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-125,Emissions including only non-Kyoto products,kg,kg CO2e,12400.0
+1341,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-134,Emissions including only non-Kyoto products,kg,kg CO2e,5560.0
+1342,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-143a,Emissions including only non-Kyoto products,kg,kg CO2e,523.0
+1343,Scope 1,Refrigerant & other,Fluorinated ethers,HCFE-235da2,Emissions including only non-Kyoto products,kg,kg CO2e,491.0
+1344,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-245cb2,Emissions including only non-Kyoto products,kg,kg CO2e,654.0
+1345,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-245fa2,Emissions including only non-Kyoto products,kg,kg CO2e,812.0
+1346,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-254cb2,Emissions including only non-Kyoto products,kg,kg CO2e,301.0
+1347,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-347mcc3,Emissions including only non-Kyoto products,kg,kg CO2e,530.0
+1348,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-347pcf2,Emissions including only non-Kyoto products,kg,kg CO2e,889.0
+1349,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-356pcc3,Emissions including only non-Kyoto products,kg,kg CO2e,413.0
+13410,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-449sl (HFE-7100),Emissions including only non-Kyoto products,kg,kg CO2e,421.0
+13411,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-569sf2 (HFE-7200),Emissions including only non-Kyoto products,kg,kg CO2e,57.0
+13412,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-43-10pccc124 (H-Galden1040x),Emissions including only non-Kyoto products,kg,kg CO2e,2820.0
+13413,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-236ca12 (HG-10),Emissions including only non-Kyoto products,kg,kg CO2e,5350.0
+13414,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-338pcc13 (HG-01),Emissions including only non-Kyoto products,kg,kg CO2e,2910.0
+1340,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-125,Total emissions including non-Kyoto products,kg,kg CO2e,12400.0
+1341,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-134,Total emissions including non-Kyoto products,kg,kg CO2e,5560.0
+1342,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-143a,Total emissions including non-Kyoto products,kg,kg CO2e,523.0
+1343,Scope 1,Refrigerant & other,Fluorinated ethers,HCFE-235da2,Total emissions including non-Kyoto products,kg,kg CO2e,491.0
+1344,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-245cb2,Total emissions including non-Kyoto products,kg,kg CO2e,654.0
+1345,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-245fa2,Total emissions including non-Kyoto products,kg,kg CO2e,812.0
+1346,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-254cb2,Total emissions including non-Kyoto products,kg,kg CO2e,301.0
+1347,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-347mcc3,Total emissions including non-Kyoto products,kg,kg CO2e,530.0
+1348,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-347pcf2,Total emissions including non-Kyoto products,kg,kg CO2e,889.0
+1349,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-356pcc3,Total emissions including non-Kyoto products,kg,kg CO2e,413.0
+13410,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-449sl (HFE-7100),Total emissions including non-Kyoto products,kg,kg CO2e,421.0
+13411,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-569sf2 (HFE-7200),Total emissions including non-Kyoto products,kg,kg CO2e,57.0
+13412,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-43-10pccc124 (H-Galden1040x),Total emissions including non-Kyoto products,kg,kg CO2e,2820.0
+13413,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-236ca12 (HG-10),Total emissions including non-Kyoto products,kg,kg CO2e,5350.0
+13414,Scope 1,Refrigerant & other,Fluorinated ethers,HFE-338pcc13 (HG-01),Total emissions including non-Kyoto products,kg,kg CO2e,2910.0
+1350,Scope 1,Refrigerant & other,Other products,Trifluoromethyl sulphur pentafluoride,Emissions including only Kyoto products,kg,kg CO2e,
+1351,Scope 1,Refrigerant & other,Other products,PFPMIE,Emissions including only Kyoto products,kg,kg CO2e,
+1352,Scope 1,Refrigerant & other,Other products,Dimethylether,Emissions including only Kyoto products,kg,kg CO2e,
+1353,Scope 1,Refrigerant & other,Other products,Methylene chloride,Emissions including only Kyoto products,kg,kg CO2e,
+1354,Scope 1,Refrigerant & other,Other products,Methyl chloride,Emissions including only Kyoto products,kg,kg CO2e,
+1355,Scope 1,Refrigerant & other,Other products,R290 = propane,Emissions including only Kyoto products,kg,kg CO2e,
+1356,Scope 1,Refrigerant & other,Other products,R600A = isobutane,Emissions including only Kyoto products,kg,kg CO2e,
+1357,Scope 1,Refrigerant & other,Other products,R600 = butane,Emissions including only Kyoto products,kg,kg CO2e,
+1358,Scope 1,Refrigerant & other,Other products,R601 = n-pentane,Emissions including only Kyoto products,kg,kg CO2e,
+1359,Scope 1,Refrigerant & other,Other products,R601A = isopentane,Emissions including only Kyoto products,kg,kg CO2e,
+13510,Scope 1,Refrigerant & other,Other products,R170 = ethane,Emissions including only Kyoto products,kg,kg CO2e,
+13511,Scope 1,Refrigerant & other,Other products,R1270 = propylene,Emissions including only Kyoto products,kg,kg CO2e,
+13512,Scope 1,Refrigerant & other,Other products,R1234yf*,Emissions including only Kyoto products,kg,kg CO2e,
+13513,Scope 1,Refrigerant & other,Other products,R1234ze*,Emissions including only Kyoto products,kg,kg CO2e,
+13514,Scope 1,Refrigerant & other,"* There is no specific figure available, however it is known that the GWP factor is less than 1 kg CO2e",R1234ze*,Emissions including only Kyoto products,kg,kg CO2e,
+1350,Scope 1,Refrigerant & other,Other products,Trifluoromethyl sulphur pentafluoride,Emissions including only non-Kyoto products,kg,kg CO2e,17400.0
+1351,Scope 1,Refrigerant & other,Other products,PFPMIE,Emissions including only non-Kyoto products,kg,kg CO2e,9710.0
+1352,Scope 1,Refrigerant & other,Other products,Dimethylether,Emissions including only non-Kyoto products,kg,kg CO2e,1.0
+1353,Scope 1,Refrigerant & other,Other products,Methylene chloride,Emissions including only non-Kyoto products,kg,kg CO2e,9.0
+1354,Scope 1,Refrigerant & other,Other products,Methyl chloride,Emissions including only non-Kyoto products,kg,kg CO2e,12.0
+1355,Scope 1,Refrigerant & other,Other products,R290 = propane,Emissions including only non-Kyoto products,kg,kg CO2e,0.06
+1356,Scope 1,Refrigerant & other,Other products,R600A = isobutane,Emissions including only non-Kyoto products,kg,kg CO2e,3.0
+1357,Scope 1,Refrigerant & other,Other products,R600 = butane,Emissions including only non-Kyoto products,kg,kg CO2e,0.006
+1358,Scope 1,Refrigerant & other,Other products,R601 = n-pentane,Emissions including only non-Kyoto products,kg,kg CO2e,5.0
+1359,Scope 1,Refrigerant & other,Other products,R601A = isopentane,Emissions including only non-Kyoto products,kg,kg CO2e,5.0
+13510,Scope 1,Refrigerant & other,Other products,R170 = ethane,Emissions including only non-Kyoto products,kg,kg CO2e,0.437
+13511,Scope 1,Refrigerant & other,Other products,R1270 = propylene,Emissions including only non-Kyoto products,kg,kg CO2e,2.0
+13512,Scope 1,Refrigerant & other,Other products,R1234yf*,Emissions including only non-Kyoto products,kg,kg CO2e,1.0
+13513,Scope 1,Refrigerant & other,Other products,R1234ze*,Emissions including only non-Kyoto products,kg,kg CO2e,1.0
+13514,Scope 1,Refrigerant & other,"* There is no specific figure available, however it is known that the GWP factor is less than 1 kg CO2e",R1234ze*,Emissions including only non-Kyoto products,kg,kg CO2e,
+1350,Scope 1,Refrigerant & other,Other products,Trifluoromethyl sulphur pentafluoride,Total emissions including non-Kyoto products,kg,kg CO2e,17400.0
+1351,Scope 1,Refrigerant & other,Other products,PFPMIE,Total emissions including non-Kyoto products,kg,kg CO2e,9710.0
+1352,Scope 1,Refrigerant & other,Other products,Dimethylether,Total emissions including non-Kyoto products,kg,kg CO2e,1.0
+1353,Scope 1,Refrigerant & other,Other products,Methylene chloride,Total emissions including non-Kyoto products,kg,kg CO2e,9.0
+1354,Scope 1,Refrigerant & other,Other products,Methyl chloride,Total emissions including non-Kyoto products,kg,kg CO2e,12.0
+1355,Scope 1,Refrigerant & other,Other products,R290 = propane,Total emissions including non-Kyoto products,kg,kg CO2e,0.06
+1356,Scope 1,Refrigerant & other,Other products,R600A = isobutane,Total emissions including non-Kyoto products,kg,kg CO2e,3.0
+1357,Scope 1,Refrigerant & other,Other products,R600 = butane,Total emissions including non-Kyoto products,kg,kg CO2e,0.006
+1358,Scope 1,Refrigerant & other,Other products,R601 = n-pentane,Total emissions including non-Kyoto products,kg,kg CO2e,5.0
+1359,Scope 1,Refrigerant & other,Other products,R601A = isopentane,Total emissions including non-Kyoto products,kg,kg CO2e,5.0
+13510,Scope 1,Refrigerant & other,Other products,R170 = ethane,Total emissions including non-Kyoto products,kg,kg CO2e,0.437
+13511,Scope 1,Refrigerant & other,Other products,R1270 = propylene,Total emissions including non-Kyoto products,kg,kg CO2e,2.0
+13512,Scope 1,Refrigerant & other,Other products,R1234yf*,Total emissions including non-Kyoto products,kg,kg CO2e,1.0
+13513,Scope 1,Refrigerant & other,Other products,R1234ze*,Total emissions including non-Kyoto products,kg,kg CO2e,1.0
+13514,Scope 1,Refrigerant & other,"* There is no specific figure available, however it is known that the GWP factor is less than 1 kg CO2e",R1234ze*,Total emissions including non-Kyoto products,kg,kg CO2e,

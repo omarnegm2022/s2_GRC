@@ -1,0 +1,41 @@
+index,Scope,Level 1,Activity,Type,Unit
+1510,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),km
+1511,Scope 1,Delivery vehicles,Vans,Class I (up to 1.305 tonnes),miles
+1512,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),km
+1513,Scope 1,Delivery vehicles,Vans,Class II (1.305 to 1.74 tonnes),miles
+1514,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),km
+1515,Scope 1,Delivery vehicles,Vans,Class III (1.74 to 3.5 tonnes),miles
+1516,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),km
+1517,Scope 1,Delivery vehicles,Vans,Average (up to 3.5 tonnes),miles
+1520,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),km
+1521,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),miles
+1522,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),km
+1523,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),miles
+1524,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),km
+1525,Scope 1,Delivery vehicles,HGV (all diesel),Rigid (>17 tonnes),miles
+1526,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,km
+1527,Scope 1,Delivery vehicles,HGV (all diesel),All rigids,miles
+1528,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),km
+1529,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>3.5 - 33t),miles
+15210,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),km
+15211,Scope 1,Delivery vehicles,HGV (all diesel),Articulated (>33t),miles
+15212,Scope 1,Delivery vehicles,HGV (all diesel),All artics,km
+15213,Scope 1,Delivery vehicles,HGV (all diesel),All artics,miles
+15214,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,km
+15215,Scope 1,Delivery vehicles,HGV (all diesel),All HGVs,miles
+1530,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),km
+1531,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),miles
+1532,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),km
+1533,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),miles
+1534,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),km
+1535,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Rigid (>17 tonnes),miles
+1536,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,km
+1537,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All rigids,miles
+1538,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),km
+1539,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>3.5 - 33t),miles
+15310,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),km
+15311,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),Articulated (>33t),miles
+15312,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,km
+15313,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All artics,miles
+15314,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,km
+15315,Scope 1,Delivery vehicles,HGVs refrigerated (all diesel),All HGVs,miles

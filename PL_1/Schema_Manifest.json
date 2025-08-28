@@ -1,0 +1,889 @@
+{
+ "Scope 1": [
+  {
+   "Fuels.1": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     53,
+     21
+    ]
+   },
+   "Fuels.2": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     125,
+     57
+    ]
+   },
+   "Fuels.3": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     147,
+     129
+    ]
+   }
+  },
+  {
+   "Bioenergy.1": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     57,
+     18
+    ]
+   },
+   "Bioenergy.2": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     69,
+     61
+    ]
+   },
+   "Bioenergy.3": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     77,
+     73
+    ]
+   }
+  },
+  {
+   "Refrigerant & other.1": {
+    "leveler": "5T",
+    "col_range": "A:F",
+    "row_range": [
+     51,
+     17
+    ]
+   },
+   "Refrigerant & other.2": {
+    "leveler": "5T",
+    "col_range": "A:F",
+    "row_range": [
+     139,
+     54
+    ]
+   },
+   "Refrigerant & other.3": {
+    "leveler": "5T",
+    "col_range": "A:F",
+    "row_range": [
+     163,
+     142
+    ]
+   },
+   "Refrigerant & other.4": {
+    "leveler": "5T",
+    "col_range": "A:F",
+    "row_range": [
+     182,
+     166
+    ]
+   },
+   "Refrigerant & other.5": {
+    "leveler": "5T",
+    "col_range": "A:F",
+    "row_range": [
+     201,
+     185
+    ]
+   }
+  },
+  {
+   "Passenger vehicles.1": {
+    "leveler": "5T",
+    "col_range": "A:AI",
+    "row_range": [
+     42,
+     23
+    ]
+   },
+   "Passenger vehicles.2": {
+    "leveler": "5T",
+    "col_range": "A:AI",
+    "row_range": [
+     54,
+     45
+    ]
+   },
+   "Passenger vehicles.3": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     66,
+     58
+    ]
+   }
+  },
+  {
+   "Delivery vehicles.1": {
+    "leveler": "5T",
+    "col_range": "A:AE",
+    "row_range": [
+     32,
+     23
+    ]
+   },
+   "Delivery vehicles.2": {
+    "leveler": "5T",
+    "col_range": "A:S",
+    "row_range": [
+     52,
+     35
+    ]
+   },
+   "Delivery vehicles.3": {
+    "leveler": "5T",
+    "col_range": "A:S",
+    "row_range": [
+     72,
+     55
+    ]
+   }
+  },
+  {
+   "SECR kWh pass & delivery vehs.1": {
+    "leveler": "5T",
+    "col_range": "A:H",
+    "row_range": [
+     33,
+     14
+    ]
+   },
+   "SECR kWh pass & delivery vehs.2": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     45,
+     36
+    ]
+   },
+   "SECR kWh pass & delivery vehs.3": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     57,
+     49
+    ]
+   },
+   "SECR kWh pass & delivery vehs.4": {
+    "leveler": "5T",
+    "col_range": "A:J",
+    "row_range": [
+     73,
+     60
+    ]
+   },
+   "SECR kWh pass & delivery vehs.5": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     101,
+     76
+    ]
+   },
+   "SECR kWh pass & delivery vehs.6": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     129,
+     104
+    ]
+   }
+  }
+ ],
+ "Scope 2": [
+  {
+   "UK electricity.1": {
+    "leveler": "3T",
+    "col_range": "A:H",
+    "row_range": [
+     25,
+     24
+    ]
+   }
+  },
+  {},
+  {
+   "UK electricity for EVs.1": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     42,
+     23
+    ]
+   },
+   "UK electricity for EVs.2": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     54,
+     45
+    ]
+   },
+   "UK electricity for EVs.3": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     70,
+     57
+    ]
+   }
+  },
+  {
+   "SECR kWh UK electricity for EVs.1": {
+    "leveler": "5T",
+    "col_range": "A:E",
+    "row_range": [
+     40,
+     21
+    ]
+   },
+   "SECR kWh UK electricity for EVs.2": {
+    "leveler": "5T",
+    "col_range": "A:E",
+    "row_range": [
+     52,
+     43
+    ]
+   },
+   "SECR kWh UK electricity for EVs.3": {
+    "leveler": "5T",
+    "col_range": "A:E",
+    "row_range": [
+     68,
+     55
+    ]
+   }
+  },
+  {
+   "Heat and steam.1": {
+    "leveler": "3T",
+    "col_range": "A:H",
+    "row_range": [
+     23,
+     19
+    ]
+   }
+  }
+ ],
+ "Scope 3": [
+  {
+   "WTT- fuels.1": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     52,
+     20
+    ]
+   },
+   "WTT- fuels.2": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     124,
+     56
+    ]
+   },
+   "WTT- fuels.3": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     146,
+     128
+    ]
+   }
+  },
+  {
+   "WTT- bioenergy.1": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     56,
+     17
+    ]
+   },
+   "WTT- bioenergy.2": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     68,
+     60
+    ]
+   },
+   "WTT- bioenergy.3": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     76,
+     72
+    ]
+   }
+  },
+  {
+   "Transmission and distribution.1": {
+    "leveler": "3T",
+    "col_range": "A:H",
+    "row_range": [
+     21,
+     20
+    ]
+   },
+   "Transmission and distribution.2": {
+    "leveler": "3T",
+    "col_range": "A:H",
+    "row_range": [
+     26,
+     25
+    ]
+   }
+  },
+  {
+   "UK electricity T&D for EVs.1": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     40,
+     21
+    ]
+   },
+   "UK electricity T&D for EVs.2": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     52,
+     43
+    ]
+   },
+   "UK electricity T&D for EVs.3": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     70,
+     55
+    ]
+   }
+  },
+  {
+   "WTT- UK electricity.1": {
+    "leveler": "3T",
+    "col_range": "A:E",
+    "row_range": [
+     18,
+     17
+    ]
+   },
+   "WTT- UK electricity.2": {
+    "leveler": "3T",
+    "col_range": "A:E",
+    "row_range": [
+     23,
+     22
+    ]
+   }
+  },
+  {
+   "WTT- heat and steam.1": {
+    "leveler": "3T",
+    "col_range": "A:E",
+    "row_range": [
+     19,
+     17
+    ]
+   },
+   "WTT- heat and steam.2": {
+    "leveler": "3T",
+    "col_range": "A:E",
+    "row_range": [
+     24,
+     23
+    ]
+   }
+  },
+  {
+   "Water supply.1": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     18,
+     16
+    ]
+   }
+  },
+  {
+   "Water treatment.1": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     17,
+     15
+    ]
+   }
+  },
+  {
+   "Material use.1": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     33,
+     19
+    ]
+   },
+   "Material use.2": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     41,
+     36
+    ]
+   },
+   "Material use.3": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     47,
+     44
+    ]
+   },
+   "Material use.4": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     58,
+     50
+    ]
+   },
+   "Material use.5": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     66,
+     61
+    ]
+   },
+   "Material use.6": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     79,
+     69
+    ]
+   },
+   "Material use.7": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     86,
+     82
+    ]
+   }
+  },
+  {
+   "Waste disposal.1": {
+    "leveler": "5T",
+    "col_range": "A:I",
+    "row_range": [
+     35,
+     21
+    ]
+   },
+   "Waste disposal.2": {
+    "leveler": "5T",
+    "col_range": "A:I",
+    "row_range": [
+     42,
+     38
+    ]
+   },
+   "Waste disposal.3": {
+    "leveler": "5T",
+    "col_range": "A:I",
+    "row_range": [
+     51,
+     45
+    ]
+   },
+   "Waste disposal.4": {
+    "leveler": "5T",
+    "col_range": "A:I",
+    "row_range": [
+     60,
+     54
+    ]
+   },
+   "Waste disposal.5": {
+    "leveler": "5T",
+    "col_range": "A:I",
+    "row_range": [
+     68,
+     63
+    ]
+   },
+   "Waste disposal.6": {
+    "leveler": "5T",
+    "col_range": "A:I",
+    "row_range": [
+     81,
+     71
+    ]
+   },
+   "Waste disposal.7": {
+    "leveler": "5T",
+    "col_range": "A:I",
+    "row_range": [
+     88,
+     84
+    ]
+   }
+  },
+  {
+   "Business travel- air.1": {
+    "leveler": "5T",
+    "col_range": "A:L",
+    "row_range": [
+     35,
+     20
+    ]
+   }
+  },
+  {
+   "WTT- business travel- air.1": {
+    "leveler": "5T",
+    "col_range": "A:F",
+    "row_range": [
+     32,
+     17
+    ]
+   }
+  },
+  {
+   "Business travel- sea.1": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     19,
+     16
+    ]
+   }
+  },
+  {
+   "WTT- business travel- sea.1": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     19,
+     16
+    ]
+   }
+  },
+  {
+   "Business travel- land.1": {
+    "leveler": "5T",
+    "col_range": "A:AI",
+    "row_range": [
+     41,
+     22
+    ]
+   },
+   "Business travel- land.2": {
+    "leveler": "5T",
+    "col_range": "A:AI",
+    "row_range": [
+     53,
+     44
+    ]
+   },
+   "Business travel- land.3": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     65,
+     57
+    ]
+   },
+   "Business travel- land.4": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     73,
+     69
+    ]
+   },
+   "Business travel- land.5": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     81,
+     77
+    ]
+   },
+   "Business travel- land.6": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     88,
+     85
+    ]
+   }
+  },
+  {
+   "WTT- pass vehs & travel- land.1": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     37,
+     18
+    ]
+   },
+   "WTT- pass vehs & travel- land.2": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     49,
+     40
+    ]
+   },
+   "WTT- pass vehs & travel- land.3": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     61,
+     53
+    ]
+   },
+   "WTT- pass vehs & travel- land.4": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     69,
+     65
+    ]
+   },
+   "WTT- pass vehs & travel- land.5": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     77,
+     73
+    ]
+   },
+   "WTT- pass vehs & travel- land.6": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     84,
+     81
+    ]
+   }
+  },
+  {
+   "Freighting goods.1": {
+    "leveler": "5T",
+    "col_range": "A:AE",
+    "row_range": [
+     36,
+     23
+    ]
+   },
+   "Freighting goods.2": {
+    "leveler": "5T",
+    "col_range": "A:S",
+    "row_range": [
+     64,
+     39
+    ]
+   },
+   "Freighting goods.3": {
+    "leveler": "5T",
+    "col_range": "A:S",
+    "row_range": [
+     92,
+     67
+    ]
+   },
+   "Freighting goods.4": {
+    "leveler": "5T",
+    "col_range": "A:K",
+    "row_range": [
+     100,
+     95
+    ]
+   },
+   "Freighting goods.5": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     105,
+     104
+    ]
+   },
+   "Freighting goods.6": {
+    "leveler": "3T",
+    "col_range": "A:H",
+    "row_range": [
+     133,
+     109
+    ]
+   },
+   "Freighting goods.7": {
+    "leveler": "3T",
+    "col_range": "A:H",
+    "row_range": [
+     166,
+     137
+    ]
+   }
+  },
+  {
+   "WTT- delivery vehs & freight.1": {
+    "leveler": "5T",
+    "col_range": "A:J",
+    "row_range": [
+     30,
+     17
+    ]
+   },
+   "WTT- delivery vehs & freight.2": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     58,
+     33
+    ]
+   },
+   "WTT- delivery vehs & freight.3": {
+    "leveler": "5T",
+    "col_range": "A:G",
+    "row_range": [
+     86,
+     61
+    ]
+   },
+   "WTT- delivery vehs & freight.4": {
+    "leveler": "5T",
+    "col_range": "A:E",
+    "row_range": [
+     94,
+     89
+    ]
+   },
+   "WTT- delivery vehs & freight.5": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     99,
+     98
+    ]
+   },
+   "WTT- delivery vehs & freight.6": {
+    "leveler": "3T",
+    "col_range": "A:E",
+    "row_range": [
+     127,
+     103
+    ]
+   },
+   "WTT- delivery vehs & freight.7": {
+    "leveler": "3T",
+    "col_range": "A:E",
+    "row_range": [
+     160,
+     131
+    ]
+   }
+  },
+  {
+   "Hotel stay.1": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     22,
+     20
+    ]
+   },
+   "Hotel stay.2": {
+    "leveler": "3T",
+    "col_range": "A:D",
+    "row_range": [
+     79,
+     26
+    ]
+   }
+  },
+  {
+   "Managed assets- electricity.1": {
+    "leveler": "3T",
+    "col_range": "A:H",
+    "row_range": [
+     18,
+     17
+    ]
+   }
+  },
+  {
+   "Managed assets- vehicles.1": {
+    "leveler": "5T",
+    "col_range": "A:AI",
+    "row_range": [
+     41,
+     22
+    ]
+   },
+   "Managed assets- vehicles.2": {
+    "leveler": "5T",
+    "col_range": "A:AI",
+    "row_range": [
+     53,
+     44
+    ]
+   },
+   "Managed assets- vehicles.3": {
+    "leveler": "5T",
+    "col_range": "A:AE",
+    "row_range": [
+     61,
+     56
+    ]
+   },
+   "Managed assets- vehicles.4": {
+    "leveler": "5T",
+    "col_range": "A:S",
+    "row_range": [
+     73,
+     64
+    ]
+   },
+   "Managed assets- vehicles.5": {
+    "leveler": "5T",
+    "col_range": "A:S",
+    "row_range": [
+     85,
+     76
+    ]
+   },
+   "Managed assets- vehicles.6": {
+    "leveler": "3T",
+    "col_range": "A:G",
+    "row_range": [
+     97,
+     89
+    ]
+   }
+  },
+  {
+   "Homeworking.1": {
+    "leveler": "3T",
+    "col_range": "A:C",
+    "row_range": [
+     22,
+     20
+    ]
+   }
+  }
+ ]
+}

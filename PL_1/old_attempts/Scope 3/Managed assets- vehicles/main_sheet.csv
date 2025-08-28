@@ -1,0 +1,55 @@
+index,Scope,Level 1,Activity,Type,Unit
+32110,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,km
+32111,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,miles
+32112,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,km
+32113,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,miles
+32114,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,km
+32115,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,miles
+32116,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,km
+32117,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,miles
+32118,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,km
+32119,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,miles
+321110,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,km
+321111,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,miles
+321112,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,km
+321113,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,miles
+321114,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,km
+321115,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,miles
+321116,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,km
+321117,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,miles
+32120,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,km
+32121,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,miles
+32122,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,km
+32123,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,miles
+32124,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,km
+32125,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,miles
+32126,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,km
+32127,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,miles
+32130,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),km
+32131,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),km
+32132,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),km
+32133,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),km
+32140,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),km
+32141,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),km
+32142,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),km
+32143,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,km
+32144,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),km
+32145,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),km
+32146,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,km
+32147,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,km
+32150,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),km
+32151,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),km
+32152,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),km
+32153,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,km
+32154,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),km
+32155,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),km
+32156,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,km
+32157,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,km
+32160,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,km
+32161,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,miles
+32162,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,km
+32163,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,miles
+32164,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,km
+32165,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,miles
+32166,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,km
+32167,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,miles

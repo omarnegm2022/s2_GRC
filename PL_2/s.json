@@ -1,0 +1,68 @@
+{
+ "PL_1//Scope 1/": {
+  "PL_1//Scope 1/1. Fuels.csv": [
+   "\"id\"",
+   "\"Scope\"",
+   "\"Level 1\"",
+   "\"Level 2\"",
+   "\"Level 3\"",
+   "\"UOM\"",
+   "\"GHG/Unit\"",
+   "\"GHG Conversion Factor\""
+  ],
+  "PL_1//Scope 1/2. Bioenergy.csv": [
+   "\"id\"",
+   "\"Scope\"",
+   "\"Level 1\"",
+   "\"Level 2\"",
+   "\"Level 3\"",
+   "\"UOM\"",
+   "\"GHG/Unit\"",
+   "\"GHG Conversion Factor\""
+  ],
+  "PL_1//Scope 1/3. Refrigerant & other.csv": [
+   "\"id\"",
+   "\"Scope\"",
+   "\"Level 1\"",
+   "\"Level 2\"",
+   "\"Level 3\"",
+   "\"Level 4\"",
+   "\"UOM\"",
+   "\"GHG/Unit\"",
+   "\"GHG Conversion Factor\""
+  ],
+  "PL_1//Scope 1/4. Passenger vehicles.csv": [
+   "\"id\"",
+   "\"Scope\"",
+   "\"Level 1\"",
+   "\"Level 2\"",
+   "\"Level 3\"",
+   "\"Level 4\"",
+   "\"UOM\"",
+   "\"GHG/Unit\"",
+   "\"GHG Conversion Factor\""
+  ],
+  "PL_1//Scope 1/5. Delivery vehicles.csv": [
+   "\"id\"",
+   "\"Scope\"",
+   "\"Level 1\"",
+   "\"Level 2\"",
+   "\"Level 3\"",
+   "\"Level 4\"",
+   "\"UOM\"",
+   "\"GHG/Unit\"",
+   "\"GHG Conversion Factor\""
+  ],
+  "PL_1//Scope 1/6. SECR kWh pass & delivery vehs.csv": [
+   "\"id\"",
+   "\"Scope\"",
+   "\"Level 1\"",
+   "\"Level 2\"",
+   "\"Level 3\"",
+   "\"Level 4\"",
+   "\"UOM\"",
+   "\"GHG/Unit\"",
+   "\"GHG Conversion Factor\""
+  ]
+ }
+}

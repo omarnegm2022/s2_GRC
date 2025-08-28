@@ -1,0 +1,46 @@
+index,Scope,Level 1,Activity,Type,Unit
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,km
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,miles
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,km
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,miles
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,km
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,miles
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,km
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,miles
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,km
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,miles
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,km
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,miles
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,km
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,miles
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,km
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,miles
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,km
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,miles
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,km
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,miles
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,km
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,miles
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,km
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,miles
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,km
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,miles
+31630,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Small,km
+31631,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Small,miles
+31632,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Medium,km
+31633,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Medium,miles
+31634,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Large,km
+31635,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Large,miles
+31636,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Average,km
+31637,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Average,miles
+31640,Scope 3,WTT- pass vehs & travel- land,WTT- taxis,Regular taxi,passenger.km
+31641,Scope 3,WTT- pass vehs & travel- land,WTT- taxis,Regular taxi,km
+31642,Scope 3,WTT- pass vehs & travel- land,WTT- taxis,Black cab,passenger.km
+31643,Scope 3,WTT- pass vehs & travel- land,WTT- taxis,Black cab,km
+31650,Scope 3,WTT- pass vehs & travel- land,WTT- bus,Local bus (not London),passenger.km
+31651,Scope 3,WTT- pass vehs & travel- land,WTT- bus,Local London bus,passenger.km
+31652,Scope 3,WTT- pass vehs & travel- land,WTT- bus,Average local bus,passenger.km
+31653,Scope 3,WTT- pass vehs & travel- land,WTT- bus,Coach,passenger.km
+31660,Scope 3,WTT- pass vehs & travel- land,WTT- rail,National rail,passenger.km
+31661,Scope 3,WTT- pass vehs & travel- land,WTT- rail,International rail,passenger.km
+31662,Scope 3,WTT- pass vehs & travel- land,WTT- rail,Light rail and tram,passenger.km

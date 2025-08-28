@@ -1,0 +1,52 @@
+index,Scope,Level 1,Activity,Fuel,Unit
+3210,Scope 3,WTT- bioenergy,WTT- biofuel,Bioethanol,litres
+3211,Scope 3,WTT- bioenergy,WTT- biofuel,Bioethanol,GJ
+3212,Scope 3,WTT- bioenergy,WTT- biofuel,Bioethanol,kg
+3213,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME,litres
+3214,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME,GJ
+3215,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME,kg
+3216,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (compressed),litres
+3217,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (compressed),GJ
+3218,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (compressed),kg
+3219,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from used cooking oil),litres
+32110,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from used cooking oil),GJ
+32111,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from used cooking oil),kg
+32112,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from Tallow),litres
+32113,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from Tallow),GJ
+32114,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel ME (from Tallow),kg
+32115,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel HVO,litres
+32116,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel HVO,GJ
+32117,Scope 3,WTT- bioenergy,WTT- biofuel,Biodiesel HVO,kg
+32118,Scope 3,WTT- bioenergy,WTT- biofuel,Biopropane,litres
+32119,Scope 3,WTT- bioenergy,WTT- biofuel,Biopropane,GJ
+32120,Scope 3,WTT- bioenergy,WTT- biofuel,Biopropane,kg
+32121,Scope 3,WTT- bioenergy,WTT- biofuel,Development diesel,litres
+32122,Scope 3,WTT- bioenergy,WTT- biofuel,Development diesel,GJ
+32123,Scope 3,WTT- bioenergy,WTT- biofuel,Development diesel,kg
+32124,Scope 3,WTT- bioenergy,WTT- biofuel,Development petrol,litres
+32125,Scope 3,WTT- bioenergy,WTT- biofuel,Development petrol,GJ
+32126,Scope 3,WTT- bioenergy,WTT- biofuel,Development petrol,kg
+32127,Scope 3,WTT- bioenergy,WTT- biofuel,Off road biodiesel,litres
+32128,Scope 3,WTT- bioenergy,WTT- biofuel,Off road biodiesel,GJ
+32129,Scope 3,WTT- bioenergy,WTT- biofuel,Off road biodiesel,kg
+32130,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (liquified),litres
+32131,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (liquified),GJ
+32132,Scope 3,WTT- bioenergy,WTT- biofuel,Biomethane (liquified),kg
+32133,Scope 3,WTT- bioenergy,WTT- biofuel,Methanol (bio),litres
+32134,Scope 3,WTT- bioenergy,WTT- biofuel,Methanol (bio),GJ
+32135,Scope 3,WTT- bioenergy,WTT- biofuel,Methanol (bio),kg
+32136,Scope 3,WTT- bioenergy,WTT- biofuel,Avtur (renewable),litres
+32137,Scope 3,WTT- bioenergy,WTT- biofuel,Avtur (renewable),GJ
+32138,Scope 3,WTT- bioenergy,WTT- biofuel,Avtur (renewable),kg
+3220,Scope 3,WTT- bioenergy,WTT- biomass,Wood logs,tonnes
+3221,Scope 3,WTT- bioenergy,WTT- biomass,Wood logs,kWh
+3222,Scope 3,WTT- bioenergy,WTT- biomass,Wood chips,tonnes
+3223,Scope 3,WTT- bioenergy,WTT- biomass,Wood chips,kWh
+3224,Scope 3,WTT- bioenergy,WTT- biomass,Wood pellets,tonnes
+3225,Scope 3,WTT- bioenergy,WTT- biomass,Wood pellets,kWh
+3226,Scope 3,WTT- bioenergy,WTT- biomass,Grass/straw,tonnes
+3227,Scope 3,WTT- bioenergy,WTT- biomass,Grass/straw,kWh
+3230,Scope 3,WTT- bioenergy,WTT- biogas,Biogas,tonnes
+3231,Scope 3,WTT- bioenergy,WTT- biogas,Biogas,kWh
+3232,Scope 3,WTT- bioenergy,WTT- biogas,Landfill gas,tonnes
+3233,Scope 3,WTT- bioenergy,WTT- biogas,Landfill gas,kWh

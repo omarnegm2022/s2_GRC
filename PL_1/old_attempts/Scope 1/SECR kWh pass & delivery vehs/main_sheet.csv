@@ -1,0 +1,95 @@
+index,Scope,Level 1,Activity,Type,Unit
+1610,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Mini,km
+1611,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Mini,miles
+1612,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Supermini,km
+1613,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Supermini,miles
+1614,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Lower medium,km
+1615,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Lower medium,miles
+1616,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Upper medium,km
+1617,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Upper medium,miles
+1618,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Executive,km
+1619,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Executive,miles
+16110,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Luxury,km
+16111,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Luxury,miles
+16112,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Sports,km
+16113,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Sports,miles
+16114,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Dual purpose 4X4,km
+16115,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),Dual purpose 4X4,miles
+16116,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),MPV,km
+16117,Scope 1,SECR kWh pass & delivery vehs,Cars (by market segment),MPV,miles
+1620,Scope 1,SECR kWh pass & delivery vehs,Cars (by size),Small car,km
+1621,Scope 1,SECR kWh pass & delivery vehs,Cars (by size),Small car,miles
+1622,Scope 1,SECR kWh pass & delivery vehs,Cars (by size),Medium car,km
+1623,Scope 1,SECR kWh pass & delivery vehs,Cars (by size),Medium car,miles
+1624,Scope 1,SECR kWh pass & delivery vehs,Cars (by size),Large car,km
+1625,Scope 1,SECR kWh pass & delivery vehs,Cars (by size),Large car,miles
+1626,Scope 1,SECR kWh pass & delivery vehs,Cars (by size),Average car,km
+1627,Scope 1,SECR kWh pass & delivery vehs,Cars (by size),Average car,miles
+1630,Scope 1,SECR kWh pass & delivery vehs,Motorbike,Small,km
+1631,Scope 1,SECR kWh pass & delivery vehs,Motorbike,Small,miles
+1632,Scope 1,SECR kWh pass & delivery vehs,Motorbike,Medium,km
+1633,Scope 1,SECR kWh pass & delivery vehs,Motorbike,Medium,miles
+1634,Scope 1,SECR kWh pass & delivery vehs,Motorbike,Large,km
+1635,Scope 1,SECR kWh pass & delivery vehs,Motorbike,Large,miles
+1636,Scope 1,SECR kWh pass & delivery vehs,Motorbike,Average,km
+1637,Scope 1,SECR kWh pass & delivery vehs,Motorbike,Average,miles
+1640,Scope 1,SECR kWh pass & delivery vehs,Vans,Class I (up to 1.305 tonnes),tonne.km
+1641,Scope 1,SECR kWh pass & delivery vehs,Vans,Class I (up to 1.305 tonnes),km
+1642,Scope 1,SECR kWh pass & delivery vehs,Vans,Class I (up to 1.305 tonnes),miles
+1643,Scope 1,SECR kWh pass & delivery vehs,Vans,Class II (1.305 to 1.74 tonnes),tonne.km
+1644,Scope 1,SECR kWh pass & delivery vehs,Vans,Class II (1.305 to 1.74 tonnes),km
+1645,Scope 1,SECR kWh pass & delivery vehs,Vans,Class II (1.305 to 1.74 tonnes),miles
+1646,Scope 1,SECR kWh pass & delivery vehs,Vans,Class III (1.74 to 3.5 tonnes),tonne.km
+1647,Scope 1,SECR kWh pass & delivery vehs,Vans,Class III (1.74 to 3.5 tonnes),km
+1648,Scope 1,SECR kWh pass & delivery vehs,Vans,Class III (1.74 to 3.5 tonnes),miles
+1649,Scope 1,SECR kWh pass & delivery vehs,Vans,Average (up to 3.5 tonnes),tonne.km
+16410,Scope 1,SECR kWh pass & delivery vehs,Vans,Average (up to 3.5 tonnes),km
+16411,Scope 1,SECR kWh pass & delivery vehs,Vans,Average (up to 3.5 tonnes),miles
+1650,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),tonne.km
+1651,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),km
+1652,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),miles
+1653,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),tonne.km
+1654,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),km
+1655,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),miles
+1656,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>17 tonnes),tonne.km
+1657,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>17 tonnes),km
+1658,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Rigid (>17 tonnes),miles
+1659,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All rigids,tonne.km
+16510,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All rigids,km
+16511,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All rigids,miles
+16512,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Articulated (>3.5 - 33t),tonne.km
+16513,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Articulated (>3.5 - 33t),km
+16514,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Articulated (>3.5 - 33t),miles
+16515,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Articulated (>33t),tonne.km
+16516,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Articulated (>33t),km
+16517,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),Articulated (>33t),miles
+16518,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All artics,tonne.km
+16519,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All artics,km
+16520,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All artics,miles
+16521,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All HGVs,tonne.km
+16522,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All HGVs,km
+16523,Scope 1,SECR kWh pass & delivery vehs,HGV (all diesel),All HGVs,miles
+1660,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),tonne.km
+1661,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),km
+1662,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),miles
+1663,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),tonne.km
+1664,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),km
+1665,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),miles
+1666,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>17 tonnes),tonne.km
+1667,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>17 tonnes),km
+1668,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Rigid (>17 tonnes),miles
+1669,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All rigids,tonne.km
+16610,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All rigids,km
+16611,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All rigids,miles
+16612,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),tonne.km
+16613,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),km
+16614,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),miles
+16615,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Articulated (>33t),tonne.km
+16616,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Articulated (>33t),km
+16617,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),Articulated (>33t),miles
+16618,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All artics,tonne.km
+16619,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All artics,km
+16620,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All artics,miles
+16621,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All HGVs,tonne.km
+16622,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All HGVs,km
+16623,Scope 1,SECR kWh pass & delivery vehs,HGV refrigerated (all diesel),All HGVs,miles

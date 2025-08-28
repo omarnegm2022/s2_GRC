@@ -1,0 +1,15 @@
+index,Scope,Level 1,Activity,Haul,Class,Unit
+31110,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,passenger.km
+31111,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,passenger.km
+31112,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,passenger.km
+31113,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,passenger.km
+31114,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,passenger.km
+31115,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,passenger.km
+31116,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,passenger.km
+31117,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,passenger.km
+31118,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,passenger.km
+31119,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,passenger.km
+311110,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,passenger.km
+311111,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,passenger.km
+311112,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,passenger.km
+311113,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,passenger.km

@@ -1,0 +1,865 @@
+index,Scope,Level 1,Activity,Type,Last level,UOM,GHG/Unit,GHG Conversion Factor
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Diesel,km,kg CO2e,0.10996
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Diesel,miles,kg CO2e,0.17696
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Diesel,km,kg CO2e,0.13452
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Diesel,miles,kg CO2e,0.21649
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Diesel,km,kg CO2e,0.14517
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Diesel,miles,kg CO2e,0.23363
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Diesel,km,kg CO2e,0.16194
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Diesel,miles,kg CO2e,0.26063
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Diesel,km,kg CO2e,0.17088
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Diesel,miles,kg CO2e,0.27501
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Diesel,km,kg CO2e,0.20632
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Diesel,miles,kg CO2e,0.33205
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Diesel,km,kg CO2e,0.17323
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Diesel,miles,kg CO2e,0.27879
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Diesel,km,kg CO2e,0.19973
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Diesel,miles,kg CO2e,0.32145
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Diesel,km,kg CO2e,0.18072
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Diesel,miles,kg CO2e,0.29085
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Diesel,km,kg CO2e of CO2 per unit,0.10828
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Diesel,miles,kg CO2e of CO2 per unit,0.17425
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Diesel,km,kg CO2e of CO2 per unit,0.13284
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Diesel,miles,kg CO2e of CO2 per unit,0.21378
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Diesel,km,kg CO2e of CO2 per unit,0.14349
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Diesel,miles,kg CO2e of CO2 per unit,0.23092
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Diesel,km,kg CO2e of CO2 per unit,0.16026
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Diesel,miles,kg CO2e of CO2 per unit,0.25792
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Diesel,km,kg CO2e of CO2 per unit,0.1692
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Diesel,miles,kg CO2e of CO2 per unit,0.2723
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Diesel,km,kg CO2e of CO2 per unit,0.20464
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Diesel,miles,kg CO2e of CO2 per unit,0.32934
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Diesel,km,kg CO2e of CO2 per unit,0.17155
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Diesel,miles,kg CO2e of CO2 per unit,0.27608
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Diesel,km,kg CO2e of CO2 per unit,0.19805
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Diesel,miles,kg CO2e of CO2 per unit,0.31874
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Diesel,km,kg CO2e of CO2 per unit,0.17904
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Diesel,miles,kg CO2e of CO2 per unit,0.28814
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Diesel,km,kg CO2e of N2O per unit,0.00167
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Diesel,km,kg CO2e of N2O per unit,0.00167
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Diesel,km,kg CO2e of N2O per unit,0.00167
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Diesel,km,kg CO2e of N2O per unit,0.00167
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Diesel,km,kg CO2e of N2O per unit,0.00167
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Diesel,miles,kg CO2e of N2O per unit,0.00269
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Diesel,km,kg CO2e of N2O per unit,0.00167
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Diesel,miles,kg CO2e of N2O per unit,0.00269
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Diesel,km,kg CO2e of N2O per unit,0.00167
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Diesel,miles,kg CO2e of N2O per unit,0.00269
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Diesel,km,kg CO2e of N2O per unit,0.00167
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Diesel,miles,kg CO2e of N2O per unit,0.00269
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Diesel,km,kg CO2e of N2O per unit,0.00167
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Petrol,km,kg CO2e,0.13063
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Petrol,miles,kg CO2e,0.21022
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Petrol,km,kg CO2e,0.14276
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Petrol,miles,kg CO2e,0.22974
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Petrol,km,kg CO2e,0.16123
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Petrol,miles,kg CO2e,0.25948
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Petrol,km,kg CO2e,0.18535
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Petrol,miles,kg CO2e,0.29828
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Petrol,km,kg CO2e,0.20073
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Petrol,miles,kg CO2e,0.32304
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Petrol,km,kg CO2e,0.30752
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Petrol,miles,kg CO2e,0.4949
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Petrol,km,kg CO2e,0.23396
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Petrol,miles,kg CO2e,0.37652
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Petrol,km,kg CO2e,0.19219
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Petrol,miles,kg CO2e,0.3093
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Petrol,km,kg CO2e,0.17903
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Petrol,miles,kg CO2e,0.28812
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Petrol,km,kg CO2e of CO2 per unit,0.12995
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Petrol,miles,kg CO2e of CO2 per unit,0.20913
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Petrol,km,kg CO2e of CO2 per unit,0.14208
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Petrol,miles,kg CO2e of CO2 per unit,0.22865
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Petrol,km,kg CO2e of CO2 per unit,0.16055
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Petrol,miles,kg CO2e of CO2 per unit,0.25839
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Petrol,km,kg CO2e of CO2 per unit,0.18467
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Petrol,miles,kg CO2e of CO2 per unit,0.29719
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Petrol,km,kg CO2e of CO2 per unit,0.20005
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Petrol,miles,kg CO2e of CO2 per unit,0.32195
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Petrol,km,kg CO2e of CO2 per unit,0.30684
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Petrol,miles,kg CO2e of CO2 per unit,0.49381
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Petrol,km,kg CO2e of CO2 per unit,0.23328
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Petrol,miles,kg CO2e of CO2 per unit,0.37543
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Petrol,km,kg CO2e of CO2 per unit,0.19151
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Petrol,miles,kg CO2e of CO2 per unit,0.30821
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Petrol,km,kg CO2e of CO2 per unit,0.17835
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Petrol,miles,kg CO2e of CO2 per unit,0.28703
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Petrol,km,kg CO2e of CH4 per unit,0.00036
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Petrol,km,kg CO2e of CH4 per unit,0.00036
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Petrol,km,kg CO2e of CH4 per unit,0.00036
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Petrol,km,kg CO2e of CH4 per unit,0.00036
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Petrol,km,kg CO2e of N2O per unit,0.00032
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Petrol,km,kg CO2e of N2O per unit,0.00032
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Petrol,km,kg CO2e of N2O per unit,0.00032
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Petrol,km,kg CO2e of N2O per unit,0.00032
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Petrol,km,kg CO2e of N2O per unit,0.00032
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Petrol,miles,kg CO2e of N2O per unit,0.00052
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Petrol,km,kg CO2e of N2O per unit,0.00032
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Petrol,miles,kg CO2e of N2O per unit,0.00052
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Petrol,km,kg CO2e of N2O per unit,0.00032
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Petrol,miles,kg CO2e of N2O per unit,0.00052
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Petrol,km,kg CO2e of N2O per unit,0.00032
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Petrol,miles,kg CO2e of N2O per unit,0.00052
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Petrol,km,kg CO2e of N2O per unit,0.00032
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Hybrid,km,kg CO2e,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Hybrid,miles,kg CO2e,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Hybrid,km,kg CO2e,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Hybrid,miles,kg CO2e,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Hybrid,km,kg CO2e,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Hybrid,miles,kg CO2e,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Hybrid,km,kg CO2e,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Hybrid,miles,kg CO2e,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Hybrid,km,kg CO2e,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Hybrid,miles,kg CO2e,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Hybrid,km,kg CO2e,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Hybrid,miles,kg CO2e,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Hybrid,km,kg CO2e,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Hybrid,miles,kg CO2e,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Hybrid,km,kg CO2e,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Hybrid,miles,kg CO2e,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Hybrid,km,kg CO2e,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Hybrid,miles,kg CO2e,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Hybrid,km,kg CO2e of CO2 per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Hybrid,miles,kg CO2e of CO2 per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Hybrid,km,kg CO2e of CO2 per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Hybrid,miles,kg CO2e of CO2 per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Hybrid,km,kg CO2e of CO2 per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Hybrid,miles,kg CO2e of CO2 per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Hybrid,km,kg CO2e of CO2 per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Hybrid,miles,kg CO2e of CO2 per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Hybrid,km,kg CO2e of CO2 per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Hybrid,miles,kg CO2e of CO2 per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Hybrid,km,kg CO2e of CO2 per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Hybrid,miles,kg CO2e of CO2 per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Hybrid,km,kg CO2e of CO2 per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Hybrid,miles,kg CO2e of CO2 per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Hybrid,km,kg CO2e of CO2 per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Hybrid,miles,kg CO2e of CO2 per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Hybrid,km,kg CO2e of CO2 per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Hybrid,miles,kg CO2e of CO2 per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Hybrid,km,kg CO2e of CH4 per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Hybrid,miles,kg CO2e of CH4 per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Hybrid,km,kg CO2e of CH4 per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Hybrid,miles,kg CO2e of CH4 per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Hybrid,km,kg CO2e of CH4 per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Hybrid,miles,kg CO2e of CH4 per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Hybrid,km,kg CO2e of CH4 per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Hybrid,miles,kg CO2e of CH4 per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Hybrid,km,kg CO2e of CH4 per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Hybrid,miles,kg CO2e of CH4 per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Hybrid,km,kg CO2e of CH4 per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Hybrid,miles,kg CO2e of CH4 per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Hybrid,km,kg CO2e of CH4 per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Hybrid,miles,kg CO2e of CH4 per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Hybrid,km,kg CO2e of CH4 per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Hybrid,miles,kg CO2e of CH4 per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Hybrid,km,kg CO2e of CH4 per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Hybrid,miles,kg CO2e of CH4 per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Hybrid,km,kg CO2e of N2O per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Hybrid,miles,kg CO2e of N2O per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Hybrid,km,kg CO2e of N2O per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Hybrid,miles,kg CO2e of N2O per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Hybrid,km,kg CO2e of N2O per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Hybrid,miles,kg CO2e of N2O per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Hybrid,km,kg CO2e of N2O per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Hybrid,miles,kg CO2e of N2O per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Hybrid,km,kg CO2e of N2O per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Hybrid,miles,kg CO2e of N2O per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Hybrid,km,kg CO2e of N2O per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Hybrid,miles,kg CO2e of N2O per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Hybrid,km,kg CO2e of N2O per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Hybrid,miles,kg CO2e of N2O per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Hybrid,km,kg CO2e of N2O per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Hybrid,miles,kg CO2e of N2O per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Hybrid,km,kg CO2e of N2O per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Hybrid,miles,kg CO2e of N2O per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,CNG,km,kg CO2e,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,CNG,miles,kg CO2e,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,CNG,km,kg CO2e,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,CNG,miles,kg CO2e,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,CNG,km,kg CO2e,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,CNG,miles,kg CO2e,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,CNG,km,kg CO2e,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,CNG,miles,kg CO2e,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,CNG,km,kg CO2e,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,CNG,miles,kg CO2e,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,CNG,km,kg CO2e,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,CNG,miles,kg CO2e,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,CNG,km,kg CO2e,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,CNG,miles,kg CO2e,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,CNG,km,kg CO2e,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,CNG,miles,kg CO2e,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,CNG,km,kg CO2e,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,CNG,miles,kg CO2e,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,CNG,km,kg CO2e of CO2 per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,CNG,miles,kg CO2e of CO2 per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,CNG,km,kg CO2e of CO2 per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,CNG,miles,kg CO2e of CO2 per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,CNG,km,kg CO2e of CO2 per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,CNG,miles,kg CO2e of CO2 per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,CNG,km,kg CO2e of CO2 per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,CNG,miles,kg CO2e of CO2 per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,CNG,km,kg CO2e of CO2 per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,CNG,miles,kg CO2e of CO2 per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,CNG,km,kg CO2e of CO2 per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,CNG,miles,kg CO2e of CO2 per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,CNG,km,kg CO2e of CO2 per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,CNG,miles,kg CO2e of CO2 per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,CNG,km,kg CO2e of CO2 per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,CNG,miles,kg CO2e of CO2 per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,CNG,km,kg CO2e of CO2 per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,CNG,miles,kg CO2e of CO2 per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,CNG,km,kg CO2e of CH4 per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,CNG,miles,kg CO2e of CH4 per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,CNG,km,kg CO2e of CH4 per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,CNG,miles,kg CO2e of CH4 per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,CNG,km,kg CO2e of CH4 per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,CNG,miles,kg CO2e of CH4 per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,CNG,km,kg CO2e of CH4 per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,CNG,miles,kg CO2e of CH4 per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,CNG,km,kg CO2e of CH4 per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,CNG,miles,kg CO2e of CH4 per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,CNG,km,kg CO2e of CH4 per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,CNG,miles,kg CO2e of CH4 per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,CNG,km,kg CO2e of CH4 per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,CNG,miles,kg CO2e of CH4 per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,CNG,km,kg CO2e of CH4 per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,CNG,miles,kg CO2e of CH4 per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,CNG,km,kg CO2e of CH4 per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,CNG,miles,kg CO2e of CH4 per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,CNG,km,kg CO2e of N2O per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,CNG,miles,kg CO2e of N2O per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,CNG,km,kg CO2e of N2O per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,CNG,miles,kg CO2e of N2O per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,CNG,km,kg CO2e of N2O per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,CNG,miles,kg CO2e of N2O per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,CNG,km,kg CO2e of N2O per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,CNG,miles,kg CO2e of N2O per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,CNG,km,kg CO2e of N2O per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,CNG,miles,kg CO2e of N2O per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,CNG,km,kg CO2e of N2O per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,CNG,miles,kg CO2e of N2O per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,CNG,km,kg CO2e of N2O per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,CNG,miles,kg CO2e of N2O per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,CNG,km,kg CO2e of N2O per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,CNG,miles,kg CO2e of N2O per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,CNG,km,kg CO2e of N2O per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,CNG,miles,kg CO2e of N2O per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,LPG,km,kg CO2e,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,LPG,miles,kg CO2e,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,LPG,km,kg CO2e,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,LPG,miles,kg CO2e,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,LPG,km,kg CO2e,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,LPG,miles,kg CO2e,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,LPG,km,kg CO2e,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,LPG,miles,kg CO2e,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,LPG,km,kg CO2e,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,LPG,miles,kg CO2e,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,LPG,km,kg CO2e,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,LPG,miles,kg CO2e,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,LPG,km,kg CO2e,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,LPG,miles,kg CO2e,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,LPG,km,kg CO2e,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,LPG,miles,kg CO2e,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,LPG,km,kg CO2e,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,LPG,miles,kg CO2e,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,LPG,km,kg CO2e of CO2 per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,LPG,miles,kg CO2e of CO2 per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,LPG,km,kg CO2e of CO2 per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,LPG,miles,kg CO2e of CO2 per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,LPG,km,kg CO2e of CO2 per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,LPG,miles,kg CO2e of CO2 per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,LPG,km,kg CO2e of CO2 per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,LPG,miles,kg CO2e of CO2 per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,LPG,km,kg CO2e of CO2 per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,LPG,miles,kg CO2e of CO2 per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,LPG,km,kg CO2e of CO2 per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,LPG,miles,kg CO2e of CO2 per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,LPG,km,kg CO2e of CO2 per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,LPG,miles,kg CO2e of CO2 per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,LPG,km,kg CO2e of CO2 per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,LPG,miles,kg CO2e of CO2 per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,LPG,km,kg CO2e of CO2 per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,LPG,miles,kg CO2e of CO2 per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,LPG,km,kg CO2e of CH4 per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,LPG,miles,kg CO2e of CH4 per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,LPG,km,kg CO2e of CH4 per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,LPG,miles,kg CO2e of CH4 per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,LPG,km,kg CO2e of CH4 per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,LPG,miles,kg CO2e of CH4 per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,LPG,km,kg CO2e of CH4 per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,LPG,miles,kg CO2e of CH4 per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,LPG,km,kg CO2e of CH4 per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,LPG,miles,kg CO2e of CH4 per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,LPG,km,kg CO2e of CH4 per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,LPG,miles,kg CO2e of CH4 per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,LPG,km,kg CO2e of CH4 per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,LPG,miles,kg CO2e of CH4 per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,LPG,km,kg CO2e of CH4 per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,LPG,miles,kg CO2e of CH4 per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,LPG,km,kg CO2e of CH4 per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,LPG,miles,kg CO2e of CH4 per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,LPG,km,kg CO2e of N2O per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,LPG,miles,kg CO2e of N2O per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,LPG,km,kg CO2e of N2O per unit,
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,LPG,miles,kg CO2e of N2O per unit,
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,LPG,km,kg CO2e of N2O per unit,
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,LPG,miles,kg CO2e of N2O per unit,
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,LPG,km,kg CO2e of N2O per unit,
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,LPG,miles,kg CO2e of N2O per unit,
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,LPG,km,kg CO2e of N2O per unit,
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,LPG,miles,kg CO2e of N2O per unit,
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,LPG,km,kg CO2e of N2O per unit,
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,LPG,miles,kg CO2e of N2O per unit,
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,LPG,km,kg CO2e of N2O per unit,
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,LPG,miles,kg CO2e of N2O per unit,
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,LPG,km,kg CO2e of N2O per unit,
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,LPG,miles,kg CO2e of N2O per unit,
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,LPG,km,kg CO2e of N2O per unit,
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,LPG,miles,kg CO2e of N2O per unit,
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Unknown,km,kg CO2e,0.13051
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Unknown,miles,kg CO2e,0.21002
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Unknown,km,kg CO2e,0.14194
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Unknown,miles,kg CO2e,0.22843
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Unknown,km,kg CO2e,0.15473
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Unknown,miles,kg CO2e,0.249
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Unknown,km,kg CO2e,0.16752
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Unknown,miles,kg CO2e,0.26959
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Unknown,km,kg CO2e,0.17846
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Unknown,miles,kg CO2e,0.2872
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Unknown,km,kg CO2e,0.25196
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Unknown,miles,kg CO2e,0.4055
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Unknown,km,kg CO2e,0.224
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Unknown,miles,kg CO2e,0.36048
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Unknown,km,kg CO2e,0.1969
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Unknown,miles,kg CO2e,0.31687
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Unknown,km,kg CO2e,0.1803
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Unknown,miles,kg CO2e,0.29016
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Unknown,km,kg CO2e of CO2 per unit,0.12982
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Unknown,miles,kg CO2e of CO2 per unit,0.20892
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Unknown,km,kg CO2e of CO2 per unit,0.14111
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Unknown,miles,kg CO2e of CO2 per unit,0.2271
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Unknown,km,kg CO2e of CO2 per unit,0.15355
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Unknown,miles,kg CO2e of CO2 per unit,0.24711
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Unknown,km,kg CO2e of CO2 per unit,0.16605
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Unknown,miles,kg CO2e of CO2 per unit,0.26724
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Unknown,km,kg CO2e of CO2 per unit,0.17702
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Unknown,miles,kg CO2e of CO2 per unit,0.28488
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Unknown,km,kg CO2e of CO2 per unit,0.25076
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Unknown,miles,kg CO2e of CO2 per unit,0.40356
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Unknown,km,kg CO2e of CO2 per unit,0.22316
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Unknown,miles,kg CO2e of CO2 per unit,0.35914
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Unknown,km,kg CO2e of CO2 per unit,0.19548
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Unknown,miles,kg CO2e of CO2 per unit,0.3146
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Unknown,km,kg CO2e of CO2 per unit,0.17888
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Unknown,miles,kg CO2e of CO2 per unit,0.28789
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Unknown,km,kg CO2e of CH4 per unit,0.00035
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Unknown,miles,kg CO2e of CH4 per unit,0.00056
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Unknown,km,kg CO2e of CH4 per unit,0.0003
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Unknown,miles,kg CO2e of CH4 per unit,0.00048
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Unknown,km,kg CO2e of CH4 per unit,0.00018
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Unknown,miles,kg CO2e of CH4 per unit,0.00029
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Unknown,km,kg CO2e of CH4 per unit,8e-05
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Unknown,miles,kg CO2e of CH4 per unit,0.00012
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Unknown,km,kg CO2e of CH4 per unit,9e-05
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Unknown,miles,kg CO2e of CH4 per unit,0.00015
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Unknown,km,kg CO2e of CH4 per unit,0.00017
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Unknown,miles,kg CO2e of CH4 per unit,0.00028
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Unknown,km,kg CO2e of CH4 per unit,0.0003
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Unknown,miles,kg CO2e of CH4 per unit,0.00048
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Unknown,km,kg CO2e of CH4 per unit,0.0001
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Unknown,km,kg CO2e of CH4 per unit,0.0001
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Unknown,km,kg CO2e of N2O per unit,0.00034
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Unknown,miles,kg CO2e of N2O per unit,0.00054
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Unknown,km,kg CO2e of N2O per unit,0.00052
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Unknown,miles,kg CO2e of N2O per unit,0.00084
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Unknown,km,kg CO2e of N2O per unit,0.001
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Unknown,miles,kg CO2e of N2O per unit,0.0016
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Unknown,km,kg CO2e of N2O per unit,0.00139
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Unknown,miles,kg CO2e of N2O per unit,0.00222
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Unknown,km,kg CO2e of N2O per unit,0.00135
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Unknown,miles,kg CO2e of N2O per unit,0.00218
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Unknown,km,kg CO2e of N2O per unit,0.00103
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Unknown,miles,kg CO2e of N2O per unit,0.00166
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Unknown,km,kg CO2e of N2O per unit,0.00053
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Unknown,miles,kg CO2e of N2O per unit,0.00086
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Unknown,km,kg CO2e of N2O per unit,0.00132
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Unknown,miles,kg CO2e of N2O per unit,0.00212
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Unknown,km,kg CO2e of N2O per unit,0.00132
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Unknown,miles,kg CO2e of N2O per unit,0.00212
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.03008
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.04841
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.07482
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.12044
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.08106
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.13047
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.08258
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.13291
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.11489
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.18488
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.14157
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.22785
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.10205
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.16424
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.08344
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.13429
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.02994
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.04818
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.0744
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.11974
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.0806
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.12972
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.08209
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.13212
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.11429
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.18393
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.14109
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.22707
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.10156
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.16345
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.08311
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.13375
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,8e-05
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00013
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00025
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0004
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00026
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00041
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00025
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0004
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00035
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00055
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00028
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00045
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00028
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00045
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00019
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00031
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,6e-05
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0001
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00018
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00029
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.0002
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00034
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00024
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00038
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00025
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0004
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.0002
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00033
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00021
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00034
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00014
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00022
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Battery Electric Vehicle,km,kg CO2e,0.0
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Battery Electric Vehicle,miles,kg CO2e,0.0
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Battery Electric Vehicle,km,kg CO2e,0.0
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Battery Electric Vehicle,miles,kg CO2e,0.0
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Battery Electric Vehicle,km,kg CO2e,0.0
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Battery Electric Vehicle,miles,kg CO2e,0.0
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Battery Electric Vehicle,km,kg CO2e,0.0
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Battery Electric Vehicle,miles,kg CO2e,0.0
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Battery Electric Vehicle,km,kg CO2e,0.0
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Battery Electric Vehicle,miles,kg CO2e,0.0
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Battery Electric Vehicle,km,kg CO2e,0.0
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Battery Electric Vehicle,miles,kg CO2e,0.0
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Battery Electric Vehicle,km,kg CO2e,0.0
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Battery Electric Vehicle,miles,kg CO2e,0.0
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,km,kg CO2e,0.0
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,miles,kg CO2e,0.0
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Battery Electric Vehicle,km,kg CO2e,0.0
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Battery Electric Vehicle,miles,kg CO2e,0.0
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Diesel,km,kg CO2e,0.1434
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Diesel,miles,kg CO2e,0.23078
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Diesel,km,kg CO2e,0.17174
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Diesel,miles,kg CO2e,0.27639
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Diesel,km,kg CO2e,0.21007
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Diesel,miles,kg CO2e,0.33808
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Diesel,km,kg CO2e,0.17304
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Diesel,miles,kg CO2e,0.27849
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Diesel,km,kg CO2e of CO2 per unit,0.14172
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Diesel,miles,kg CO2e of CO2 per unit,0.22807
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Diesel,km,kg CO2e of CO2 per unit,0.17006
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Diesel,miles,kg CO2e of CO2 per unit,0.27368
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Diesel,km,kg CO2e of CO2 per unit,0.20839
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Diesel,miles,kg CO2e of CO2 per unit,0.33537
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Diesel,km,kg CO2e of CO2 per unit,0.17136
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Diesel,miles,kg CO2e of CO2 per unit,0.27578
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Diesel,km,kg CO2e of CH4 per unit,4.6368e-06
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Diesel,miles,kg CO2e of CH4 per unit,1e-05
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Diesel,km,kg CO2e of N2O per unit,0.00167
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Diesel,km,kg CO2e of N2O per unit,0.00167
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Diesel,km,kg CO2e of N2O per unit,0.00167
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Diesel,km,kg CO2e of N2O per unit,0.00167
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Diesel,miles,kg CO2e of N2O per unit,0.00269
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Petrol,km,kg CO2e,0.14308
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Petrol,miles,kg CO2e,0.23027
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Petrol,km,kg CO2e,0.17474
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Petrol,miles,kg CO2e,0.28121
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Petrol,km,kg CO2e,0.26828
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Petrol,miles,kg CO2e,0.43175
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Petrol,km,kg CO2e,0.16272
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Petrol,miles,kg CO2e,0.26187
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Petrol,km,kg CO2e of CO2 per unit,0.1424
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Petrol,miles,kg CO2e of CO2 per unit,0.22918
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Petrol,km,kg CO2e of CO2 per unit,0.17406
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Petrol,miles,kg CO2e of CO2 per unit,0.28012
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Petrol,km,kg CO2e of CO2 per unit,0.2676
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Petrol,miles,kg CO2e of CO2 per unit,0.43066
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Petrol,km,kg CO2e of CO2 per unit,0.16204
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Petrol,miles,kg CO2e of CO2 per unit,0.26078
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Petrol,km,kg CO2e of CH4 per unit,0.00036
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Petrol,km,kg CO2e of N2O per unit,0.00032
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Petrol,km,kg CO2e of N2O per unit,0.00032
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Petrol,km,kg CO2e of N2O per unit,0.00032
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Petrol,km,kg CO2e of N2O per unit,0.00032
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Petrol,miles,kg CO2e of N2O per unit,0.00052
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Hybrid,km,kg CO2e,0.11413
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Hybrid,miles,kg CO2e,0.18368
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Hybrid,km,kg CO2e,0.11724
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Hybrid,miles,kg CO2e,0.18869
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Hybrid,km,kg CO2e,0.1565
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Hybrid,miles,kg CO2e,0.25184
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Hybrid,km,kg CO2e,0.12825
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Hybrid,miles,kg CO2e,0.20639
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Hybrid,km,kg CO2e of CO2 per unit,0.11312
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Hybrid,miles,kg CO2e of CO2 per unit,0.18205
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Hybrid,km,kg CO2e of CO2 per unit,0.11603
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Hybrid,miles,kg CO2e of CO2 per unit,0.18674
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Hybrid,km,kg CO2e of CO2 per unit,0.15507
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Hybrid,miles,kg CO2e of CO2 per unit,0.24956
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Hybrid,km,kg CO2e of CO2 per unit,0.12708
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Hybrid,miles,kg CO2e of CO2 per unit,0.20452
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Hybrid,km,kg CO2e of CH4 per unit,0.00024
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Hybrid,miles,kg CO2e of CH4 per unit,0.00038
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Hybrid,km,kg CO2e of CH4 per unit,0.00017
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Hybrid,miles,kg CO2e of CH4 per unit,0.00027
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Hybrid,km,kg CO2e of CH4 per unit,0.0001
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Hybrid,miles,kg CO2e of CH4 per unit,0.00016
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Hybrid,km,kg CO2e of CH4 per unit,0.00019
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Hybrid,miles,kg CO2e of CH4 per unit,0.0003
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Hybrid,km,kg CO2e of N2O per unit,0.00077
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Hybrid,miles,kg CO2e of N2O per unit,0.00124
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Hybrid,km,kg CO2e of N2O per unit,0.00104
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Hybrid,miles,kg CO2e of N2O per unit,0.00168
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Hybrid,km,kg CO2e of N2O per unit,0.00133
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Hybrid,miles,kg CO2e of N2O per unit,0.00213
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Hybrid,km,kg CO2e of N2O per unit,0.00098
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Hybrid,miles,kg CO2e of N2O per unit,0.00157
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,CNG,km,kg CO2e,
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,CNG,miles,kg CO2e,
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,CNG,km,kg CO2e,0.15504
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,CNG,miles,kg CO2e,0.24952
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,CNG,km,kg CO2e,0.23722
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,CNG,miles,kg CO2e,0.38177
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,CNG,km,kg CO2e,0.17414
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,CNG,miles,kg CO2e,0.28025
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,CNG,km,kg CO2e of CO2 per unit,
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,CNG,miles,kg CO2e of CO2 per unit,
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,CNG,km,kg CO2e of CO2 per unit,0.15291
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,CNG,miles,kg CO2e of CO2 per unit,0.24609
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,CNG,km,kg CO2e of CO2 per unit,0.23509
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,CNG,miles,kg CO2e of CO2 per unit,0.37834
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,CNG,km,kg CO2e of CO2 per unit,0.17201
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,CNG,miles,kg CO2e of CO2 per unit,0.27682
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,CNG,km,kg CO2e of CH4 per unit,
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,CNG,miles,kg CO2e of CH4 per unit,
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,CNG,km,kg CO2e of CH4 per unit,0.00177
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,CNG,miles,kg CO2e of CH4 per unit,0.00286
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,CNG,km,kg CO2e of CH4 per unit,0.00177
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,CNG,miles,kg CO2e of CH4 per unit,0.00286
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,CNG,km,kg CO2e of CH4 per unit,0.00177
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,CNG,miles,kg CO2e of CH4 per unit,0.00286
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,CNG,km,kg CO2e of N2O per unit,
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,CNG,miles,kg CO2e of N2O per unit,
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,CNG,km,kg CO2e of N2O per unit,0.00036
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,CNG,miles,kg CO2e of N2O per unit,0.00058
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,CNG,km,kg CO2e of N2O per unit,0.00036
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,CNG,miles,kg CO2e of N2O per unit,0.00058
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,CNG,km,kg CO2e of N2O per unit,0.00036
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,CNG,miles,kg CO2e of N2O per unit,0.00058
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,LPG,km,kg CO2e,
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,LPG,miles,kg CO2e,
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,LPG,km,kg CO2e,0.17427
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,LPG,miles,kg CO2e,0.28046
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,LPG,km,kg CO2e,0.26771
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,LPG,miles,kg CO2e,0.43082
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,LPG,km,kg CO2e,0.19599
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,LPG,miles,kg CO2e,0.31541
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,LPG,km,kg CO2e of CO2 per unit,
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,LPG,miles,kg CO2e of CO2 per unit,
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,LPG,km,kg CO2e of CO2 per unit,0.17385
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,LPG,miles,kg CO2e of CO2 per unit,0.27979
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,LPG,km,kg CO2e of CO2 per unit,0.26729
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,LPG,miles,kg CO2e of CO2 per unit,0.43015
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,LPG,km,kg CO2e of CO2 per unit,0.19557
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,LPG,miles,kg CO2e of CO2 per unit,0.31474
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,LPG,km,kg CO2e of CH4 per unit,
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,LPG,miles,kg CO2e of CH4 per unit,
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,LPG,km,kg CO2e of CH4 per unit,6e-05
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,LPG,miles,kg CO2e of CH4 per unit,9e-05
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,LPG,km,kg CO2e of CH4 per unit,6e-05
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,LPG,miles,kg CO2e of CH4 per unit,9e-05
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,LPG,km,kg CO2e of CH4 per unit,6e-05
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,LPG,miles,kg CO2e of CH4 per unit,9e-05
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,LPG,km,kg CO2e of N2O per unit,
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,LPG,miles,kg CO2e of N2O per unit,
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,LPG,km,kg CO2e of N2O per unit,0.00036
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,LPG,miles,kg CO2e of N2O per unit,0.00058
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,LPG,km,kg CO2e of N2O per unit,0.00036
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,LPG,miles,kg CO2e of N2O per unit,0.00058
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,LPG,km,kg CO2e of N2O per unit,0.00036
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,LPG,miles,kg CO2e of N2O per unit,0.00058
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Unknown,km,kg CO2e,0.14322
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Unknown,miles,kg CO2e,0.23049
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Unknown,km,kg CO2e,0.17322
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Unknown,miles,kg CO2e,0.27877
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Unknown,km,kg CO2e,0.22678
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Unknown,miles,kg CO2e,0.36495
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Unknown,km,kg CO2e,0.16725
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Unknown,miles,kg CO2e,0.26915
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Unknown,km,kg CO2e of CO2 per unit,0.14221
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Unknown,miles,kg CO2e of CO2 per unit,0.22886
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Unknown,km,kg CO2e of CO2 per unit,0.17201
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Unknown,miles,kg CO2e of CO2 per unit,0.27682
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Unknown,km,kg CO2e of CO2 per unit,0.22535
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Unknown,miles,kg CO2e of CO2 per unit,0.36267
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Unknown,km,kg CO2e of CO2 per unit,0.16608
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Unknown,miles,kg CO2e of CO2 per unit,0.26728
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Unknown,km,kg CO2e of CH4 per unit,0.00024
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Unknown,miles,kg CO2e of CH4 per unit,0.00038
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Unknown,km,kg CO2e of CH4 per unit,0.00017
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Unknown,miles,kg CO2e of CH4 per unit,0.00027
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Unknown,km,kg CO2e of CH4 per unit,0.0001
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Unknown,km,kg CO2e of CH4 per unit,0.00019
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Unknown,miles,kg CO2e of CH4 per unit,0.0003
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Unknown,km,kg CO2e of N2O per unit,0.00077
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Unknown,miles,kg CO2e of N2O per unit,0.00124
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Unknown,km,kg CO2e of N2O per unit,0.00104
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Unknown,miles,kg CO2e of N2O per unit,0.00168
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Unknown,km,kg CO2e of N2O per unit,0.00133
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Unknown,miles,kg CO2e of N2O per unit,0.00213
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Unknown,km,kg CO2e of N2O per unit,0.00098
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Unknown,miles,kg CO2e of N2O per unit,0.00157
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.03008
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.04841
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.07789
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.12536
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.10033
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.16146
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.09167
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.14751
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.02994
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.04818
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.07745
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.12465
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.09983
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.16066
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.09121
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.14678
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,8e-05
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00013
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00025
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0004
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00028
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00045
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00026
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00041
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,6e-05
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0001
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.0002
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00031
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00022
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00036
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.0002
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00032
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Battery Electric Vehicle,km,kg CO2e,0.0
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Battery Electric Vehicle,miles,kg CO2e,0.0
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Battery Electric Vehicle,km,kg CO2e,0.0
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Battery Electric Vehicle,miles,kg CO2e,0.0
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Battery Electric Vehicle,km,kg CO2e,0.0
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Battery Electric Vehicle,miles,kg CO2e,0.0
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Battery Electric Vehicle,km,kg CO2e,0.0
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Battery Electric Vehicle,miles,kg CO2e,0.0
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.0
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0
+1430,Scope 1,Passenger vehicles,Motorbike,Small,,km,kg CO2e,0.08319
+1431,Scope 1,Passenger vehicles,Motorbike,Small,,miles,kg CO2e,0.13388999999999998
+1432,Scope 1,Passenger vehicles,Motorbike,Medium,,km,kg CO2e,0.10107000000000001
+1433,Scope 1,Passenger vehicles,Motorbike,Medium,,miles,kg CO2e,0.16265
+1434,Scope 1,Passenger vehicles,Motorbike,Large,,km,kg CO2e,0.13252
+1435,Scope 1,Passenger vehicles,Motorbike,Large,,miles,kg CO2e,0.21325999999999998
+1436,Scope 1,Passenger vehicles,Motorbike,Average,,km,kg CO2e,0.11367000000000001
+1437,Scope 1,Passenger vehicles,Motorbike,Average,,miles,kg CO2e,0.18293
+1430,Scope 1,Passenger vehicles,Motorbike,Small,,km,kg CO2e of CO2 per unit,0.08094
+1431,Scope 1,Passenger vehicles,Motorbike,Small,,miles,kg CO2e of CO2 per unit,0.13027
+1432,Scope 1,Passenger vehicles,Motorbike,Medium,,km,kg CO2e of CO2 per unit,0.09826
+1433,Scope 1,Passenger vehicles,Motorbike,Medium,,miles,kg CO2e of CO2 per unit,0.15813
+1434,Scope 1,Passenger vehicles,Motorbike,Large,,km,kg CO2e of CO2 per unit,0.13072
+1435,Scope 1,Passenger vehicles,Motorbike,Large,,miles,kg CO2e of CO2 per unit,0.21037
+1436,Scope 1,Passenger vehicles,Motorbike,Average,,km,kg CO2e of CO2 per unit,0.11138
+1437,Scope 1,Passenger vehicles,Motorbike,Average,,miles,kg CO2e of CO2 per unit,0.17925
+1430,Scope 1,Passenger vehicles,Motorbike,Small,,km,kg CO2e of CH4 per unit,0.00175
+1431,Scope 1,Passenger vehicles,Motorbike,Small,,miles,kg CO2e of CH4 per unit,0.00282
+1432,Scope 1,Passenger vehicles,Motorbike,Medium,,km,kg CO2e of CH4 per unit,0.00228
+1433,Scope 1,Passenger vehicles,Motorbike,Medium,,miles,kg CO2e of CH4 per unit,0.00367
+1434,Scope 1,Passenger vehicles,Motorbike,Large,,km,kg CO2e of CH4 per unit,0.00127
+1435,Scope 1,Passenger vehicles,Motorbike,Large,,miles,kg CO2e of CH4 per unit,0.00204
+1436,Scope 1,Passenger vehicles,Motorbike,Average,,km,kg CO2e of CH4 per unit,0.00177
+1437,Scope 1,Passenger vehicles,Motorbike,Average,,miles,kg CO2e of CH4 per unit,0.00284
+1430,Scope 1,Passenger vehicles,Motorbike,Small,,km,kg CO2e of N2O per unit,0.0005
+1431,Scope 1,Passenger vehicles,Motorbike,Small,,miles,kg CO2e of N2O per unit,0.0008
+1432,Scope 1,Passenger vehicles,Motorbike,Medium,,km,kg CO2e of N2O per unit,0.00053
+1433,Scope 1,Passenger vehicles,Motorbike,Medium,,miles,kg CO2e of N2O per unit,0.00085
+1434,Scope 1,Passenger vehicles,Motorbike,Large,,km,kg CO2e of N2O per unit,0.00053
+1435,Scope 1,Passenger vehicles,Motorbike,Large,,miles,kg CO2e of N2O per unit,0.00085
+1436,Scope 1,Passenger vehicles,Motorbike,Average,,km,kg CO2e of N2O per unit,0.00052
+1437,Scope 1,Passenger vehicles,Motorbike,Average,,miles,kg CO2e of N2O per unit,0.00084

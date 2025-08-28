@@ -1,0 +1,253 @@
+index,Last level,GHG/Unit,GHG Conversion Factor
+31010,Open-loop,kg CO2e,1.00835
+31011,Open-loop,kg CO2e,1.00835
+31012,Open-loop,kg CO2e,
+31013,Open-loop,kg CO2e,1.00835
+31014,Open-loop,kg CO2e,1.00835
+31015,Open-loop,kg CO2e,1.00835
+31016,Open-loop,kg CO2e,
+31017,Open-loop,kg CO2e,
+31018,Open-loop,kg CO2e,
+31019,Open-loop,kg CO2e,
+310110,Open-loop,kg CO2e,
+310111,Open-loop,kg CO2e,
+310112,Open-loop,kg CO2e,
+31010,Closed-loop,kg CO2e,1.00835
+31011,Closed-loop,kg CO2e,1.00835
+31012,Closed-loop,kg CO2e,
+31013,Closed-loop,kg CO2e,1.00835
+31014,Closed-loop,kg CO2e,
+31015,Closed-loop,kg CO2e,1.00835
+31016,Closed-loop,kg CO2e,1.00835
+31017,Closed-loop,kg CO2e,1.00835
+31018,Closed-loop,kg CO2e,1.00835
+31019,Closed-loop,kg CO2e,4.68568
+310110,Closed-loop,kg CO2e,4.68568
+310111,Closed-loop,kg CO2e,4.68568
+310112,Closed-loop,kg CO2e,4.68568
+31010,Incineration with energy recovery,kg CO2e,
+31011,Incineration with energy recovery,kg CO2e,4.68568
+31012,Incineration with energy recovery,kg CO2e,
+31013,Incineration with energy recovery,kg CO2e,
+31014,Incineration with energy recovery,kg CO2e,
+31015,Incineration with energy recovery,kg CO2e,
+31016,Incineration with energy recovery,kg CO2e,
+31017,Incineration with energy recovery,kg CO2e,
+31018,Incineration with energy recovery,kg CO2e,
+31019,Incineration with energy recovery,kg CO2e,4.68568
+310110,Incineration with energy recovery,kg CO2e,
+310111,Incineration with energy recovery,kg CO2e,
+310112,Incineration with energy recovery,kg CO2e,4.68568
+31010,Composting,kg CO2e,
+31011,Composting,kg CO2e,
+31012,Composting,kg CO2e,
+31013,Composting,kg CO2e,
+31014,Composting,kg CO2e,
+31015,Composting,kg CO2e,
+31016,Composting,kg CO2e,
+31017,Composting,kg CO2e,
+31018,Composting,kg CO2e,
+31019,Composting,kg CO2e,
+310110,Composting,kg CO2e,
+310111,Composting,kg CO2e,
+310112,Composting,kg CO2e,8.98311
+31010,Landfill,kg CO2e,1.26338
+31011,Landfill,kg CO2e,
+31012,Landfill,kg CO2e,5.9416
+31013,Landfill,kg CO2e,1.26338
+31014,Landfill,kg CO2e,1.26338
+31015,Landfill,kg CO2e,1.26338
+31016,Landfill,kg CO2e,1.26338
+31017,Landfill,kg CO2e,1.26435
+31018,Landfill,kg CO2e,19.54671
+31019,Landfill,kg CO2e,
+310110,Landfill,kg CO2e,71.95
+310111,Landfill,kg CO2e,
+310112,Landfill,kg CO2e,925.34348
+31010,Anaerobic digestion,kg CO2e,
+31011,Anaerobic digestion,kg CO2e,
+31012,Anaerobic digestion,kg CO2e,
+31013,Anaerobic digestion,kg CO2e,
+31014,Anaerobic digestion,kg CO2e,
+31015,Anaerobic digestion,kg CO2e,
+31016,Anaerobic digestion,kg CO2e,
+31017,Anaerobic digestion,kg CO2e,
+31018,Anaerobic digestion,kg CO2e,
+31019,Anaerobic digestion,kg CO2e,
+310110,Anaerobic digestion,kg CO2e,
+310111,Anaerobic digestion,kg CO2e,
+310112,Anaerobic digestion,kg CO2e,
+31020,Open-loop,kg CO2e,
+31021,Open-loop,kg CO2e,4.68568
+31022,Open-loop,kg CO2e,
+31020,Closed-loop,kg CO2e,4.68568
+31021,Closed-loop,kg CO2e,4.68568
+31022,Closed-loop,kg CO2e,4.68568
+31020,Incineration with energy recovery,kg CO2e,4.68568
+31021,Incineration with energy recovery,kg CO2e,4.68568
+31022,Incineration with energy recovery,kg CO2e,4.68568
+31020,Composting,kg CO2e,8.98311
+31021,Composting,kg CO2e,
+31022,Composting,kg CO2e,
+31020,Landfill,kg CO2e,1164.4894
+31021,Landfill,kg CO2e,8.98311
+31022,Landfill,kg CO2e,496.78228
+31020,Anaerobic digestion,kg CO2e,
+31021,Anaerobic digestion,kg CO2e,
+31022,Anaerobic digestion,kg CO2e,
+31030,Open-loop,kg CO2e,
+31031,Open-loop,kg CO2e,
+31032,Open-loop,kg CO2e,
+31033,Open-loop,kg CO2e,
+31034,Open-loop,kg CO2e,
+31030,Closed-loop,kg CO2e,
+31031,Closed-loop,kg CO2e,
+31032,Closed-loop,kg CO2e,
+31033,Closed-loop,kg CO2e,
+31034,Closed-loop,kg CO2e,
+31030,Incineration with energy recovery,kg CO2e,4.68568
+31031,Incineration with energy recovery,kg CO2e,4.68568
+31032,Incineration with energy recovery,kg CO2e,4.68568
+31033,Incineration with energy recovery,kg CO2e,4.68568
+31034,Incineration with energy recovery,kg CO2e,4.68568
+31030,Composting,kg CO2e,
+31031,Composting,kg CO2e,8.98311
+31032,Composting,kg CO2e,8.98311
+31033,Composting,kg CO2e,8.98311
+31034,Composting,kg CO2e,
+31030,Landfill,kg CO2e,497.24244
+31031,Landfill,kg CO2e,700.30886
+31032,Landfill,kg CO2e,646.70557
+31033,Landfill,kg CO2e,656.08614
+31034,Landfill,kg CO2e,520.5327
+31030,Anaerobic digestion,kg CO2e,
+31031,Anaerobic digestion,kg CO2e,8.98311
+31032,Anaerobic digestion,kg CO2e,8.98311
+31033,Anaerobic digestion,kg CO2e,8.98311
+31034,Anaerobic digestion,kg CO2e,
+31040,Open-loop,kg CO2e,4.68568
+31041,Open-loop,kg CO2e,4.68568
+31042,Open-loop,kg CO2e,4.68568
+31043,Open-loop,kg CO2e,4.68568
+31044,Open-loop,kg CO2e,4.68568
+31040,Closed-loop,kg CO2e,
+31041,Closed-loop,kg CO2e,
+31042,Closed-loop,kg CO2e,
+31043,Closed-loop,kg CO2e,
+31044,Closed-loop,kg CO2e,
+31040,Incineration with energy recovery,kg CO2e,
+31041,Incineration with energy recovery,kg CO2e,4.68568
+31042,Incineration with energy recovery,kg CO2e,4.68568
+31043,Incineration with energy recovery,kg CO2e,4.68568
+31044,Incineration with energy recovery,kg CO2e,
+31040,Composting,kg CO2e,
+31041,Composting,kg CO2e,
+31042,Composting,kg CO2e,
+31043,Composting,kg CO2e,
+31044,Composting,kg CO2e,
+31040,Landfill,kg CO2e,8.98311
+31041,Landfill,kg CO2e,8.98311
+31042,Landfill,kg CO2e,8.98311
+31043,Landfill,kg CO2e,8.98311
+31044,Landfill,kg CO2e,8.98311
+31040,Anaerobic digestion,kg CO2e,
+31041,Anaerobic digestion,kg CO2e,
+31042,Anaerobic digestion,kg CO2e,
+31043,Anaerobic digestion,kg CO2e,
+31044,Anaerobic digestion,kg CO2e,
+31050,Open-loop,kg CO2e,4.68568
+31051,Open-loop,kg CO2e,4.68568
+31052,Open-loop,kg CO2e,4.68568
+31053,Open-loop,kg CO2e,4.68568
+31050,Closed-loop,kg CO2e,4.68568
+31051,Closed-loop,kg CO2e,4.68568
+31052,Closed-loop,kg CO2e,4.68568
+31053,Closed-loop,kg CO2e,4.68568
+31050,Incineration with energy recovery,kg CO2e,4.68568
+31051,Incineration with energy recovery,kg CO2e,4.68568
+31052,Incineration with energy recovery,kg CO2e,4.68568
+31053,Incineration with energy recovery,kg CO2e,4.68568
+31050,Composting,kg CO2e,
+31051,Composting,kg CO2e,
+31052,Composting,kg CO2e,
+31053,Composting,kg CO2e,
+31050,Landfill,kg CO2e,8.98311
+31051,Landfill,kg CO2e,8.98311
+31052,Landfill,kg CO2e,8.98311
+31053,Landfill,kg CO2e,8.98311
+31050,Anaerobic digestion,kg CO2e,
+31051,Anaerobic digestion,kg CO2e,
+31052,Anaerobic digestion,kg CO2e,
+31053,Anaerobic digestion,kg CO2e,
+31060,Open-loop,kg CO2e,4.68568
+31061,Open-loop,kg CO2e,4.68568
+31062,Open-loop,kg CO2e,4.68568
+31063,Open-loop,kg CO2e,4.68568
+31064,Open-loop,kg CO2e,4.68568
+31065,Open-loop,kg CO2e,4.68568
+31066,Open-loop,kg CO2e,4.68568
+31067,Open-loop,kg CO2e,4.68568
+31068,Open-loop,kg CO2e,4.68568
+31060,Closed-loop,kg CO2e,4.68568
+31061,Closed-loop,kg CO2e,4.68568
+31062,Closed-loop,kg CO2e,4.68568
+31063,Closed-loop,kg CO2e,4.68568
+31064,Closed-loop,kg CO2e,4.68568
+31065,Closed-loop,kg CO2e,4.68568
+31066,Closed-loop,kg CO2e,4.68568
+31067,Closed-loop,kg CO2e,4.68568
+31068,Closed-loop,kg CO2e,4.68568
+31060,Incineration with energy recovery,kg CO2e,4.68568
+31061,Incineration with energy recovery,kg CO2e,4.68568
+31062,Incineration with energy recovery,kg CO2e,4.68568
+31063,Incineration with energy recovery,kg CO2e,4.68568
+31064,Incineration with energy recovery,kg CO2e,4.68568
+31065,Incineration with energy recovery,kg CO2e,4.68568
+31066,Incineration with energy recovery,kg CO2e,4.68568
+31067,Incineration with energy recovery,kg CO2e,4.68568
+31068,Incineration with energy recovery,kg CO2e,4.68568
+31060,Composting,kg CO2e,
+31061,Composting,kg CO2e,
+31062,Composting,kg CO2e,
+31063,Composting,kg CO2e,
+31064,Composting,kg CO2e,
+31065,Composting,kg CO2e,
+31066,Composting,kg CO2e,
+31067,Composting,kg CO2e,
+31068,Composting,kg CO2e,
+31060,Landfill,kg CO2e,8.98311
+31061,Landfill,kg CO2e,8.98311
+31062,Landfill,kg CO2e,8.98311
+31063,Landfill,kg CO2e,8.98311
+31064,Landfill,kg CO2e,8.98311
+31065,Landfill,kg CO2e,8.98311
+31066,Landfill,kg CO2e,8.98311
+31067,Landfill,kg CO2e,8.98311
+31068,Landfill,kg CO2e,8.98311
+31060,Anaerobic digestion,kg CO2e,
+31061,Anaerobic digestion,kg CO2e,
+31062,Anaerobic digestion,kg CO2e,
+31063,Anaerobic digestion,kg CO2e,
+31064,Anaerobic digestion,kg CO2e,
+31065,Anaerobic digestion,kg CO2e,
+31066,Anaerobic digestion,kg CO2e,
+31067,Anaerobic digestion,kg CO2e,
+31068,Anaerobic digestion,kg CO2e,
+31070,Open-loop,kg CO2e,
+31071,Open-loop,kg CO2e,
+31072,Open-loop,kg CO2e,
+31070,Closed-loop,kg CO2e,4.68568
+31071,Closed-loop,kg CO2e,4.68568
+31072,Closed-loop,kg CO2e,4.68568
+31070,Incineration with energy recovery,kg CO2e,4.68568
+31071,Incineration with energy recovery,kg CO2e,4.68568
+31072,Incineration with energy recovery,kg CO2e,4.68568
+31070,Composting,kg CO2e,8.98311
+31071,Composting,kg CO2e,8.98311
+31072,Composting,kg CO2e,8.98311
+31070,Landfill,kg CO2e,1164.4894
+31071,Landfill,kg CO2e,1164.4894
+31072,Landfill,kg CO2e,1164.4894
+31070,Anaerobic digestion,kg CO2e,
+31071,Anaerobic digestion,kg CO2e,
+31072,Anaerobic digestion,kg CO2e,

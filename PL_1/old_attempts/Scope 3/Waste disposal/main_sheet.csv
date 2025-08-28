@@ -1,0 +1,43 @@
+index,Scope,Level 1,Activity,Waste type,Unit
+31010,Scope 3,Waste disposal,Construction,Aggregates,tonnes
+31011,Scope 3,Waste disposal,Construction,Average construction,tonnes
+31012,Scope 3,Waste disposal,Construction,Asbestos,tonnes
+31013,Scope 3,Waste disposal,Construction,Asphalt,tonnes
+31014,Scope 3,Waste disposal,Construction,Bricks,tonnes
+31015,Scope 3,Waste disposal,Construction,Concrete,tonnes
+31016,Scope 3,Waste disposal,Construction,Insulation,tonnes
+31017,Scope 3,Waste disposal,Construction,Metals,tonnes
+31018,Scope 3,Waste disposal,Construction,Soils,tonnes
+31019,Scope 3,Waste disposal,Construction,Mineral oil,tonnes
+310110,Scope 3,Waste disposal,Construction,Plasterboard,tonnes
+310111,Scope 3,Waste disposal,Construction,Tyres,tonnes
+310112,Scope 3,Waste disposal,Construction,Wood,tonnes
+31020,Scope 3,Waste disposal,Other,Books,tonnes
+31021,Scope 3,Waste disposal,Other,Glass,tonnes
+31022,Scope 3,Waste disposal,Other,Clothing,tonnes
+31030,Scope 3,Waste disposal,Refuse,Household residual waste,tonnes
+31031,Scope 3,Waste disposal,Refuse,Organic: food and drink waste,tonnes
+31032,Scope 3,Waste disposal,Refuse,Organic: garden waste,tonnes
+31033,Scope 3,Waste disposal,Refuse,Organic: mixed food and garden waste,tonnes
+31034,Scope 3,Waste disposal,Refuse,Commercial and industrial waste,tonnes
+31040,Scope 3,Waste disposal,Electrical items,WEEE - fridges and freezers,tonnes
+31041,Scope 3,Waste disposal,Electrical items,WEEE - large,tonnes
+31042,Scope 3,Waste disposal,Electrical items,WEEE - mixed,tonnes
+31043,Scope 3,Waste disposal,Electrical items,WEEE - small,tonnes
+31044,Scope 3,Waste disposal,Electrical items,Batteries,tonnes
+31050,Scope 3,Waste disposal,Metal,Metal: aluminium cans and foil (excl. forming),tonnes
+31051,Scope 3,Waste disposal,Metal,Metal: mixed cans,tonnes
+31052,Scope 3,Waste disposal,Metal,Metal: scrap metal,tonnes
+31053,Scope 3,Waste disposal,Metal,Metal: steel cans,tonnes
+31060,Scope 3,Waste disposal,Plastic,Plastics: average plastics,tonnes
+31061,Scope 3,Waste disposal,Plastic,Plastics: average plastic film,tonnes
+31062,Scope 3,Waste disposal,Plastic,Plastics: average plastic rigid,tonnes
+31063,Scope 3,Waste disposal,Plastic,Plastics: HDPE (incl. forming),tonnes
+31064,Scope 3,Waste disposal,Plastic,Plastics: LDPE and LLDPE (incl. forming),tonnes
+31065,Scope 3,Waste disposal,Plastic,Plastics: PET (incl. forming),tonnes
+31066,Scope 3,Waste disposal,Plastic,Plastics: PP (incl. forming),tonnes
+31067,Scope 3,Waste disposal,Plastic,Plastics: PS (incl. forming),tonnes
+31068,Scope 3,Waste disposal,Plastic,Plastics: PVC (incl. forming),tonnes
+31070,Scope 3,Waste disposal,Paper,Paper and board: board,tonnes
+31071,Scope 3,Waste disposal,Paper,Paper and board: mixed,tonnes
+31072,Scope 3,Waste disposal,Paper,Paper and board: paper,tonnes

@@ -1,0 +1,77 @@
+index,Scope,Level 1,Activity,Type,Last level,UOM,GHG/Unit,GHG Conversion Factor
+2410,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,km,kWh (net),
+2411,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,miles,kWh (net),
+2412,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.13599
+2413,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.21885
+2414,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.05035
+2415,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.08103
+2416,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.05403
+2417,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.08696
+2418,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.04412
+2419,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.07101
+24110,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.05159
+24111,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.08303
+24112,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.03764
+24113,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.06057
+24114,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.07385
+24115,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.11886
+24116,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.09345
+24117,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.15039
+2410,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Mini,Battery Electric Vehicle,km,kWh (net),0.16955
+2411,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Mini,Battery Electric Vehicle,miles,kWh (net),0.27286
+2412,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Supermini,Battery Electric Vehicle,km,kWh (net),0.19308
+2413,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Supermini,Battery Electric Vehicle,miles,kWh (net),0.31072
+2414,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Lower medium,Battery Electric Vehicle,km,kWh (net),0.19642
+2415,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Lower medium,Battery Electric Vehicle,miles,kWh (net),0.31611
+2416,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Upper medium,Battery Electric Vehicle,km,kWh (net),0.21417
+2417,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Upper medium,Battery Electric Vehicle,miles,kWh (net),0.34468
+2418,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Executive,Battery Electric Vehicle,km,kWh (net),0.18891
+2419,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Executive,Battery Electric Vehicle,miles,kWh (net),0.30403
+24110,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Luxury,Battery Electric Vehicle,km,kWh (net),0.2506
+24111,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Luxury,Battery Electric Vehicle,miles,kWh (net),0.4033
+24112,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Sports,Battery Electric Vehicle,km,kWh (net),0.32014
+24113,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Sports,Battery Electric Vehicle,miles,kWh (net),0.51521
+24114,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,km,kWh (net),0.21529
+24115,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,miles,kWh (net),0.34648
+24116,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),MPV,Battery Electric Vehicle,km,kWh (net),0.26566
+24117,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),MPV,Battery Electric Vehicle,miles,kWh (net),0.42754
+2420,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.13599
+2421,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Small car,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.21885
+2422,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.05216
+2423,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.08394
+2424,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.07088
+2425,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Large car,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.11406
+2426,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,km,kWh (net),0.06562
+2427,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Average car,Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.10561
+2420,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Small car,Battery Electric Vehicle,km,kWh (net),0.18852
+2421,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Small car,Battery Electric Vehicle,miles,kWh (net),0.30339
+2422,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Medium car,Battery Electric Vehicle,km,kWh (net),0.19814
+2423,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Medium car,Battery Electric Vehicle,miles,kWh (net),0.31888
+2424,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Large car,Battery Electric Vehicle,km,kWh (net),0.21449
+2425,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Large car,Battery Electric Vehicle,miles,kWh (net),0.34519
+2426,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Average car,Battery Electric Vehicle,km,kWh (net),0.20656
+2427,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Average car,Battery Electric Vehicle,miles,kWh (net),0.33243
+2430,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,tonne.km,kWh (net),
+2431,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,km,kWh (net),
+2432,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),Plug-in Hybrid Electric Vehicle,miles,kWh (net),
+2433,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,tonne.km,kWh (net),
+2434,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,km,kWh (net),
+2435,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),Plug-in Hybrid Electric Vehicle,miles,kWh (net),
+2436,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,tonne.km,kWh (net),0.19938
+2437,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kWh (net),0.07866
+2438,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.12659
+2439,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,tonne.km,kWh (net),0.19938
+24310,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,km,kWh (net),0.07866
+24311,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),Plug-in Hybrid Electric Vehicle,miles,kWh (net),0.12659
+2430,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,tonne.km,kWh (net),0.6359
+2431,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,km,kWh (net),0.19454
+2432,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),Battery Electric Vehicle,miles,kWh (net),0.31308
+2433,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,tonne.km,kWh (net),1.27672
+2434,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,km,kWh (net),0.29614
+2435,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),Battery Electric Vehicle,miles,kWh (net),0.47659
+2436,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,tonne.km,kWh (net),1.05006
+2437,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,km,kWh (net),0.38984
+2438,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),Battery Electric Vehicle,miles,kWh (net),0.62739
+2439,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,tonne.km,kWh (net),1.12547
+24310,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,km,kWh (net),0.3582
+24311,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),Battery Electric Vehicle,miles,kWh (net),0.57647

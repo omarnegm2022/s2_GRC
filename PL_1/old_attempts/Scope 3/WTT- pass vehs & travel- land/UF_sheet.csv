@@ -1,0 +1,228 @@
+index,Last level,GHG/Unit,GHG Conversion Factor
+31610,Diesel,kg CO2e,0.02613
+31611,Diesel,kg CO2e,0.04205
+31612,Diesel,kg CO2e,0.03208
+31613,Diesel,kg CO2e,0.05162
+31614,Diesel,kg CO2e,0.03482
+31615,Diesel,kg CO2e,0.05603
+31616,Diesel,kg CO2e,0.03915
+31617,Diesel,kg CO2e,0.06301
+31618,Diesel,kg CO2e,0.0415
+31619,Diesel,kg CO2e,0.06679
+316110,Diesel,kg CO2e,0.05061
+316111,Diesel,kg CO2e,0.08145
+316112,Diesel,kg CO2e,0.04154
+316113,Diesel,kg CO2e,0.06686
+316114,Diesel,kg CO2e,0.0483
+316115,Diesel,kg CO2e,0.07773
+316116,Diesel,kg CO2e,0.04335
+316117,Diesel,kg CO2e,0.06977
+31610,Petrol,kg CO2e,0.03655
+31611,Petrol,kg CO2e,0.05881
+31612,Petrol,kg CO2e,0.04019
+31613,Petrol,kg CO2e,0.06469
+31614,Petrol,kg CO2e,0.04582
+31615,Petrol,kg CO2e,0.07375
+31616,Petrol,kg CO2e,0.05301
+31617,Petrol,kg CO2e,0.08531
+31618,Petrol,kg CO2e,0.05824
+31619,Petrol,kg CO2e,0.09373
+316110,Petrol,kg CO2e,0.08949
+316111,Petrol,kg CO2e,0.14403
+316112,Petrol,kg CO2e,0.06587
+316113,Petrol,kg CO2e,0.10601
+316114,Petrol,kg CO2e,0.0549
+316115,Petrol,kg CO2e,0.08836
+316116,Petrol,kg CO2e,0.05114
+316117,Petrol,kg CO2e,0.08231
+31610,Hybrid,kg CO2e,
+31611,Hybrid,kg CO2e,
+31612,Hybrid,kg CO2e,
+31613,Hybrid,kg CO2e,
+31614,Hybrid,kg CO2e,
+31615,Hybrid,kg CO2e,
+31616,Hybrid,kg CO2e,
+31617,Hybrid,kg CO2e,
+31618,Hybrid,kg CO2e,
+31619,Hybrid,kg CO2e,
+316110,Hybrid,kg CO2e,
+316111,Hybrid,kg CO2e,
+316112,Hybrid,kg CO2e,
+316113,Hybrid,kg CO2e,
+316114,Hybrid,kg CO2e,
+316115,Hybrid,kg CO2e,
+316116,Hybrid,kg CO2e,
+316117,Hybrid,kg CO2e,
+31610,CNG,kg CO2e,
+31611,CNG,kg CO2e,
+31612,CNG,kg CO2e,
+31613,CNG,kg CO2e,
+31614,CNG,kg CO2e,
+31615,CNG,kg CO2e,
+31616,CNG,kg CO2e,
+31617,CNG,kg CO2e,
+31618,CNG,kg CO2e,
+31619,CNG,kg CO2e,
+316110,CNG,kg CO2e,
+316111,CNG,kg CO2e,
+316112,CNG,kg CO2e,
+316113,CNG,kg CO2e,
+316114,CNG,kg CO2e,
+316115,CNG,kg CO2e,
+316116,CNG,kg CO2e,
+316117,CNG,kg CO2e,
+31610,LPG,kg CO2e,
+31611,LPG,kg CO2e,
+31612,LPG,kg CO2e,
+31613,LPG,kg CO2e,
+31614,LPG,kg CO2e,
+31615,LPG,kg CO2e,
+31616,LPG,kg CO2e,
+31617,LPG,kg CO2e,
+31618,LPG,kg CO2e,
+31619,LPG,kg CO2e,
+316110,LPG,kg CO2e,
+316111,LPG,kg CO2e,
+316112,LPG,kg CO2e,
+316113,LPG,kg CO2e,
+316114,LPG,kg CO2e,
+316115,LPG,kg CO2e,
+316116,LPG,kg CO2e,
+316117,LPG,kg CO2e,
+31610,Unknown,kg CO2e,0.03648
+31611,Unknown,kg CO2e,0.05871
+31612,Unknown,kg CO2e,0.03929
+31613,Unknown,kg CO2e,0.06324
+31614,Unknown,kg CO2e,0.04114
+31615,Unknown,kg CO2e,0.0662
+31616,Unknown,kg CO2e,0.04255
+31617,Unknown,kg CO2e,0.06847
+31618,Unknown,kg CO2e,0.04557
+31619,Unknown,kg CO2e,0.07334
+316110,Unknown,kg CO2e,0.06834
+316111,Unknown,kg CO2e,0.10998
+316112,Unknown,kg CO2e,0.06208
+316113,Unknown,kg CO2e,0.09991
+316114,Unknown,kg CO2e,0.05061
+316115,Unknown,kg CO2e,0.08145
+316116,Unknown,kg CO2e,0.04538
+316117,Unknown,kg CO2e,0.07303
+31610,Plug-in Hybrid Electric Vehicle,kg CO2e,
+31611,Plug-in Hybrid Electric Vehicle,kg CO2e,
+31612,Plug-in Hybrid Electric Vehicle,kg CO2e,0.0152
+31613,Plug-in Hybrid Electric Vehicle,kg CO2e,0.02446
+31614,Plug-in Hybrid Electric Vehicle,kg CO2e,0.0242
+31615,Plug-in Hybrid Electric Vehicle,kg CO2e,0.03894
+31616,Plug-in Hybrid Electric Vehicle,kg CO2e,0.02629
+31617,Plug-in Hybrid Electric Vehicle,kg CO2e,0.04231
+31618,Plug-in Hybrid Electric Vehicle,kg CO2e,0.02588
+31619,Plug-in Hybrid Electric Vehicle,kg CO2e,0.04165
+316110,Plug-in Hybrid Electric Vehicle,kg CO2e,0.03629
+316111,Plug-in Hybrid Electric Vehicle,kg CO2e,0.05841
+316112,Plug-in Hybrid Electric Vehicle,kg CO2e,0.03615
+316113,Plug-in Hybrid Electric Vehicle,kg CO2e,0.05817
+316114,Plug-in Hybrid Electric Vehicle,kg CO2e,0.03308
+316115,Plug-in Hybrid Electric Vehicle,kg CO2e,0.05323
+316116,Plug-in Hybrid Electric Vehicle,kg CO2e,0.02715
+316117,Plug-in Hybrid Electric Vehicle,kg CO2e,0.04369
+31610,Battery Electric Vehicle,kg CO2e,0.00851
+31611,Battery Electric Vehicle,kg CO2e,0.0137
+31612,Battery Electric Vehicle,kg CO2e,0.00971
+31613,Battery Electric Vehicle,kg CO2e,0.01563
+31614,Battery Electric Vehicle,kg CO2e,0.0102
+31615,Battery Electric Vehicle,kg CO2e,0.01642
+31616,Battery Electric Vehicle,kg CO2e,0.01044
+31617,Battery Electric Vehicle,kg CO2e,0.0168
+31618,Battery Electric Vehicle,kg CO2e,0.00944
+31619,Battery Electric Vehicle,kg CO2e,0.01519
+316110,Battery Electric Vehicle,kg CO2e,0.01272
+316111,Battery Electric Vehicle,kg CO2e,0.02047
+316112,Battery Electric Vehicle,kg CO2e,0.01628
+316113,Battery Electric Vehicle,kg CO2e,0.02619
+316114,Battery Electric Vehicle,kg CO2e,0.01106
+316115,Battery Electric Vehicle,kg CO2e,0.0178
+316116,Battery Electric Vehicle,kg CO2e,0.01455
+316117,Battery Electric Vehicle,kg CO2e,0.02341
+31620,Diesel,kg CO2e,0.03409
+31621,Diesel,kg CO2e,0.05486
+31622,Diesel,kg CO2e,0.04103
+31623,Diesel,kg CO2e,0.06603
+31624,Diesel,kg CO2e,0.0507
+31625,Diesel,kg CO2e,0.08159
+31626,Diesel,kg CO2e,0.04146
+31627,Diesel,kg CO2e,0.06673
+31620,Petrol,kg CO2e,0.04015
+31621,Petrol,kg CO2e,0.06461
+31622,Petrol,kg CO2e,0.04957
+31623,Petrol,kg CO2e,0.07977
+31624,Petrol,kg CO2e,0.07528
+31625,Petrol,kg CO2e,0.12115
+31626,Petrol,kg CO2e,0.04599
+31627,Petrol,kg CO2e,0.07401
+31620,Hybrid,kg CO2e,0.03026
+31621,Hybrid,kg CO2e,0.0487
+31622,Hybrid,kg CO2e,0.02998
+31623,Hybrid,kg CO2e,0.04824
+31624,Hybrid,kg CO2e,0.03961
+31625,Hybrid,kg CO2e,0.06374
+31626,Hybrid,kg CO2e,0.03315
+31627,Hybrid,kg CO2e,0.05335
+31620,CNG,kg CO2e,
+31621,CNG,kg CO2e,
+31622,CNG,kg CO2e,0.03211
+31623,CNG,kg CO2e,0.05167
+31624,CNG,kg CO2e,0.04876
+31625,CNG,kg CO2e,0.07847
+31626,CNG,kg CO2e,0.03591
+31627,CNG,kg CO2e,0.05779
+31620,LPG,kg CO2e,
+31621,LPG,kg CO2e,
+31622,LPG,kg CO2e,0.02093
+31623,LPG,kg CO2e,0.03368
+31624,LPG,kg CO2e,0.03179
+31625,LPG,kg CO2e,0.05115
+31626,LPG,kg CO2e,0.02341
+31627,LPG,kg CO2e,0.03767
+31620,Unknown,kg CO2e,0.03836
+31621,Unknown,kg CO2e,0.06173
+31622,Unknown,kg CO2e,0.04518
+31623,Unknown,kg CO2e,0.07271
+31624,Unknown,kg CO2e,0.05764
+31625,Unknown,kg CO2e,0.09276
+31626,Unknown,kg CO2e,0.04399
+31627,Unknown,kg CO2e,0.07079
+31620,Plug-in Hybrid Electric Vehicle,kg CO2e,0.0152
+31621,Plug-in Hybrid Electric Vehicle,kg CO2e,0.02446
+31622,Plug-in Hybrid Electric Vehicle,kg CO2e,0.02524
+31623,Plug-in Hybrid Electric Vehicle,kg CO2e,0.04063
+31624,Plug-in Hybrid Electric Vehicle,kg CO2e,0.03221
+31625,Plug-in Hybrid Electric Vehicle,kg CO2e,0.05184
+31626,Plug-in Hybrid Electric Vehicle,kg CO2e,0.02934
+31627,Plug-in Hybrid Electric Vehicle,kg CO2e,0.04721
+31620,Battery Electric Vehicle,kg CO2e,0.00948
+31621,Battery Electric Vehicle,kg CO2e,0.01525
+31622,Battery Electric Vehicle,kg CO2e,0.01022
+31623,Battery Electric Vehicle,kg CO2e,0.01645
+31624,Battery Electric Vehicle,kg CO2e,0.01088
+31625,Battery Electric Vehicle,kg CO2e,0.0175
+31626,Battery Electric Vehicle,kg CO2e,0.01049
+31627,Battery Electric Vehicle,kg CO2e,0.01688
+31630,,kg CO2e,0.02148
+31631,,kg CO2e,0.03457
+31632,,kg CO2e,0.02608
+31633,,kg CO2e,0.04196
+31634,,kg CO2e,0.03469
+31635,,kg CO2e,0.05583
+31636,,kg CO2e,0.02956
+31637,,kg CO2e,0.04757
+31640,,kg CO2e,0.03697
+31641,,kg CO2e,0.05176
+31642,,kg CO2e,0.0509
+31643,,kg CO2e,0.07634
+31650,,kg CO2e,0.03174
+31651,,kg CO2e,0.01821
+31652,,kg CO2e,0.02649
+31653,,kg CO2e,0.00656
+31660,,kg CO2e,0.00897
+31661,,kg CO2e,0.00117
+31662,,kg CO2e,0.00749

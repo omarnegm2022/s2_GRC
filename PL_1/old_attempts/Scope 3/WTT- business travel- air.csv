@@ -1,0 +1,29 @@
+index,Scope,Level 1,Activity,Haul,Class,Last level,UOM,GHG/Unit,GHG Conversion Factor
+31210,Scope 3,WTT- business travel- air,WTT- flights,"Domestic, to/from UK",Average passenger,With RF,passenger.km,kg CO2e,0.0335
+31211,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e,0.02286
+31212,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e,0.02249
+31213,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e,0.03373
+31214,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e,0.03213
+31215,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e,0.02461
+31216,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Premium economy class,With RF,passenger.km,kg CO2e,0.03937
+31217,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e,0.07137
+31218,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",First class,With RF,passenger.km,kg CO2e,0.09844
+31219,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Average passenger,With RF,passenger.km,kg CO2e,0.02162
+312110,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Economy class,With RF,passenger.km,kg CO2e,0.01656
+312111,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Premium economy class,With RF,passenger.km,kg CO2e,0.02649
+312112,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Business class,With RF,passenger.km,kg CO2e,0.04802
+312113,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",First class,With RF,passenger.km,kg CO2e,0.06623
+31210,Scope 3,WTT- business travel- air,WTT- flights,"Domestic, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e,0.0335
+31211,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e,0.02286
+31212,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e,0.02249
+31213,Scope 3,WTT- business travel- air,WTT- flights,"Short-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e,0.03373
+31214,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e,0.03213
+31215,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e,0.02461
+31216,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Premium economy class,Without RF,passenger.km,kg CO2e,0.03937
+31217,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e,0.07137
+31218,Scope 3,WTT- business travel- air,WTT- flights,"Long-haul, to/from UK",First class,Without RF,passenger.km,kg CO2e,0.09844
+31219,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Average passenger,Without RF,passenger.km,kg CO2e,0.02162
+312110,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Economy class,Without RF,passenger.km,kg CO2e,0.01656
+312111,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Premium economy class,Without RF,passenger.km,kg CO2e,0.02649
+312112,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",Business class,Without RF,passenger.km,kg CO2e,0.04802
+312113,Scope 3,WTT- business travel- air,WTT- flights,"International, to/from non-UK",First class,Without RF,passenger.km,kg CO2e,0.06623

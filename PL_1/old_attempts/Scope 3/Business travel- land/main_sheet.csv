@@ -1,0 +1,46 @@
+index,Scope,Level 1,Activity,Type,Unit
+31510,Scope 3,Business travel- land,Cars (by market segment),Mini,km
+31511,Scope 3,Business travel- land,Cars (by market segment),Mini,miles
+31512,Scope 3,Business travel- land,Cars (by market segment),Supermini,km
+31513,Scope 3,Business travel- land,Cars (by market segment),Supermini,miles
+31514,Scope 3,Business travel- land,Cars (by market segment),Lower medium,km
+31515,Scope 3,Business travel- land,Cars (by market segment),Lower medium,miles
+31516,Scope 3,Business travel- land,Cars (by market segment),Upper medium,km
+31517,Scope 3,Business travel- land,Cars (by market segment),Upper medium,miles
+31518,Scope 3,Business travel- land,Cars (by market segment),Executive,km
+31519,Scope 3,Business travel- land,Cars (by market segment),Executive,miles
+315110,Scope 3,Business travel- land,Cars (by market segment),Luxury,km
+315111,Scope 3,Business travel- land,Cars (by market segment),Luxury,miles
+315112,Scope 3,Business travel- land,Cars (by market segment),Sports,km
+315113,Scope 3,Business travel- land,Cars (by market segment),Sports,miles
+315114,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,km
+315115,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,miles
+315116,Scope 3,Business travel- land,Cars (by market segment),MPV,km
+315117,Scope 3,Business travel- land,Cars (by market segment),MPV,miles
+31520,Scope 3,Business travel- land,Cars (by size),Small car,km
+31521,Scope 3,Business travel- land,Cars (by size),Small car,miles
+31522,Scope 3,Business travel- land,Cars (by size),Medium car,km
+31523,Scope 3,Business travel- land,Cars (by size),Medium car,miles
+31524,Scope 3,Business travel- land,Cars (by size),Large car,km
+31525,Scope 3,Business travel- land,Cars (by size),Large car,miles
+31526,Scope 3,Business travel- land,Cars (by size),Average car,km
+31527,Scope 3,Business travel- land,Cars (by size),Average car,miles
+31530,Scope 3,Business travel- land,Motorbike,Small,km
+31531,Scope 3,Business travel- land,Motorbike,Small,miles
+31532,Scope 3,Business travel- land,Motorbike,Medium,km
+31533,Scope 3,Business travel- land,Motorbike,Medium,miles
+31534,Scope 3,Business travel- land,Motorbike,Large,km
+31535,Scope 3,Business travel- land,Motorbike,Large,miles
+31536,Scope 3,Business travel- land,Motorbike,Average,km
+31537,Scope 3,Business travel- land,Motorbike,Average,miles
+31540,Scope 3,Business travel- land,Taxis,Regular taxi,passenger.km
+31541,Scope 3,Business travel- land,Taxis,Regular taxi,km
+31542,Scope 3,Business travel- land,Taxis,Black cab,passenger.km
+31543,Scope 3,Business travel- land,Taxis,Black cab,km
+31550,Scope 3,Business travel- land,Bus,Local bus (not London),passenger.km
+31551,Scope 3,Business travel- land,Bus,Local London bus,passenger.km
+31552,Scope 3,Business travel- land,Bus,Average local bus,passenger.km
+31553,Scope 3,Business travel- land,Bus,Coach,passenger.km
+31560,Scope 3,Business travel- land,Rail,National rail,passenger.km
+31561,Scope 3,Business travel- land,Rail,International rail,passenger.km
+31562,Scope 3,Business travel- land,Rail,Light rail and tram,passenger.km

@@ -1,0 +1,52 @@
+index,Scope,Level 1,Activity,Fuel,UOM,GHG/Unit,GHG Conversion Factor
+1210,Scope 1,Bioenergy,Biofuel,Bioethanol,litres,kg CO2e,0.00901
+1211,Scope 1,Bioenergy,Biofuel,Bioethanol,GJ,kg CO2e,0.42339
+1212,Scope 1,Bioenergy,Biofuel,Bioethanol,kg,kg CO2e,0.01135
+1213,Scope 1,Bioenergy,Biofuel,Biodiesel ME,litres,kg CO2e,0.16751
+1214,Scope 1,Bioenergy,Biofuel,Biodiesel ME,GJ,kg CO2e,5.05961
+1215,Scope 1,Bioenergy,Biofuel,Biodiesel ME,kg,kg CO2e,0.18822
+1216,Scope 1,Bioenergy,Biofuel,Biomethane (compressed),litres,kg CO2e,
+1217,Scope 1,Bioenergy,Biofuel,Biomethane (compressed),GJ,kg CO2e,0.10625
+1218,Scope 1,Bioenergy,Biofuel,Biomethane (compressed),kg,kg CO2e,0.00521
+1219,Scope 1,Bioenergy,Biofuel,Biodiesel ME (from used cooking oil),litres,kg CO2e,0.16751
+12110,Scope 1,Bioenergy,Biofuel,Biodiesel ME (from used cooking oil),GJ,kg CO2e,5.05961
+12111,Scope 1,Bioenergy,Biofuel,Biodiesel ME (from used cooking oil),kg,kg CO2e,0.18822
+12112,Scope 1,Bioenergy,Biofuel,Biodiesel ME (from tallow),litres,kg CO2e,0.16751
+12113,Scope 1,Bioenergy,Biofuel,Biodiesel ME (from tallow),GJ,kg CO2e,5.05961
+12114,Scope 1,Bioenergy,Biofuel,Biodiesel ME (from tallow),kg,kg CO2e,0.18822
+12115,Scope 1,Bioenergy,Biofuel,Biodiesel HVO,litres,kg CO2e,0.03558
+12116,Scope 1,Bioenergy,Biofuel,Biodiesel HVO,GJ,kg CO2e,1.03677
+12117,Scope 1,Bioenergy,Biofuel,Biodiesel HVO,kg,kg CO2e,0.04562
+12118,Scope 1,Bioenergy,Biofuel,Biopropane,litres,kg CO2e,0.00213
+12119,Scope 1,Bioenergy,Biofuel,Biopropane,GJ,kg CO2e,0.08952
+12120,Scope 1,Bioenergy,Biofuel,Biopropane,kg,kg CO2e,0.00415
+12121,Scope 1,Bioenergy,Biofuel,Development diesel,litres,kg CO2e,0.03705
+12122,Scope 1,Bioenergy,Biofuel,Development diesel,GJ,kg CO2e,1.03677
+12123,Scope 1,Bioenergy,Biofuel,Development diesel,kg,kg CO2e,0.04461
+12124,Scope 1,Bioenergy,Biofuel,Development petrol,litres,kg CO2e,0.01402
+12125,Scope 1,Bioenergy,Biofuel,Development petrol,GJ,kg CO2e,0.42339
+12126,Scope 1,Bioenergy,Biofuel,Development petrol,kg,kg CO2e,0.0189
+12127,Scope 1,Bioenergy,Biofuel,Off road biodiesel,litres,kg CO2e,0.16751
+12128,Scope 1,Bioenergy,Biofuel,Off road biodiesel,GJ,kg CO2e,5.05961
+12129,Scope 1,Bioenergy,Biofuel,Off road biodiesel,kg,kg CO2e,0.18822
+12130,Scope 1,Bioenergy,Biofuel,Biomethane (liquified),litres,kg CO2e,
+12131,Scope 1,Bioenergy,Biofuel,Biomethane (liquified),GJ,kg CO2e,0.10625
+12132,Scope 1,Bioenergy,Biofuel,Biomethane (liquified),kg,kg CO2e,0.00521
+12133,Scope 1,Bioenergy,Biofuel,Methanol (bio),litres,kg CO2e,0.00669
+12134,Scope 1,Bioenergy,Biofuel,Methanol (bio),GJ,kg CO2e,0.42339
+12135,Scope 1,Bioenergy,Biofuel,Methanol (bio),kg,kg CO2e,0.00844
+12136,Scope 1,Bioenergy,Biofuel,Avtur (renewable),litres,kg CO2e,0.02531
+12137,Scope 1,Bioenergy,Biofuel,Avtur (renewable),GJ,kg CO2e,0.7234
+12138,Scope 1,Bioenergy,Biofuel,Avtur (renewable),kg,kg CO2e,0.03179
+1220,Scope 1,Bioenergy,Biomass,Wood logs,tonnes,kg CO2e,46.98508
+1221,Scope 1,Bioenergy,Biomass,Wood logs,kWh,kg CO2e,0.0115
+1222,Scope 1,Bioenergy,Biomass,Wood chips,tonnes,kg CO2e,43.43964
+1223,Scope 1,Bioenergy,Biomass,Wood chips,kWh,kg CO2e,0.0115
+1224,Scope 1,Bioenergy,Biomass,Wood pellets,tonnes,kg CO2e,55.19389
+1225,Scope 1,Bioenergy,Biomass,Wood pellets,kWh,kg CO2e,0.0115
+1226,Scope 1,Bioenergy,Biomass,Grass/straw,tonnes,kg CO2e,47.35709
+1227,Scope 1,Bioenergy,Biomass,Grass/straw,kWh,kg CO2e,0.01273
+1230,Scope 1,Bioenergy,Biogas,Biogas,tonnes,kg CO2e,1.24314
+1231,Scope 1,Bioenergy,Biogas,Biogas,kWh,kg CO2e,0.00022
+1232,Scope 1,Bioenergy,Biogas,Landfill gas,tonnes,kg CO2e,0.69696
+1233,Scope 1,Bioenergy,Biogas,Landfill gas,kWh,kg CO2e,0.0002

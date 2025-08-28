@@ -1,0 +1,35 @@
+index,Scope,Level 1,Activity,Type,Unit
+1410,Scope 1,Passenger vehicles,Cars (by market segment),Mini,km
+1411,Scope 1,Passenger vehicles,Cars (by market segment),Mini,miles
+1412,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,km
+1413,Scope 1,Passenger vehicles,Cars (by market segment),Supermini,miles
+1414,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,km
+1415,Scope 1,Passenger vehicles,Cars (by market segment),Lower medium,miles
+1416,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,km
+1417,Scope 1,Passenger vehicles,Cars (by market segment),Upper medium,miles
+1418,Scope 1,Passenger vehicles,Cars (by market segment),Executive,km
+1419,Scope 1,Passenger vehicles,Cars (by market segment),Executive,miles
+14110,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,km
+14111,Scope 1,Passenger vehicles,Cars (by market segment),Luxury,miles
+14112,Scope 1,Passenger vehicles,Cars (by market segment),Sports,km
+14113,Scope 1,Passenger vehicles,Cars (by market segment),Sports,miles
+14114,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,km
+14115,Scope 1,Passenger vehicles,Cars (by market segment),Dual purpose 4X4,miles
+14116,Scope 1,Passenger vehicles,Cars (by market segment),MPV,km
+14117,Scope 1,Passenger vehicles,Cars (by market segment),MPV,miles
+1420,Scope 1,Passenger vehicles,Cars (by size),Small car,km
+1421,Scope 1,Passenger vehicles,Cars (by size),Small car,miles
+1422,Scope 1,Passenger vehicles,Cars (by size),Medium car,km
+1423,Scope 1,Passenger vehicles,Cars (by size),Medium car,miles
+1424,Scope 1,Passenger vehicles,Cars (by size),Large car,km
+1425,Scope 1,Passenger vehicles,Cars (by size),Large car,miles
+1426,Scope 1,Passenger vehicles,Cars (by size),Average car,km
+1427,Scope 1,Passenger vehicles,Cars (by size),Average car,miles
+1430,Scope 1,Passenger vehicles,Motorbike,Small,km
+1431,Scope 1,Passenger vehicles,Motorbike,Small,miles
+1432,Scope 1,Passenger vehicles,Motorbike,Medium,km
+1433,Scope 1,Passenger vehicles,Motorbike,Medium,miles
+1434,Scope 1,Passenger vehicles,Motorbike,Large,km
+1435,Scope 1,Passenger vehicles,Motorbike,Large,miles
+1436,Scope 1,Passenger vehicles,Motorbike,Average,km
+1437,Scope 1,Passenger vehicles,Motorbike,Average,miles

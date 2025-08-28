@@ -1,0 +1,9 @@
+index,Scope,Level 1,Activity,Type,Last level,UOM,GHG/Unit,GHG Conversion Factor
+2510,Scope 2,Heat and steam,Heat and steam,Onsite heat and steam,kWh,kWh,kg CO2e,0.17529
+2511,Scope 2,Heat and steam,Heat and steam,District heat and steam,kWh,kWh,kg CO2e,0.17529
+2510,Scope 2,Heat and steam,Heat and steam,Onsite heat and steam,kWh,kWh,kg CO2e of CO2 per unit,0.17355
+2511,Scope 2,Heat and steam,Heat and steam,District heat and steam,kWh,kWh,kg CO2e of CO2 per unit,0.17355
+2510,Scope 2,Heat and steam,Heat and steam,Onsite heat and steam,kWh,kWh,kg CO2e of CH4 per unit,0.00122
+2511,Scope 2,Heat and steam,Heat and steam,District heat and steam,kWh,kWh,kg CO2e of CH4 per unit,0.00122
+2510,Scope 2,Heat and steam,Heat and steam,Onsite heat and steam,kWh,kWh,kg CO2e of N2O per unit,0.00052
+2511,Scope 2,Heat and steam,Heat and steam,District heat and steam,kWh,kWh,kg CO2e of N2O per unit,0.00052

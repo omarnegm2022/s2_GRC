@@ -1,0 +1,439 @@
+index,Last level,GHG/Unit,GHG Conversion Factor
+1610,Diesel,kWh (Net CV),0.42263
+1611,Diesel,kWh (Net CV),0.68015
+1612,Diesel,kWh (Net CV),0.51849
+1613,Diesel,kWh (Net CV),0.83443
+1614,Diesel,kWh (Net CV),0.56007
+1615,Diesel,kWh (Net CV),0.90135
+1616,Diesel,kWh (Net CV),0.62553
+1617,Diesel,kWh (Net CV),1.0067
+1618,Diesel,kWh (Net CV),0.66042
+1619,Diesel,kWh (Net CV),1.06284
+16110,Diesel,kWh (Net CV),0.79877
+16111,Diesel,kWh (Net CV),1.28549
+16112,Diesel,kWh (Net CV),0.66959
+16113,Diesel,kWh (Net CV),1.0776
+16114,Diesel,kWh (Net CV),0.77304
+16115,Diesel,kWh (Net CV),1.24409
+16116,Diesel,kWh (Net CV),0.69884
+16117,Diesel,kWh (Net CV),1.12468
+1610,Petrol,kWh (Net CV),0.56434
+1611,Petrol,kWh (Net CV),0.90821
+1612,Petrol,kWh (Net CV),0.61702
+1613,Petrol,kWh (Net CV),0.993
+1614,Petrol,kWh (Net CV),0.69727
+1615,Petrol,kWh (Net CV),1.12214
+1616,Petrol,kWh (Net CV),0.80198
+1617,Petrol,kWh (Net CV),1.29067
+1618,Petrol,kWh (Net CV),0.86881
+1619,Petrol,kWh (Net CV),1.39821
+16110,Petrol,kWh (Net CV),1.33257
+16111,Petrol,kWh (Net CV),2.14457
+16112,Petrol,kWh (Net CV),1.01311
+16113,Petrol,kWh (Net CV),1.63044
+16114,Petrol,kWh (Net CV),0.83171
+16115,Petrol,kWh (Net CV),1.33851
+16116,Petrol,kWh (Net CV),0.77457
+16117,Petrol,kWh (Net CV),1.24655
+1610,Unknown,kWh (Net CV),0.56341
+1611,Unknown,kWh (Net CV),0.90672
+1612,Unknown,kWh (Net CV),0.60573
+1613,Unknown,kWh (Net CV),0.97482
+1614,Unknown,kWh (Net CV),0.63734
+1615,Unknown,kWh (Net CV),1.0257
+1616,Unknown,kWh (Net CV),0.66409
+1617,Unknown,kWh (Net CV),1.06875
+1618,Unknown,kWh (Net CV),0.70911
+1619,Unknown,kWh (Net CV),1.14121
+16110,Unknown,kWh (Net CV),1.02561
+16111,Unknown,kWh (Net CV),1.65056
+16112,Unknown,kWh (Net CV),0.95159
+16113,Unknown,kWh (Net CV),1.53144
+16114,Unknown,kWh (Net CV),0.79464
+16115,Unknown,kWh (Net CV),1.27885
+16116,Unknown,kWh (Net CV),0.71496
+16117,Unknown,kWh (Net CV),1.15062
+1610,Plug-in Hybrid Electric Vehicle,kWh (Net CV),
+1611,Plug-in Hybrid Electric Vehicle,kWh (Net CV),
+1612,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.13002
+1613,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.20924
+1614,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.32312
+1615,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.52001
+1616,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.3492
+1617,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.56198
+1618,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.35254
+1619,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.56736
+16110,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.49634
+16111,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.79878
+16112,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.61275
+16113,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.98612
+16114,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.44006
+16115,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.70822
+16116,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.36092
+16117,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.58085
+1610,Battery Electric Vehicle,kWh (Net CV),0.0
+1611,Battery Electric Vehicle,kWh (Net CV),0.0
+1612,Battery Electric Vehicle,kWh (Net CV),0.0
+1613,Battery Electric Vehicle,kWh (Net CV),0.0
+1614,Battery Electric Vehicle,kWh (Net CV),0.0
+1615,Battery Electric Vehicle,kWh (Net CV),0.0
+1616,Battery Electric Vehicle,kWh (Net CV),0.0
+1617,Battery Electric Vehicle,kWh (Net CV),0.0
+1618,Battery Electric Vehicle,kWh (Net CV),0.0
+1619,Battery Electric Vehicle,kWh (Net CV),0.0
+16110,Battery Electric Vehicle,kWh (Net CV),0.0
+16111,Battery Electric Vehicle,kWh (Net CV),0.0
+16112,Battery Electric Vehicle,kWh (Net CV),0.0
+16113,Battery Electric Vehicle,kWh (Net CV),0.0
+16114,Battery Electric Vehicle,kWh (Net CV),0.0
+16115,Battery Electric Vehicle,kWh (Net CV),0.0
+16116,Battery Electric Vehicle,kWh (Net CV),0.0
+16117,Battery Electric Vehicle,kWh (Net CV),0.0
+1620,Diesel,kWh (Net CV),0.55315
+1621,Diesel,kWh (Net CV),0.8902
+1622,Diesel,kWh (Net CV),0.66377
+1623,Diesel,kWh (Net CV),1.06824
+1624,Diesel,kWh (Net CV),0.8134
+1625,Diesel,kWh (Net CV),1.30903
+1626,Diesel,kWh (Net CV),0.66887
+1627,Diesel,kWh (Net CV),1.07644
+1620,Petrol,kWh (Net CV),0.61844
+1621,Petrol,kWh (Net CV),0.99529
+1622,Petrol,kWh (Net CV),0.75592
+1623,Petrol,kWh (Net CV),1.21653
+1624,Petrol,kWh (Net CV),1.16215
+1625,Petrol,kWh (Net CV),1.87031
+1626,Petrol,kWh (Net CV),0.70374
+1627,Petrol,kWh (Net CV),1.13256
+1620,Hybrid,kWh (Net CV),0.47595
+1621,Hybrid,kWh (Net CV),0.76596
+1622,Hybrid,kWh (Net CV),0.47641
+1623,Hybrid,kWh (Net CV),0.7667
+1624,Hybrid,kWh (Net CV),0.62334
+1625,Hybrid,kWh (Net CV),1.00316
+1626,Hybrid,kWh (Net CV),0.52624
+1627,Hybrid,kWh (Net CV),0.8469
+1620,CNG,kWh (Net CV),
+1621,CNG,kWh (Net CV),
+1622,CNG,kWh (Net CV),0.75592
+1623,CNG,kWh (Net CV),1.21653
+1624,CNG,kWh (Net CV),1.16215
+1625,CNG,kWh (Net CV),1.87031
+1626,CNG,kWh (Net CV),0.85033
+1627,CNG,kWh (Net CV),1.36847
+1620,LPG,kWh (Net CV),
+1621,LPG,kWh (Net CV),
+1622,LPG,kWh (Net CV),0.75592
+1623,LPG,kWh (Net CV),1.21653
+1624,LPG,kWh (Net CV),1.16215
+1625,LPG,kWh (Net CV),1.87031
+1626,LPG,kWh (Net CV),0.85033
+1627,LPG,kWh (Net CV),1.36847
+1620,Unknown,kWh (Net CV),0.59833
+1621,Unknown,kWh (Net CV),0.96292
+1622,Unknown,kWh (Net CV),0.70622
+1623,Unknown,kWh (Net CV),1.13655
+1624,Unknown,kWh (Net CV),0.90586
+1625,Unknown,kWh (Net CV),1.45784
+1626,Unknown,kWh (Net CV),0.68773
+1627,Unknown,kWh (Net CV),1.10679
+1620,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.13002
+1621,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.20924
+1622,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.33596
+1623,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.54068
+1624,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.43227
+1625,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.69566
+1626,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.39517
+1627,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.63596
+1620,Battery Electric Vehicle,kWh (Net CV),0.0
+1621,Battery Electric Vehicle,kWh (Net CV),0.0
+1622,Battery Electric Vehicle,kWh (Net CV),0.0
+1623,Battery Electric Vehicle,kWh (Net CV),0.0
+1624,Battery Electric Vehicle,kWh (Net CV),0.0
+1625,Battery Electric Vehicle,kWh (Net CV),0.0
+1626,Battery Electric Vehicle,kWh (Net CV),0.0
+1627,Battery Electric Vehicle,kWh (Net CV),0.0
+1630,,kWh (Net CV),0.33622
+1631,,kWh (Net CV),0.5411
+1632,,kWh (Net CV),0.40813
+1633,,kWh (Net CV),0.65682
+1634,,kWh (Net CV),0.54296
+1635,,kWh (Net CV),0.8738
+1636,,kWh (Net CV),0.46265
+1637,,kWh (Net CV),0.74456
+1640,Diesel,kWh (Net CV),3.37629
+1641,Diesel,kWh (Net CV),0.60782
+1642,Diesel,kWh (Net CV),0.97819
+1643,Diesel,kWh (Net CV),2.4197
+1644,Diesel,kWh (Net CV),0.74527
+1645,Diesel,kWh (Net CV),1.19939
+1646,Diesel,kWh (Net CV),2.43865
+1647,Diesel,kWh (Net CV),1.08164
+1648,Diesel,kWh (Net CV),1.74073
+1649,Diesel,kWh (Net CV),2.44788
+16410,Diesel,kWh (Net CV),0.99123
+16411,Diesel,kWh (Net CV),1.59524
+1640,Petrol,kWh (Net CV),6.18982
+1641,Petrol,kWh (Net CV),0.8737
+1642,Petrol,kWh (Net CV),1.40608
+1643,Petrol,kWh (Net CV),3.52978
+1644,Petrol,kWh (Net CV),0.90349
+1645,Petrol,kWh (Net CV),1.45403
+1646,Petrol,kWh (Net CV),3.62274
+1647,Petrol,kWh (Net CV),1.46679
+1648,Petrol,kWh (Net CV),2.36057
+1649,Petrol,kWh (Net CV),3.70436
+16410,Petrol,kWh (Net CV),0.92352
+16411,Petrol,kWh (Net CV),1.48626
+1640,CNG,kWh (Net CV),
+1641,CNG,kWh (Net CV),
+1642,CNG,kWh (Net CV),
+1643,CNG,kWh (Net CV),
+1644,CNG,kWh (Net CV),
+1645,CNG,kWh (Net CV),
+1646,CNG,kWh (Net CV),
+1647,CNG,kWh (Net CV),
+1648,CNG,kWh (Net CV),
+1649,CNG,kWh (Net CV),3.06318
+16410,CNG,kWh (Net CV),1.23247
+16411,CNG,kWh (Net CV),1.98347
+1640,LPG,kWh (Net CV),
+1641,LPG,kWh (Net CV),
+1642,LPG,kWh (Net CV),
+1643,LPG,kWh (Net CV),
+1644,LPG,kWh (Net CV),
+1645,LPG,kWh (Net CV),
+1646,LPG,kWh (Net CV),
+1647,LPG,kWh (Net CV),
+1648,LPG,kWh (Net CV),
+1649,LPG,kWh (Net CV),2.84474
+16410,LPG,kWh (Net CV),1.14458
+16411,LPG,kWh (Net CV),1.84203
+1640,Unknown,kWh (Net CV),
+1641,Unknown,kWh (Net CV),
+1642,Unknown,kWh (Net CV),
+1643,Unknown,kWh (Net CV),
+1644,Unknown,kWh (Net CV),
+1645,Unknown,kWh (Net CV),
+1646,Unknown,kWh (Net CV),
+1647,Unknown,kWh (Net CV),
+1648,Unknown,kWh (Net CV),
+1649,Unknown,kWh (Net CV),2.48303
+16410,Unknown,kWh (Net CV),0.98934
+16411,Unknown,kWh (Net CV),1.59219
+1640,Plug-in Hybrid Electric Vehicle,kWh (Net CV),
+1641,Plug-in Hybrid Electric Vehicle,kWh (Net CV),
+1642,Plug-in Hybrid Electric Vehicle,kWh (Net CV),
+1643,Plug-in Hybrid Electric Vehicle,kWh (Net CV),
+1644,Plug-in Hybrid Electric Vehicle,kWh (Net CV),
+1645,Plug-in Hybrid Electric Vehicle,kWh (Net CV),
+1646,Plug-in Hybrid Electric Vehicle,kWh (Net CV),1.41725
+1647,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.55914
+1648,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.89985
+1649,Plug-in Hybrid Electric Vehicle,kWh (Net CV),1.41725
+16410,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.55914
+16411,Plug-in Hybrid Electric Vehicle,kWh (Net CV),0.89985
+1640,Battery Electric Vehicle,kWh (Net CV),0.0
+1641,Battery Electric Vehicle,kWh (Net CV),0.0
+1642,Battery Electric Vehicle,kWh (Net CV),0.0
+1643,Battery Electric Vehicle,kWh (Net CV),0.0
+1644,Battery Electric Vehicle,kWh (Net CV),0.0
+1645,Battery Electric Vehicle,kWh (Net CV),0.0
+1646,Battery Electric Vehicle,kWh (Net CV),0.0
+1647,Battery Electric Vehicle,kWh (Net CV),0.0
+1648,Battery Electric Vehicle,kWh (Net CV),0.0
+1649,Battery Electric Vehicle,kWh (Net CV),0.0
+16410,Battery Electric Vehicle,kWh (Net CV),0.0
+16411,Battery Electric Vehicle,kWh (Net CV),0.0
+1650,0% Laden,kWh (Net CV),
+1651,0% Laden,kWh (Net CV),1.77572
+1652,0% Laden,kWh (Net CV),2.85774
+1653,0% Laden,kWh (Net CV),
+1654,0% Laden,kWh (Net CV),2.11587
+1655,0% Laden,kWh (Net CV),3.40516
+1656,0% Laden,kWh (Net CV),
+1657,0% Laden,kWh (Net CV),2.97151
+1658,0% Laden,kWh (Net CV),4.78218
+1659,0% Laden,kWh (Net CV),
+16510,0% Laden,kWh (Net CV),2.60875
+16511,0% Laden,kWh (Net CV),4.19838
+16512,0% Laden,kWh (Net CV),
+16513,0% Laden,kWh (Net CV),2.39668
+16514,0% Laden,kWh (Net CV),3.85708
+16515,0% Laden,kWh (Net CV),
+16516,0% Laden,kWh (Net CV),2.46257
+16517,0% Laden,kWh (Net CV),3.96313
+16518,0% Laden,kWh (Net CV),
+16519,0% Laden,kWh (Net CV),2.46007
+16520,0% Laden,kWh (Net CV),3.9591
+16521,0% Laden,kWh (Net CV),
+16522,0% Laden,kWh (Net CV),2.52083
+16523,0% Laden,kWh (Net CV),4.05688
+1650,50% Laden,kWh (Net CV),1.76854
+1651,50% Laden,kWh (Net CV),1.93013
+1652,50% Laden,kWh (Net CV),3.10624
+1653,50% Laden,kWh (Net CV),1.01776
+1654,50% Laden,kWh (Net CV),2.41813
+1655,50% Laden,kWh (Net CV),3.89161
+1656,50% Laden,kWh (Net CV),0.81294
+1657,50% Laden,kWh (Net CV),3.62379
+1658,50% Laden,kWh (Net CV),5.83193
+1659,50% Laden,kWh (Net CV),0.86921
+16510,50% Laden,kWh (Net CV),3.11069
+16511,50% Laden,kWh (Net CV),5.00616
+16512,50% Laden,kWh (Net CV),0.49179
+16513,50% Laden,kWh (Net CV),2.99585
+16514,50% Laden,kWh (Net CV),4.82135
+16515,50% Laden,kWh (Net CV),0.36784
+16516,50% Laden,kWh (Net CV),3.28343
+16517,50% Laden,kWh (Net CV),5.28417
+16518,50% Laden,kWh (Net CV),0.37029
+16519,50% Laden,kWh (Net CV),3.27252
+16520,50% Laden,kWh (Net CV),5.26661
+16521,50% Laden,kWh (Net CV),0.46887
+16522,50% Laden,kWh (Net CV),3.20639
+16523,50% Laden,kWh (Net CV),5.16018
+1650,100% Laden,kWh (Net CV),0.95501
+1651,100% Laden,kWh (Net CV),2.08454
+1652,100% Laden,kWh (Net CV),3.35474
+1653,100% Laden,kWh (Net CV),0.57249
+1654,100% Laden,kWh (Net CV),2.7204
+1655,100% Laden,kWh (Net CV),4.37806
+1656,100% Laden,kWh (Net CV),0.47963
+1657,100% Laden,kWh (Net CV),4.27608
+1658,100% Laden,kWh (Net CV),6.88168
+1659,100% Laden,kWh (Net CV),0.50724
+16510,100% Laden,kWh (Net CV),3.61262
+16511,100% Laden,kWh (Net CV),5.81395
+16512,100% Laden,kWh (Net CV),0.29507
+16513,100% Laden,kWh (Net CV),3.59502
+16514,100% Laden,kWh (Net CV),5.78562
+16515,100% Laden,kWh (Net CV),0.2299
+16516,100% Laden,kWh (Net CV),4.10429
+16517,100% Laden,kWh (Net CV),6.60521
+16518,100% Laden,kWh (Net CV),0.23119
+16519,100% Laden,kWh (Net CV),4.08496
+16520,100% Laden,kWh (Net CV),6.57411
+16521,100% Laden,kWh (Net CV),0.28573
+16522,100% Laden,kWh (Net CV),3.89194
+16523,100% Laden,kWh (Net CV),6.26347
+1650,Average Laden,kWh (Net CV),2.03341
+1651,Average Laden,kWh (Net CV),1.90851
+1652,Average Laden,kWh (Net CV),3.07145
+1653,Average Laden,kWh (Net CV),1.39942
+1654,Average Laden,kWh (Net CV),2.32745
+1655,Average Laden,kWh (Net CV),3.74567
+1656,Average Laden,kWh (Net CV),0.65963
+1657,Average Laden,kWh (Net CV),3.81861
+1658,Average Laden,kWh (Net CV),6.14546
+1659,Average Laden,kWh (Net CV),0.75975
+16510,Average Laden,kWh (Net CV),3.22545
+16511,Average Laden,kWh (Net CV),5.19086
+16512,Average Laden,kWh (Net CV),0.48407
+16513,Average Laden,kWh (Net CV),3.00783
+16514,Average Laden,kWh (Net CV),4.84063
+16515,Average Laden,kWh (Net CV),0.29481
+16516,Average Laden,kWh (Net CV),3.57894
+16517,Average Laden,kWh (Net CV),5.75974
+16518,Average Laden,kWh (Net CV),0.29856
+16519,Average Laden,kWh (Net CV),3.55727
+16520,Average Laden,kWh (Net CV),5.72487
+16521,Average Laden,kWh (Net CV),0.38968
+16522,Average Laden,kWh (Net CV),3.42167
+16523,Average Laden,kWh (Net CV),5.50665
+1660,0% Laden,kWh (Net CV),
+1661,0% Laden,kWh (Net CV),2.11842
+1662,0% Laden,kWh (Net CV),3.40926
+1663,0% Laden,kWh (Net CV),
+1664,0% Laden,kWh (Net CV),2.52421
+1665,0% Laden,kWh (Net CV),4.06232
+1666,0% Laden,kWh (Net CV),
+1667,0% Laden,kWh (Net CV),3.54499
+1668,0% Laden,kWh (Net CV),5.70511
+1669,0% Laden,kWh (Net CV),
+16610,0% Laden,kWh (Net CV),3.11222
+16611,0% Laden,kWh (Net CV),5.00863
+16612,0% Laden,kWh (Net CV),
+16613,0% Laden,kWh (Net CV),2.77793
+16614,0% Laden,kWh (Net CV),4.47064
+16615,0% Laden,kWh (Net CV),
+16616,0% Laden,kWh (Net CV),2.8543
+16617,0% Laden,kWh (Net CV),4.59355
+16618,0% Laden,kWh (Net CV),
+16619,0% Laden,kWh (Net CV),2.8514
+16620,0% Laden,kWh (Net CV),4.58889
+16621,0% Laden,kWh (Net CV),
+16622,0% Laden,kWh (Net CV),2.95677
+16623,0% Laden,kWh (Net CV),4.75846
+1660,50% Laden,kWh (Net CV),2.10985
+1661,50% Laden,kWh (Net CV),2.30263
+1662,50% Laden,kWh (Net CV),3.70572
+1663,50% Laden,kWh (Net CV),1.21418
+1664,50% Laden,kWh (Net CV),2.88481
+1665,50% Laden,kWh (Net CV),4.64265
+1666,50% Laden,kWh (Net CV),0.96983
+1667,50% Laden,kWh (Net CV),4.32316
+1668,50% Laden,kWh (Net CV),6.95745
+1669,50% Laden,kWh (Net CV),1.03696
+16610,50% Laden,kWh (Net CV),3.71102
+16611,50% Laden,kWh (Net CV),5.97231
+16612,50% Laden,kWh (Net CV),0.57002
+16613,50% Laden,kWh (Net CV),3.47241
+16614,50% Laden,kWh (Net CV),5.5883
+16615,50% Laden,kWh (Net CV),0.42635
+16616,50% Laden,kWh (Net CV),3.80574
+16617,50% Laden,kWh (Net CV),6.12474
+16618,50% Laden,kWh (Net CV),0.4292
+16619,50% Laden,kWh (Net CV),3.79309
+16620,50% Laden,kWh (Net CV),6.10438
+16621,50% Laden,kWh (Net CV),0.54995
+16622,50% Laden,kWh (Net CV),3.76088
+16623,50% Laden,kWh (Net CV),6.05255
+1660,100% Laden,kWh (Net CV),1.13932
+1661,100% Laden,kWh (Net CV),2.48684
+1662,100% Laden,kWh (Net CV),4.00218
+1663,100% Laden,kWh (Net CV),0.68297
+1664,100% Laden,kWh (Net CV),3.24541
+1665,100% Laden,kWh (Net CV),5.22299
+1666,100% Laden,kWh (Net CV),0.5722
+1667,100% Laden,kWh (Net CV),5.10133
+1668,100% Laden,kWh (Net CV),8.20979
+1669,100% Laden,kWh (Net CV),0.60513
+16610,100% Laden,kWh (Net CV),4.30983
+16611,100% Laden,kWh (Net CV),6.93599
+16612,100% Laden,kWh (Net CV),0.34201
+16613,100% Laden,kWh (Net CV),4.16689
+16614,100% Laden,kWh (Net CV),6.70596
+16615,100% Laden,kWh (Net CV),0.26647
+16616,100% Laden,kWh (Net CV),4.75717
+16617,100% Laden,kWh (Net CV),7.65592
+16618,100% Laden,kWh (Net CV),0.26797
+16619,100% Laden,kWh (Net CV),4.73477
+16620,100% Laden,kWh (Net CV),7.61988
+16621,100% Laden,kWh (Net CV),0.33514
+16622,100% Laden,kWh (Net CV),4.56499
+16623,100% Laden,kWh (Net CV),7.34664
+1660,Average Laden,kWh (Net CV),2.42584
+1661,Average Laden,kWh (Net CV),2.27684
+1662,Average Laden,kWh (Net CV),3.66421
+1663,Average Laden,kWh (Net CV),1.66949
+1664,Average Laden,kWh (Net CV),2.77663
+1665,Average Laden,kWh (Net CV),4.46855
+1666,Average Laden,kWh (Net CV),0.78693
+1667,Average Laden,kWh (Net CV),4.55557
+1668,Average Laden,kWh (Net CV),7.33148
+1669,Average Laden,kWh (Net CV),0.90638
+16610,Average Laden,kWh (Net CV),3.84794
+16611,Average Laden,kWh (Net CV),6.19265
+16612,Average Laden,kWh (Net CV),0.56107
+16613,Average Laden,kWh (Net CV),3.4863
+16614,Average Laden,kWh (Net CV),5.61065
+16615,Average Laden,kWh (Net CV),0.34171
+16616,Average Laden,kWh (Net CV),4.14825
+16617,Average Laden,kWh (Net CV),6.67596
+16618,Average Laden,kWh (Net CV),0.34605
+16619,Average Laden,kWh (Net CV),4.12314
+16620,Average Laden,kWh (Net CV),6.63554
+16621,Average Laden,kWh (Net CV),0.45707
+16622,Average Laden,kWh (Net CV),4.0134
+16623,Average Laden,kWh (Net CV),6.45893

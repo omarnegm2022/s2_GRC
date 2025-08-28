@@ -1,0 +1,119 @@
+index,Scope,Level 1,Activity,Fuel,Unit
+3110,Scope 3,WTT- fuels,Gaseous fuels,Butane,tonnes
+3111,Scope 3,WTT- fuels,Gaseous fuels,Butane,litres
+3112,Scope 3,WTT- fuels,Gaseous fuels,Butane,kWh (Net CV)
+3113,Scope 3,WTT- fuels,Gaseous fuels,Butane,kWh (Gross CV)
+3114,Scope 3,WTT- fuels,Gaseous fuels,CNG,tonnes
+3115,Scope 3,WTT- fuels,Gaseous fuels,CNG,litres
+3116,Scope 3,WTT- fuels,Gaseous fuels,CNG,kWh (Net CV)
+3117,Scope 3,WTT- fuels,Gaseous fuels,CNG,kWh (Gross CV)
+3118,Scope 3,WTT- fuels,Gaseous fuels,LNG,tonnes
+3119,Scope 3,WTT- fuels,Gaseous fuels,LNG,litres
+31110,Scope 3,WTT- fuels,Gaseous fuels,LNG,kWh (Net CV)
+31111,Scope 3,WTT- fuels,Gaseous fuels,LNG,kWh (Gross CV)
+31112,Scope 3,WTT- fuels,Gaseous fuels,LPG,tonnes
+31113,Scope 3,WTT- fuels,Gaseous fuels,LPG,litres
+31114,Scope 3,WTT- fuels,Gaseous fuels,LPG,kWh (Net CV)
+31115,Scope 3,WTT- fuels,Gaseous fuels,LPG,kWh (Gross CV)
+31116,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,tonnes
+31117,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,cubic metres
+31118,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,kWh (Net CV)
+31119,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,kWh (Gross CV)
+31120,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),tonnes
+31121,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),cubic metres
+31122,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),kWh (Net CV)
+31123,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),kWh (Gross CV)
+31124,Scope 3,WTT- fuels,Gaseous fuels,Other petroleum gas,tonnes
+31125,Scope 3,WTT- fuels,Gaseous fuels,Other petroleum gas,litres
+31126,Scope 3,WTT- fuels,Gaseous fuels,Other petroleum gas,kWh (Net CV)
+31127,Scope 3,WTT- fuels,Gaseous fuels,Other petroleum gas,kWh (Gross CV)
+31128,Scope 3,WTT- fuels,Gaseous fuels,Propane,tonnes
+31129,Scope 3,WTT- fuels,Gaseous fuels,Propane,litres
+31130,Scope 3,WTT- fuels,Gaseous fuels,Propane,kWh (Net CV)
+31131,Scope 3,WTT- fuels,Gaseous fuels,Propane,kWh (Gross CV)
+3120,Scope 3,WTT- fuels,Liquid fuels,Aviation spirit,tonnes
+3121,Scope 3,WTT- fuels,Liquid fuels,Aviation spirit,litres
+3122,Scope 3,WTT- fuels,Liquid fuels,Aviation spirit,kWh (Net CV)
+3123,Scope 3,WTT- fuels,Liquid fuels,Aviation spirit,kWh (Gross CV)
+3124,Scope 3,WTT- fuels,Liquid fuels,Aviation turbine fuel,tonnes
+3125,Scope 3,WTT- fuels,Liquid fuels,Aviation turbine fuel,litres
+3126,Scope 3,WTT- fuels,Liquid fuels,Aviation turbine fuel,kWh (Net CV)
+3127,Scope 3,WTT- fuels,Liquid fuels,Aviation turbine fuel,kWh (Gross CV)
+3128,Scope 3,WTT- fuels,Liquid fuels,Burning oil,tonnes
+3129,Scope 3,WTT- fuels,Liquid fuels,Burning oil,litres
+31210,Scope 3,WTT- fuels,Liquid fuels,Burning oil,kWh (Net CV)
+31211,Scope 3,WTT- fuels,Liquid fuels,Burning oil,kWh (Gross CV)
+31212,Scope 3,WTT- fuels,Liquid fuels,Diesel (average biofuel blend),tonnes
+31213,Scope 3,WTT- fuels,Liquid fuels,Diesel (average biofuel blend),litres
+31214,Scope 3,WTT- fuels,Liquid fuels,Diesel (average biofuel blend),kWh (Net CV)
+31215,Scope 3,WTT- fuels,Liquid fuels,Diesel (average biofuel blend),kWh (Gross CV)
+31216,Scope 3,WTT- fuels,Liquid fuels,Diesel (100% mineral diesel),tonnes
+31217,Scope 3,WTT- fuels,Liquid fuels,Diesel (100% mineral diesel),litres
+31218,Scope 3,WTT- fuels,Liquid fuels,Diesel (100% mineral diesel),kWh (Net CV)
+31219,Scope 3,WTT- fuels,Liquid fuels,Diesel (100% mineral diesel),kWh (Gross CV)
+31220,Scope 3,WTT- fuels,Liquid fuels,Fuel oil,tonnes
+31221,Scope 3,WTT- fuels,Liquid fuels,Fuel oil,litres
+31222,Scope 3,WTT- fuels,Liquid fuels,Fuel oil,kWh (Net CV)
+31223,Scope 3,WTT- fuels,Liquid fuels,Fuel oil,kWh (Gross CV)
+31224,Scope 3,WTT- fuels,Liquid fuels,Gas oil,tonnes
+31225,Scope 3,WTT- fuels,Liquid fuels,Gas oil,litres
+31226,Scope 3,WTT- fuels,Liquid fuels,Gas oil,kWh (Net CV)
+31227,Scope 3,WTT- fuels,Liquid fuels,Gas oil,kWh (Gross CV)
+31228,Scope 3,WTT- fuels,Liquid fuels,Lubricants,tonnes
+31229,Scope 3,WTT- fuels,Liquid fuels,Lubricants,litres
+31230,Scope 3,WTT- fuels,Liquid fuels,Lubricants,kWh (Net CV)
+31231,Scope 3,WTT- fuels,Liquid fuels,Lubricants,kWh (Gross CV)
+31232,Scope 3,WTT- fuels,Liquid fuels,Naphtha,tonnes
+31233,Scope 3,WTT- fuels,Liquid fuels,Naphtha,litres
+31234,Scope 3,WTT- fuels,Liquid fuels,Naphtha,kWh (Net CV)
+31235,Scope 3,WTT- fuels,Liquid fuels,Naphtha,kWh (Gross CV)
+31236,Scope 3,WTT- fuels,Liquid fuels,Petrol (average biofuel blend),tonnes
+31237,Scope 3,WTT- fuels,Liquid fuels,Petrol (average biofuel blend),litres
+31238,Scope 3,WTT- fuels,Liquid fuels,Petrol (average biofuel blend),kWh (Net CV)
+31239,Scope 3,WTT- fuels,Liquid fuels,Petrol (average biofuel blend),kWh (Gross CV)
+31240,Scope 3,WTT- fuels,Liquid fuels,Petrol (100% mineral petrol),tonnes
+31241,Scope 3,WTT- fuels,Liquid fuels,Petrol (100% mineral petrol),litres
+31242,Scope 3,WTT- fuels,Liquid fuels,Petrol (100% mineral petrol),kWh (Net CV)
+31243,Scope 3,WTT- fuels,Liquid fuels,Petrol (100% mineral petrol),kWh (Gross CV)
+31244,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - residual oil,tonnes
+31245,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - residual oil,litres
+31246,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - residual oil,kWh (Net CV)
+31247,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - residual oil,kWh (Gross CV)
+31248,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - distillate oil,tonnes
+31249,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - distillate oil,litres
+31250,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - distillate oil,kWh (Net CV)
+31251,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - distillate oil,kWh (Gross CV)
+31252,Scope 3,WTT- fuels,Liquid fuels,Refinery miscellaneous,tonnes
+31253,Scope 3,WTT- fuels,Liquid fuels,Refinery miscellaneous,litres
+31254,Scope 3,WTT- fuels,Liquid fuels,Refinery miscellaneous,kWh (Net CV)
+31255,Scope 3,WTT- fuels,Liquid fuels,Refinery miscellaneous,kWh (Gross CV)
+31256,Scope 3,WTT- fuels,Liquid fuels,Waste oils,tonnes
+31257,Scope 3,WTT- fuels,Liquid fuels,Waste oils,litres
+31258,Scope 3,WTT- fuels,Liquid fuels,Waste oils,kWh (Net CV)
+31259,Scope 3,WTT- fuels,Liquid fuels,Waste oils,kWh (Gross CV)
+31260,Scope 3,WTT- fuels,Liquid fuels,Marine gas oil,tonnes
+31261,Scope 3,WTT- fuels,Liquid fuels,Marine gas oil,litres
+31262,Scope 3,WTT- fuels,Liquid fuels,Marine gas oil,kWh (Net CV)
+31263,Scope 3,WTT- fuels,Liquid fuels,Marine gas oil,kWh (Gross CV)
+31264,Scope 3,WTT- fuels,Liquid fuels,Marine fuel oil,tonnes
+31265,Scope 3,WTT- fuels,Liquid fuels,Marine fuel oil,litres
+31266,Scope 3,WTT- fuels,Liquid fuels,Marine fuel oil,kWh (Net CV)
+31267,Scope 3,WTT- fuels,Liquid fuels,Marine fuel oil,kWh (Gross CV)
+3130,Scope 3,WTT- fuels,Solid fuels,Coal (industrial),tonnes
+3131,Scope 3,WTT- fuels,Solid fuels,Coal (industrial),kWh (Net CV)
+3132,Scope 3,WTT- fuels,Solid fuels,Coal (industrial),kWh (Gross CV)
+3133,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation),tonnes
+3134,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation),kWh (Net CV)
+3135,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation),kWh (Gross CV)
+3136,Scope 3,WTT- fuels,Solid fuels,Coal (domestic),tonnes
+3137,Scope 3,WTT- fuels,Solid fuels,Coal (domestic),kWh (Net CV)
+3138,Scope 3,WTT- fuels,Solid fuels,Coal (domestic),kWh (Gross CV)
+3139,Scope 3,WTT- fuels,Solid fuels,Coking coal,tonnes
+31310,Scope 3,WTT- fuels,Solid fuels,Coking coal,kWh (Net CV)
+31311,Scope 3,WTT- fuels,Solid fuels,Coking coal,kWh (Gross CV)
+31312,Scope 3,WTT- fuels,Solid fuels,Petroleum coke,tonnes
+31313,Scope 3,WTT- fuels,Solid fuels,Petroleum coke,kWh (Net CV)
+31314,Scope 3,WTT- fuels,Solid fuels,Petroleum coke,kWh (Gross CV)
+31315,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation - home produced coal only),tonnes
+31316,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation - home produced coal only),kWh (Net CV)
+31317,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation - home produced coal only),kWh (Gross CV)

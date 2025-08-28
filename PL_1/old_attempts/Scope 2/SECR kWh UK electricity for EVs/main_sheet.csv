@@ -1,0 +1,39 @@
+index,Scope,Level 1,Activity,Type,Unit
+2410,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Mini,km
+2411,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Mini,miles
+2412,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Supermini,km
+2413,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Supermini,miles
+2414,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Lower medium,km
+2415,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Lower medium,miles
+2416,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Upper medium,km
+2417,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Upper medium,miles
+2418,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Executive,km
+2419,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Executive,miles
+24110,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Luxury,km
+24111,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Luxury,miles
+24112,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Sports,km
+24113,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Sports,miles
+24114,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Dual purpose 4X4,km
+24115,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),Dual purpose 4X4,miles
+24116,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),MPV,km
+24117,Scope 2,SECR kWh UK electricity for EVs,Cars (by market segment),MPV,miles
+2420,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Small car,km
+2421,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Small car,miles
+2422,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Medium car,km
+2423,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Medium car,miles
+2424,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Large car,km
+2425,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Large car,miles
+2426,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Average car,km
+2427,Scope 2,SECR kWh UK electricity for EVs,Cars (by size),Average car,miles
+2430,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),tonne.km
+2431,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),km
+2432,Scope 2,SECR kWh UK electricity for EVs,Vans,Class I (up to 1.305 tonnes),miles
+2433,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),tonne.km
+2434,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),km
+2435,Scope 2,SECR kWh UK electricity for EVs,Vans,Class II (1.305 to 1.74 tonnes),miles
+2436,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),tonne.km
+2437,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),km
+2438,Scope 2,SECR kWh UK electricity for EVs,Vans,Class III (1.74 to 3.5 tonnes),miles
+2439,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),tonne.km
+24310,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),km
+24311,Scope 2,SECR kWh UK electricity for EVs,Vans,Average (up to 3.5 tonnes),miles

@@ -1,0 +1,39 @@
+index,Scope,Level 1,Activity,Type,Unit
+3410,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,km
+3411,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,miles
+3412,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,km
+3413,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,miles
+3414,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,km
+3415,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,miles
+3416,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,km
+3417,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,miles
+3418,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,km
+3419,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,miles
+34110,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,km
+34111,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,miles
+34112,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,km
+34113,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,miles
+34114,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,km
+34115,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,miles
+34116,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,km
+34117,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,miles
+3420,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,km
+3421,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,miles
+3422,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,km
+3423,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,miles
+3424,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,km
+3425,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,miles
+3426,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,km
+3427,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,miles
+3430,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),tonne.km
+3431,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),km
+3432,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),miles
+3433,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),tonne.km
+3434,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),km
+3435,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),miles
+3436,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),tonne.km
+3437,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),km
+3438,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),miles
+3439,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),tonne.km
+34310,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),km
+34311,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),miles

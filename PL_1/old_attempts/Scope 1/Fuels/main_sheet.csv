@@ -1,0 +1,119 @@
+index,Scope,Level 1,Activity,Fuel,Unit
+1110,Scope 1,Fuels,Gaseous fuels,Butane,tonnes
+1111,Scope 1,Fuels,Gaseous fuels,Butane,litres
+1112,Scope 1,Fuels,Gaseous fuels,Butane,kWh (Net CV)
+1113,Scope 1,Fuels,Gaseous fuels,Butane,kWh (Gross CV)
+1114,Scope 1,Fuels,Gaseous fuels,CNG,tonnes
+1115,Scope 1,Fuels,Gaseous fuels,CNG,litres
+1116,Scope 1,Fuels,Gaseous fuels,CNG,kWh (Net CV)
+1117,Scope 1,Fuels,Gaseous fuels,CNG,kWh (Gross CV)
+1118,Scope 1,Fuels,Gaseous fuels,LNG,tonnes
+1119,Scope 1,Fuels,Gaseous fuels,LNG,litres
+11110,Scope 1,Fuels,Gaseous fuels,LNG,kWh (Net CV)
+11111,Scope 1,Fuels,Gaseous fuels,LNG,kWh (Gross CV)
+11112,Scope 1,Fuels,Gaseous fuels,LPG,tonnes
+11113,Scope 1,Fuels,Gaseous fuels,LPG,litres
+11114,Scope 1,Fuels,Gaseous fuels,LPG,kWh (Net CV)
+11115,Scope 1,Fuels,Gaseous fuels,LPG,kWh (Gross CV)
+11116,Scope 1,Fuels,Gaseous fuels,Natural gas,tonnes
+11117,Scope 1,Fuels,Gaseous fuels,Natural gas,cubic metres
+11118,Scope 1,Fuels,Gaseous fuels,Natural gas,kWh (Net CV)
+11119,Scope 1,Fuels,Gaseous fuels,Natural gas,kWh (Gross CV)
+11120,Scope 1,Fuels,Gaseous fuels,Natural gas (100% mineral blend),tonnes
+11121,Scope 1,Fuels,Gaseous fuels,Natural gas (100% mineral blend),cubic metres
+11122,Scope 1,Fuels,Gaseous fuels,Natural gas (100% mineral blend),kWh (Net CV)
+11123,Scope 1,Fuels,Gaseous fuels,Natural gas (100% mineral blend),kWh (Gross CV)
+11124,Scope 1,Fuels,Gaseous fuels,Other petroleum gas,tonnes
+11125,Scope 1,Fuels,Gaseous fuels,Other petroleum gas,litres
+11126,Scope 1,Fuels,Gaseous fuels,Other petroleum gas,kWh (Net CV)
+11127,Scope 1,Fuels,Gaseous fuels,Other petroleum gas,kWh (Gross CV)
+11128,Scope 1,Fuels,Gaseous fuels,Propane,tonnes
+11129,Scope 1,Fuels,Gaseous fuels,Propane,litres
+11130,Scope 1,Fuels,Gaseous fuels,Propane,kWh (Net CV)
+11131,Scope 1,Fuels,Gaseous fuels,Propane,kWh (Gross CV)
+1120,Scope 1,Fuels,Liquid fuels,Aviation spirit,tonnes
+1121,Scope 1,Fuels,Liquid fuels,Aviation spirit,litres
+1122,Scope 1,Fuels,Liquid fuels,Aviation spirit,kWh (Net CV)
+1123,Scope 1,Fuels,Liquid fuels,Aviation spirit,kWh (Gross CV)
+1124,Scope 1,Fuels,Liquid fuels,Aviation turbine fuel,tonnes
+1125,Scope 1,Fuels,Liquid fuels,Aviation turbine fuel,litres
+1126,Scope 1,Fuels,Liquid fuels,Aviation turbine fuel,kWh (Net CV)
+1127,Scope 1,Fuels,Liquid fuels,Aviation turbine fuel,kWh (Gross CV)
+1128,Scope 1,Fuels,Liquid fuels,Burning oil,tonnes
+1129,Scope 1,Fuels,Liquid fuels,Burning oil,litres
+11210,Scope 1,Fuels,Liquid fuels,Burning oil,kWh (Net CV)
+11211,Scope 1,Fuels,Liquid fuels,Burning oil,kWh (Gross CV)
+11212,Scope 1,Fuels,Liquid fuels,Diesel (average biofuel blend),tonnes
+11213,Scope 1,Fuels,Liquid fuels,Diesel (average biofuel blend),litres
+11214,Scope 1,Fuels,Liquid fuels,Diesel (average biofuel blend),kWh (Net CV)
+11215,Scope 1,Fuels,Liquid fuels,Diesel (average biofuel blend),kWh (Gross CV)
+11216,Scope 1,Fuels,Liquid fuels,Diesel (100% mineral diesel),tonnes
+11217,Scope 1,Fuels,Liquid fuels,Diesel (100% mineral diesel),litres
+11218,Scope 1,Fuels,Liquid fuels,Diesel (100% mineral diesel),kWh (Net CV)
+11219,Scope 1,Fuels,Liquid fuels,Diesel (100% mineral diesel),kWh (Gross CV)
+11220,Scope 1,Fuels,Liquid fuels,Fuel oil,tonnes
+11221,Scope 1,Fuels,Liquid fuels,Fuel oil,litres
+11222,Scope 1,Fuels,Liquid fuels,Fuel oil,kWh (Net CV)
+11223,Scope 1,Fuels,Liquid fuels,Fuel oil,kWh (Gross CV)
+11224,Scope 1,Fuels,Liquid fuels,Gas oil,tonnes
+11225,Scope 1,Fuels,Liquid fuels,Gas oil,litres
+11226,Scope 1,Fuels,Liquid fuels,Gas oil,kWh (Net CV)
+11227,Scope 1,Fuels,Liquid fuels,Gas oil,kWh (Gross CV)
+11228,Scope 1,Fuels,Liquid fuels,Lubricants,tonnes
+11229,Scope 1,Fuels,Liquid fuels,Lubricants,litres
+11230,Scope 1,Fuels,Liquid fuels,Lubricants,kWh (Net CV)
+11231,Scope 1,Fuels,Liquid fuels,Lubricants,kWh (Gross CV)
+11232,Scope 1,Fuels,Liquid fuels,Naphtha,tonnes
+11233,Scope 1,Fuels,Liquid fuels,Naphtha,litres
+11234,Scope 1,Fuels,Liquid fuels,Naphtha,kWh (Net CV)
+11235,Scope 1,Fuels,Liquid fuels,Naphtha,kWh (Gross CV)
+11236,Scope 1,Fuels,Liquid fuels,Petrol (average biofuel blend),tonnes
+11237,Scope 1,Fuels,Liquid fuels,Petrol (average biofuel blend),litres
+11238,Scope 1,Fuels,Liquid fuels,Petrol (average biofuel blend),kWh (Net CV)
+11239,Scope 1,Fuels,Liquid fuels,Petrol (average biofuel blend),kWh (Gross CV)
+11240,Scope 1,Fuels,Liquid fuels,Petrol (100% mineral petrol),tonnes
+11241,Scope 1,Fuels,Liquid fuels,Petrol (100% mineral petrol),litres
+11242,Scope 1,Fuels,Liquid fuels,Petrol (100% mineral petrol),kWh (Net CV)
+11243,Scope 1,Fuels,Liquid fuels,Petrol (100% mineral petrol),kWh (Gross CV)
+11244,Scope 1,Fuels,Liquid fuels,Processed fuel oils - residual oil,tonnes
+11245,Scope 1,Fuels,Liquid fuels,Processed fuel oils - residual oil,litres
+11246,Scope 1,Fuels,Liquid fuels,Processed fuel oils - residual oil,kWh (Net CV)
+11247,Scope 1,Fuels,Liquid fuels,Processed fuel oils - residual oil,kWh (Gross CV)
+11248,Scope 1,Fuels,Liquid fuels,Processed fuel oils - distillate oil,tonnes
+11249,Scope 1,Fuels,Liquid fuels,Processed fuel oils - distillate oil,litres
+11250,Scope 1,Fuels,Liquid fuels,Processed fuel oils - distillate oil,kWh (Net CV)
+11251,Scope 1,Fuels,Liquid fuels,Processed fuel oils - distillate oil,kWh (Gross CV)
+11252,Scope 1,Fuels,Liquid fuels,Refinery miscellaneous,tonnes
+11253,Scope 1,Fuels,Liquid fuels,Refinery miscellaneous,litres
+11254,Scope 1,Fuels,Liquid fuels,Refinery miscellaneous,kWh (Net CV)
+11255,Scope 1,Fuels,Liquid fuels,Refinery miscellaneous,kWh (Gross CV)
+11256,Scope 1,Fuels,Liquid fuels,Waste oils,tonnes
+11257,Scope 1,Fuels,Liquid fuels,Waste oils,litres
+11258,Scope 1,Fuels,Liquid fuels,Waste oils,kWh (Net CV)
+11259,Scope 1,Fuels,Liquid fuels,Waste oils,kWh (Gross CV)
+11260,Scope 1,Fuels,Liquid fuels,Marine gas oil,tonnes
+11261,Scope 1,Fuels,Liquid fuels,Marine gas oil,litres
+11262,Scope 1,Fuels,Liquid fuels,Marine gas oil,kWh (Net CV)
+11263,Scope 1,Fuels,Liquid fuels,Marine gas oil,kWh (Gross CV)
+11264,Scope 1,Fuels,Liquid fuels,Marine fuel oil,tonnes
+11265,Scope 1,Fuels,Liquid fuels,Marine fuel oil,litres
+11266,Scope 1,Fuels,Liquid fuels,Marine fuel oil,kWh (Net CV)
+11267,Scope 1,Fuels,Liquid fuels,Marine fuel oil,kWh (Gross CV)
+1130,Scope 1,Fuels,Solid fuels,Coal (industrial),tonnes
+1131,Scope 1,Fuels,Solid fuels,Coal (industrial),kWh (Net CV)
+1132,Scope 1,Fuels,Solid fuels,Coal (industrial),kWh (Gross CV)
+1133,Scope 1,Fuels,Solid fuels,Coal (electricity generation),tonnes
+1134,Scope 1,Fuels,Solid fuels,Coal (electricity generation),kWh (Net CV)
+1135,Scope 1,Fuels,Solid fuels,Coal (electricity generation),kWh (Gross CV)
+1136,Scope 1,Fuels,Solid fuels,Coal (domestic),tonnes
+1137,Scope 1,Fuels,Solid fuels,Coal (domestic),kWh (Net CV)
+1138,Scope 1,Fuels,Solid fuels,Coal (domestic),kWh (Gross CV)
+1139,Scope 1,Fuels,Solid fuels,Coking coal,tonnes
+11310,Scope 1,Fuels,Solid fuels,Coking coal,kWh (Net CV)
+11311,Scope 1,Fuels,Solid fuels,Coking coal,kWh (Gross CV)
+11312,Scope 1,Fuels,Solid fuels,Petroleum coke,tonnes
+11313,Scope 1,Fuels,Solid fuels,Petroleum coke,kWh (Net CV)
+11314,Scope 1,Fuels,Solid fuels,Petroleum coke,kWh (Gross CV)
+11315,Scope 1,Fuels,Solid fuels,Coal (electricity generation - home produced coal only),tonnes
+11316,Scope 1,Fuels,Solid fuels,Coal (electricity generation - home produced coal only),kWh (Net CV)
+11317,Scope 1,Fuels,Solid fuels,Coal (electricity generation - home produced coal only),kWh (Gross CV)

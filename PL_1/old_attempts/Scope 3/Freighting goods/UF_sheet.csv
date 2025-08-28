@@ -1,0 +1,1353 @@
+index,Last level,GHG/Unit,GHG Conversion Factor
+3110,Diesel,kg CO2e,0.87423
+3111,Diesel,kg CO2e,0.15738
+3112,Diesel,kg CO2e,0.25329
+3113,Diesel,kg CO2e,0.62562
+3114,Diesel,kg CO2e,0.1926
+3115,Diesel,kg CO2e,0.30996
+3116,Diesel,kg CO2e,0.62849
+3117,Diesel,kg CO2e,0.27878
+3118,Diesel,kg CO2e,0.44866
+3119,Diesel,kg CO2e,0.6313
+31110,Diesel,kg CO2e,0.25561
+31111,Diesel,kg CO2e,0.41138
+3110,Diesel,kg CO2e of CO2 per unit,0.86501
+3111,Diesel,kg CO2e of CO2 per unit,0.15572
+3112,Diesel,kg CO2e of CO2 per unit,0.25061
+3113,Diesel,kg CO2e of CO2 per unit,0.61993
+3114,Diesel,kg CO2e of CO2 per unit,0.19094
+3115,Diesel,kg CO2e of CO2 per unit,0.30728
+3116,Diesel,kg CO2e of CO2 per unit,0.62478
+3117,Diesel,kg CO2e of CO2 per unit,0.27712
+3118,Diesel,kg CO2e of CO2 per unit,0.44598
+3119,Diesel,kg CO2e of CO2 per unit,0.62715
+31110,Diesel,kg CO2e of CO2 per unit,0.25395
+31111,Diesel,kg CO2e of CO2 per unit,0.4087
+3110,Diesel,kg CO2e of CH4 per unit,2e-05
+3111,Diesel,kg CO2e of CH4 per unit,4.860776705385985e-06
+3112,Diesel,kg CO2e of CH4 per unit,1e-05
+3113,Diesel,kg CO2e of CH4 per unit,1e-05
+3114,Diesel,kg CO2e of CH4 per unit,4.860776705385985e-06
+3115,Diesel,kg CO2e of CH4 per unit,1e-05
+3116,Diesel,kg CO2e of CH4 per unit,1e-05
+3117,Diesel,kg CO2e of CH4 per unit,4.860776705385985e-06
+3118,Diesel,kg CO2e of CH4 per unit,1e-05
+3119,Diesel,kg CO2e of CH4 per unit,1e-05
+31110,Diesel,kg CO2e of CH4 per unit,4.860776705385985e-06
+31111,Diesel,kg CO2e of CH4 per unit,1e-05
+3110,Diesel,kg CO2e of N2O per unit,0.00919
+3111,Diesel,kg CO2e of N2O per unit,0.00165
+3112,Diesel,kg CO2e of N2O per unit,0.00267
+3113,Diesel,kg CO2e of N2O per unit,0.00568
+3114,Diesel,kg CO2e of N2O per unit,0.00165
+3115,Diesel,kg CO2e of N2O per unit,0.00267
+3116,Diesel,kg CO2e of N2O per unit,0.0037
+3117,Diesel,kg CO2e of N2O per unit,0.00165
+3118,Diesel,kg CO2e of N2O per unit,0.00267
+3119,Diesel,kg CO2e of N2O per unit,0.00414
+31110,Diesel,kg CO2e of N2O per unit,0.00165
+31111,Diesel,kg CO2e of N2O per unit,0.00267
+3110,Petrol,kg CO2e,1.42906
+3111,Petrol,kg CO2e,0.20188
+3112,Petrol,kg CO2e,0.3249
+3113,Petrol,kg CO2e,0.81534
+3114,Petrol,kg CO2e,0.20874
+3115,Petrol,kg CO2e,0.33594
+3116,Petrol,kg CO2e,0.83593
+3117,Petrol,kg CO2e,0.33845
+3118,Petrol,kg CO2e,0.54468
+3119,Petrol,kg CO2e,0.85537
+31110,Petrol,kg CO2e,0.21335
+31111,Petrol,kg CO2e,0.34336
+3110,Petrol,kg CO2e of CO2 per unit,1.42528
+3111,Petrol,kg CO2e of CO2 per unit,0.20118
+3112,Petrol,kg CO2e of CO2 per unit,0.32377
+3113,Petrol,kg CO2e of CO2 per unit,0.81277
+3114,Petrol,kg CO2e of CO2 per unit,0.20804
+3115,Petrol,kg CO2e of CO2 per unit,0.33481
+3116,Petrol,kg CO2e of CO2 per unit,0.83418
+3117,Petrol,kg CO2e of CO2 per unit,0.33775
+3118,Petrol,kg CO2e of CO2 per unit,0.54355
+3119,Petrol,kg CO2e of CO2 per unit,0.85297
+31110,Petrol,kg CO2e of CO2 per unit,0.21265
+31111,Petrol,kg CO2e of CO2 per unit,0.34223
+3110,Petrol,kg CO2e of CH4 per unit,0.00143
+3111,Petrol,kg CO2e of CH4 per unit,0.00027
+3112,Petrol,kg CO2e of CH4 per unit,0.00043
+3113,Petrol,kg CO2e of CH4 per unit,0.00097
+3114,Petrol,kg CO2e of CH4 per unit,0.00027
+3115,Petrol,kg CO2e of CH4 per unit,0.00043
+3116,Petrol,kg CO2e of CH4 per unit,0.00066
+3117,Petrol,kg CO2e of CH4 per unit,0.00027
+3118,Petrol,kg CO2e of CH4 per unit,0.00043
+3119,Petrol,kg CO2e of CH4 per unit,0.00091
+31110,Petrol,kg CO2e of CH4 per unit,0.00027
+31111,Petrol,kg CO2e of CH4 per unit,0.00043
+3110,Petrol,kg CO2e of N2O per unit,0.00235
+3111,Petrol,kg CO2e of N2O per unit,0.00044
+3112,Petrol,kg CO2e of N2O per unit,0.0007
+3113,Petrol,kg CO2e of N2O per unit,0.00159
+3114,Petrol,kg CO2e of N2O per unit,0.00044
+3115,Petrol,kg CO2e of N2O per unit,0.0007
+3116,Petrol,kg CO2e of N2O per unit,0.00108
+3117,Petrol,kg CO2e of N2O per unit,0.00044
+3118,Petrol,kg CO2e of N2O per unit,0.0007
+3119,Petrol,kg CO2e of N2O per unit,0.00149
+31110,Petrol,kg CO2e of N2O per unit,0.00044
+31111,Petrol,kg CO2e of N2O per unit,0.0007
+3110,CNG,kg CO2e,
+3111,CNG,kg CO2e,
+3112,CNG,kg CO2e,
+3113,CNG,kg CO2e,
+3114,CNG,kg CO2e,
+3115,CNG,kg CO2e,
+3116,CNG,kg CO2e,
+3117,CNG,kg CO2e,
+3118,CNG,kg CO2e,
+3119,CNG,kg CO2e,0.62419
+31110,CNG,kg CO2e,0.25113
+31111,CNG,kg CO2e,0.40415
+3110,CNG,kg CO2e of CO2 per unit,
+3111,CNG,kg CO2e of CO2 per unit,
+3112,CNG,kg CO2e of CO2 per unit,
+3113,CNG,kg CO2e of CO2 per unit,
+3114,CNG,kg CO2e of CO2 per unit,
+3115,CNG,kg CO2e of CO2 per unit,
+3116,CNG,kg CO2e of CO2 per unit,
+3117,CNG,kg CO2e of CO2 per unit,
+3118,CNG,kg CO2e of CO2 per unit,
+3119,CNG,kg CO2e of CO2 per unit,0.61964
+31110,CNG,kg CO2e of CO2 per unit,0.24931
+31111,CNG,kg CO2e of CO2 per unit,0.40123
+3110,CNG,kg CO2e of CH4 per unit,
+3111,CNG,kg CO2e of CH4 per unit,
+3112,CNG,kg CO2e of CH4 per unit,
+3113,CNG,kg CO2e of CH4 per unit,
+3114,CNG,kg CO2e of CH4 per unit,
+3115,CNG,kg CO2e of CH4 per unit,
+3116,CNG,kg CO2e of CH4 per unit,
+3117,CNG,kg CO2e of CH4 per unit,
+3118,CNG,kg CO2e of CH4 per unit,
+3119,CNG,kg CO2e of CH4 per unit,0.0033
+31110,CNG,kg CO2e of CH4 per unit,0.00132
+31111,CNG,kg CO2e of CH4 per unit,0.00212
+3110,CNG,kg CO2e of N2O per unit,
+3111,CNG,kg CO2e of N2O per unit,
+3112,CNG,kg CO2e of N2O per unit,
+3113,CNG,kg CO2e of N2O per unit,
+3114,CNG,kg CO2e of N2O per unit,
+3115,CNG,kg CO2e of N2O per unit,
+3116,CNG,kg CO2e of N2O per unit,
+3117,CNG,kg CO2e of N2O per unit,
+3118,CNG,kg CO2e of N2O per unit,
+3119,CNG,kg CO2e of N2O per unit,0.00124
+31110,CNG,kg CO2e of N2O per unit,0.0005
+31111,CNG,kg CO2e of N2O per unit,0.0008
+3110,LPG,kg CO2e,
+3111,LPG,kg CO2e,
+3112,LPG,kg CO2e,
+3113,LPG,kg CO2e,
+3114,LPG,kg CO2e,
+3115,LPG,kg CO2e,
+3116,LPG,kg CO2e,
+3117,LPG,kg CO2e,
+3118,LPG,kg CO2e,
+3119,LPG,kg CO2e,0.68621
+31110,LPG,kg CO2e,0.2761
+31111,LPG,kg CO2e,0.44433
+3110,LPG,kg CO2e of CO2 per unit,
+3111,LPG,kg CO2e of CO2 per unit,
+3112,LPG,kg CO2e of CO2 per unit,
+3113,LPG,kg CO2e of CO2 per unit,
+3114,LPG,kg CO2e of CO2 per unit,
+3115,LPG,kg CO2e of CO2 per unit,
+3116,LPG,kg CO2e of CO2 per unit,
+3117,LPG,kg CO2e of CO2 per unit,
+3118,LPG,kg CO2e of CO2 per unit,
+3119,LPG,kg CO2e of CO2 per unit,0.68486
+31110,LPG,kg CO2e of CO2 per unit,0.27556
+31111,LPG,kg CO2e of CO2 per unit,0.44346
+3110,LPG,kg CO2e of CH4 per unit,
+3111,LPG,kg CO2e of CH4 per unit,
+3112,LPG,kg CO2e of CH4 per unit,
+3113,LPG,kg CO2e of CH4 per unit,
+3114,LPG,kg CO2e of CH4 per unit,
+3115,LPG,kg CO2e of CH4 per unit,
+3116,LPG,kg CO2e of CH4 per unit,
+3117,LPG,kg CO2e of CH4 per unit,
+3118,LPG,kg CO2e of CH4 per unit,
+3119,LPG,kg CO2e of CH4 per unit,0.0001
+31110,LPG,kg CO2e of CH4 per unit,4e-05
+31111,LPG,kg CO2e of CH4 per unit,7e-05
+3110,LPG,kg CO2e of N2O per unit,
+3111,LPG,kg CO2e of N2O per unit,
+3112,LPG,kg CO2e of N2O per unit,
+3113,LPG,kg CO2e of N2O per unit,
+3114,LPG,kg CO2e of N2O per unit,
+3115,LPG,kg CO2e of N2O per unit,
+3116,LPG,kg CO2e of N2O per unit,
+3117,LPG,kg CO2e of N2O per unit,
+3118,LPG,kg CO2e of N2O per unit,
+3119,LPG,kg CO2e of N2O per unit,0.00124
+31110,LPG,kg CO2e of N2O per unit,0.0005
+31111,LPG,kg CO2e of N2O per unit,0.0008
+3110,Unknown,kg CO2e,
+3111,Unknown,kg CO2e,
+3112,Unknown,kg CO2e,
+3113,Unknown,kg CO2e,
+3114,Unknown,kg CO2e,
+3115,Unknown,kg CO2e,
+3116,Unknown,kg CO2e,
+3117,Unknown,kg CO2e,
+3118,Unknown,kg CO2e,
+3119,Unknown,kg CO2e,0.63823
+31110,Unknown,kg CO2e,0.2543
+31111,Unknown,kg CO2e,0.40926
+3110,Unknown,kg CO2e of CO2 per unit,
+3111,Unknown,kg CO2e of CO2 per unit,
+3112,Unknown,kg CO2e of CO2 per unit,
+3113,Unknown,kg CO2e of CO2 per unit,
+3114,Unknown,kg CO2e of CO2 per unit,
+3115,Unknown,kg CO2e of CO2 per unit,
+3116,Unknown,kg CO2e of CO2 per unit,
+3117,Unknown,kg CO2e of CO2 per unit,
+3118,Unknown,kg CO2e of CO2 per unit,
+3119,Unknown,kg CO2e of CO2 per unit,0.63415
+31110,Unknown,kg CO2e of CO2 per unit,0.25267
+31111,Unknown,kg CO2e of CO2 per unit,0.40664
+3110,Unknown,kg CO2e of CH4 per unit,
+3111,Unknown,kg CO2e of CH4 per unit,
+3112,Unknown,kg CO2e of CH4 per unit,
+3113,Unknown,kg CO2e of CH4 per unit,
+3114,Unknown,kg CO2e of CH4 per unit,
+3115,Unknown,kg CO2e of CH4 per unit,
+3116,Unknown,kg CO2e of CH4 per unit,
+3117,Unknown,kg CO2e of CH4 per unit,
+3118,Unknown,kg CO2e of CH4 per unit,
+3119,Unknown,kg CO2e of CH4 per unit,3e-05
+31110,Unknown,kg CO2e of CH4 per unit,1e-05
+31111,Unknown,kg CO2e of CH4 per unit,2e-05
+3110,Unknown,kg CO2e of N2O per unit,
+3111,Unknown,kg CO2e of N2O per unit,
+3112,Unknown,kg CO2e of N2O per unit,
+3113,Unknown,kg CO2e of N2O per unit,
+3114,Unknown,kg CO2e of N2O per unit,
+3115,Unknown,kg CO2e of N2O per unit,
+3116,Unknown,kg CO2e of N2O per unit,
+3117,Unknown,kg CO2e of N2O per unit,
+3118,Unknown,kg CO2e of N2O per unit,
+3119,Unknown,kg CO2e of N2O per unit,0.00405
+31110,Unknown,kg CO2e of N2O per unit,0.00162
+31111,Unknown,kg CO2e of N2O per unit,0.0026
+3110,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3111,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3112,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3113,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3114,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3115,Plug-in Hybrid Electric Vehicle,kg CO2e,
+3116,Plug-in Hybrid Electric Vehicle,kg CO2e,0.36985
+3117,Plug-in Hybrid Electric Vehicle,kg CO2e,0.14592
+3118,Plug-in Hybrid Electric Vehicle,kg CO2e,0.23485
+3119,Plug-in Hybrid Electric Vehicle,kg CO2e,0.36985
+31110,Plug-in Hybrid Electric Vehicle,kg CO2e,0.14592
+31111,Plug-in Hybrid Electric Vehicle,kg CO2e,0.23485
+3110,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3111,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3112,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3113,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3114,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3115,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,
+3116,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.36487
+3117,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.14395
+3118,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.23166
+3119,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.36487
+31110,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.14395
+31111,Plug-in Hybrid Electric Vehicle,kg CO2e of CO2 per unit,0.23166
+3110,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3111,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3112,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3113,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3114,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3115,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,
+3116,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,0.00022
+3117,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,9e-05
+3118,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,0.00015
+3119,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,0.00022
+31110,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,9e-05
+31111,Plug-in Hybrid Electric Vehicle,kg CO2e of CH4 per unit,0.00015
+3110,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3111,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3112,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3113,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3114,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3115,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,
+3116,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,0.00476
+3117,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,0.00189
+3118,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,0.00304
+3119,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,0.00476
+31110,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,0.00189
+31111,Plug-in Hybrid Electric Vehicle,kg CO2e of N2O per unit,0.00304
+3110,Battery Electric Vehicle,kg CO2e,0.12474
+3111,Battery Electric Vehicle,kg CO2e,0.03798
+3112,Battery Electric Vehicle,kg CO2e,0.06113
+3113,Battery Electric Vehicle,kg CO2e,0.24915
+3114,Battery Electric Vehicle,kg CO2e,0.05777
+3115,Battery Electric Vehicle,kg CO2e,0.09298
+3116,Battery Electric Vehicle,kg CO2e,0.20519
+3117,Battery Electric Vehicle,kg CO2e,0.07609
+3118,Battery Electric Vehicle,kg CO2e,0.12246
+3119,Battery Electric Vehicle,kg CO2e,0.21992
+31110,Battery Electric Vehicle,kg CO2e,0.06976
+31111,Battery Electric Vehicle,kg CO2e,0.11228
+3110,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.12288
+3111,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.03759
+3112,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.0605
+3113,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.24671
+3114,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.05723
+3115,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.0921
+3116,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.20291
+3117,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.07533
+3118,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.12124
+3119,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.21748
+31110,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.06922
+31111,Battery Electric Vehicle,kg CO2e of CO2 per unit,0.1114
+3110,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00078
+3111,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00017
+3112,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00027
+3113,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00103
+3114,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00022
+3115,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00037
+3116,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00096
+3117,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00032
+3118,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00052
+3119,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00103
+31110,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00022
+31111,Battery Electric Vehicle,kg CO2e of CH4 per unit,0.00037
+3110,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00108
+3111,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00022
+3112,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00036
+3113,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00141
+3114,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00031
+3115,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00051
+3116,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00132
+3117,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00044
+3118,Battery Electric Vehicle,kg CO2e of N2O per unit,0.0007
+3119,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00141
+31110,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00031
+31111,Battery Electric Vehicle,kg CO2e of N2O per unit,0.00051
+3120,0% Laden,kg CO2e,
+3121,0% Laden,kg CO2e,0.46138
+3122,0% Laden,kg CO2e,0.74251
+3123,0% Laden,kg CO2e,
+3124,0% Laden,kg CO2e,0.55061
+3125,0% Laden,kg CO2e,0.88612
+3126,0% Laden,kg CO2e,
+3127,0% Laden,kg CO2e,0.774
+3128,0% Laden,kg CO2e,1.24562
+3129,0% Laden,kg CO2e,
+31210,0% Laden,kg CO2e,0.67912
+31211,0% Laden,kg CO2e,1.09292
+31212,0% Laden,kg CO2e,
+31213,0% Laden,kg CO2e,0.62775
+31214,0% Laden,kg CO2e,1.01024
+31215,0% Laden,kg CO2e,
+31216,0% Laden,kg CO2e,0.64734
+31217,0% Laden,kg CO2e,1.04178
+31218,0% Laden,kg CO2e,
+31219,0% Laden,kg CO2e,0.64659
+31220,0% Laden,kg CO2e,1.04057
+31221,0% Laden,kg CO2e,
+31222,0% Laden,kg CO2e,0.65975
+31223,0% Laden,kg CO2e,1.06176
+3120,0% Laden,kg CO2e of CO2 per unit,
+3121,0% Laden,kg CO2e of CO2 per unit,0.45595
+3122,0% Laden,kg CO2e of CO2 per unit,0.73378
+3123,0% Laden,kg CO2e of CO2 per unit,
+3124,0% Laden,kg CO2e of CO2 per unit,0.54399
+3125,0% Laden,kg CO2e of CO2 per unit,0.87546
+3126,0% Laden,kg CO2e of CO2 per unit,
+3127,0% Laden,kg CO2e of CO2 per unit,0.76318
+3128,0% Laden,kg CO2e of CO2 per unit,1.22821
+3129,0% Laden,kg CO2e of CO2 per unit,
+31210,0% Laden,kg CO2e of CO2 per unit,0.67005
+31211,0% Laden,kg CO2e of CO2 per unit,1.07833
+31212,0% Laden,kg CO2e of CO2 per unit,
+31213,0% Laden,kg CO2e of CO2 per unit,0.61554
+31214,0% Laden,kg CO2e of CO2 per unit,0.99061
+31215,0% Laden,kg CO2e of CO2 per unit,
+31216,0% Laden,kg CO2e of CO2 per unit,0.63282
+31217,0% Laden,kg CO2e of CO2 per unit,1.01842
+31218,0% Laden,kg CO2e of CO2 per unit,
+31219,0% Laden,kg CO2e of CO2 per unit,0.63216
+31220,0% Laden,kg CO2e of CO2 per unit,1.01736
+31221,0% Laden,kg CO2e of CO2 per unit,
+31222,0% Laden,kg CO2e of CO2 per unit,0.64764
+31223,0% Laden,kg CO2e of CO2 per unit,1.04228
+3120,0% Laden,kg CO2e of CH4 per unit,
+3121,0% Laden,kg CO2e of CH4 per unit,0.00011
+3122,0% Laden,kg CO2e of CH4 per unit,0.00018
+3123,0% Laden,kg CO2e of CH4 per unit,
+3124,0% Laden,kg CO2e of CH4 per unit,0.00013
+3125,0% Laden,kg CO2e of CH4 per unit,0.00022
+3126,0% Laden,kg CO2e of CH4 per unit,
+3127,0% Laden,kg CO2e of CH4 per unit,0.00022
+3128,0% Laden,kg CO2e of CH4 per unit,0.00037
+3129,0% Laden,kg CO2e of CH4 per unit,
+31210,0% Laden,kg CO2e of CH4 per unit,0.00019
+31211,0% Laden,kg CO2e of CH4 per unit,0.0003
+31212,0% Laden,kg CO2e of CH4 per unit,
+31213,0% Laden,kg CO2e of CH4 per unit,0.00012
+31214,0% Laden,kg CO2e of CH4 per unit,0.00019
+31215,0% Laden,kg CO2e of CH4 per unit,
+31216,0% Laden,kg CO2e of CH4 per unit,0.00015
+31217,0% Laden,kg CO2e of CH4 per unit,0.00022
+31218,0% Laden,kg CO2e of CH4 per unit,
+31219,0% Laden,kg CO2e of CH4 per unit,0.00015
+31220,0% Laden,kg CO2e of CH4 per unit,0.00022
+31221,0% Laden,kg CO2e of CH4 per unit,
+31222,0% Laden,kg CO2e of CH4 per unit,0.00016
+31223,0% Laden,kg CO2e of CH4 per unit,0.00026
+3120,0% Laden,kg CO2e of N2O per unit,
+3121,0% Laden,kg CO2e of N2O per unit,0.00532
+3122,0% Laden,kg CO2e of N2O per unit,0.00855
+3123,0% Laden,kg CO2e of N2O per unit,
+3124,0% Laden,kg CO2e of N2O per unit,0.00648
+3125,0% Laden,kg CO2e of N2O per unit,0.01043
+3126,0% Laden,kg CO2e of N2O per unit,
+3127,0% Laden,kg CO2e of N2O per unit,0.01059
+3128,0% Laden,kg CO2e of N2O per unit,0.01704
+3129,0% Laden,kg CO2e of N2O per unit,
+31210,0% Laden,kg CO2e of N2O per unit,0.00888
+31211,0% Laden,kg CO2e of N2O per unit,0.01429
+31212,0% Laden,kg CO2e of N2O per unit,
+31213,0% Laden,kg CO2e of N2O per unit,0.01209
+31214,0% Laden,kg CO2e of N2O per unit,0.01944
+31215,0% Laden,kg CO2e of N2O per unit,
+31216,0% Laden,kg CO2e of N2O per unit,0.01438
+31217,0% Laden,kg CO2e of N2O per unit,0.02314
+31218,0% Laden,kg CO2e of N2O per unit,
+31219,0% Laden,kg CO2e of N2O per unit,0.01428
+31220,0% Laden,kg CO2e of N2O per unit,0.02299
+31221,0% Laden,kg CO2e of N2O per unit,
+31222,0% Laden,kg CO2e of N2O per unit,0.01195
+31223,0% Laden,kg CO2e of N2O per unit,0.01923
+3120,50% Laden,kg CO2e,0.45916
+3121,50% Laden,kg CO2e,0.50103
+3122,50% Laden,kg CO2e,0.80632
+3123,50% Laden,kg CO2e,0.26427
+3124,50% Laden,kg CO2e,0.62832
+3125,50% Laden,kg CO2e,1.01119
+3126,50% Laden,kg CO2e,0.21116
+3127,50% Laden,kg CO2e,0.94152
+3128,50% Laden,kg CO2e,1.51523
+3129,50% Laden,kg CO2e,0.2258
+31210,50% Laden,kg CO2e,0.80803
+31211,50% Laden,kg CO2e,1.3004
+31212,50% Laden,kg CO2e,0.12823
+31213,50% Laden,kg CO2e,0.78163
+31214,50% Laden,kg CO2e,1.25789
+31215,50% Laden,kg CO2e,0.09612
+31216,50% Laden,kg CO2e,0.85827
+31217,50% Laden,kg CO2e,1.38125
+31218,50% Laden,kg CO2e,0.09675
+31219,50% Laden,kg CO2e,0.85536
+31220,50% Laden,kg CO2e,1.37656
+31221,50% Laden,kg CO2e,0.12226
+31222,50% Laden,kg CO2e,0.83589
+31223,50% Laden,kg CO2e,1.34523
+3120,50% Laden,kg CO2e of CO2 per unit,0.45411
+3121,50% Laden,kg CO2e of CO2 per unit,0.4956
+3122,50% Laden,kg CO2e of CO2 per unit,0.79759
+3123,50% Laden,kg CO2e of CO2 per unit,0.26166
+3124,50% Laden,kg CO2e of CO2 per unit,0.6217
+3125,50% Laden,kg CO2e of CO2 per unit,1.00053
+3126,50% Laden,kg CO2e of CO2 per unit,0.20879
+3127,50% Laden,kg CO2e of CO2 per unit,0.9307
+3128,50% Laden,kg CO2e of CO2 per unit,1.49782
+3129,50% Laden,kg CO2e of CO2 per unit,0.22325
+31210,50% Laden,kg CO2e of CO2 per unit,0.79896
+31211,50% Laden,kg CO2e of CO2 per unit,1.28581
+31212,50% Laden,kg CO2e of CO2 per unit,0.1263
+31213,50% Laden,kg CO2e of CO2 per unit,0.76942
+31214,50% Laden,kg CO2e of CO2 per unit,1.23826
+31215,50% Laden,kg CO2e of CO2 per unit,0.09453
+31216,50% Laden,kg CO2e of CO2 per unit,0.84375
+31217,50% Laden,kg CO2e of CO2 per unit,1.35789
+31218,50% Laden,kg CO2e of CO2 per unit,0.09515
+31219,50% Laden,kg CO2e of CO2 per unit,0.84093
+31220,50% Laden,kg CO2e of CO2 per unit,1.35335
+31221,50% Laden,kg CO2e of CO2 per unit,0.12046
+31222,50% Laden,kg CO2e of CO2 per unit,0.82378
+31223,50% Laden,kg CO2e of CO2 per unit,1.32575
+3120,50% Laden,kg CO2e of CH4 per unit,0.0001
+3121,50% Laden,kg CO2e of CH4 per unit,0.00011
+3122,50% Laden,kg CO2e of CH4 per unit,0.00018
+3123,50% Laden,kg CO2e of CH4 per unit,6e-05
+3124,50% Laden,kg CO2e of CH4 per unit,0.00013
+3125,50% Laden,kg CO2e of CH4 per unit,0.00022
+3126,50% Laden,kg CO2e of CH4 per unit,4e-05
+3127,50% Laden,kg CO2e of CH4 per unit,0.00022
+3128,50% Laden,kg CO2e of CH4 per unit,0.00037
+3129,50% Laden,kg CO2e of CH4 per unit,6e-05
+31210,50% Laden,kg CO2e of CH4 per unit,0.00019
+31211,50% Laden,kg CO2e of CH4 per unit,0.0003
+31212,50% Laden,kg CO2e of CH4 per unit,2e-05
+31213,50% Laden,kg CO2e of CH4 per unit,0.00012
+31214,50% Laden,kg CO2e of CH4 per unit,0.00019
+31215,50% Laden,kg CO2e of CH4 per unit,1e-05
+31216,50% Laden,kg CO2e of CH4 per unit,0.00015
+31217,50% Laden,kg CO2e of CH4 per unit,0.00022
+31218,50% Laden,kg CO2e of CH4 per unit,1e-05
+31219,50% Laden,kg CO2e of CH4 per unit,0.00015
+31220,50% Laden,kg CO2e of CH4 per unit,0.00022
+31221,50% Laden,kg CO2e of CH4 per unit,2e-05
+31222,50% Laden,kg CO2e of CH4 per unit,0.00016
+31223,50% Laden,kg CO2e of CH4 per unit,0.00026
+3120,50% Laden,kg CO2e of N2O per unit,0.00495
+3121,50% Laden,kg CO2e of N2O per unit,0.00532
+3122,50% Laden,kg CO2e of N2O per unit,0.00855
+3123,50% Laden,kg CO2e of N2O per unit,0.00255
+3124,50% Laden,kg CO2e of N2O per unit,0.00648
+3125,50% Laden,kg CO2e of N2O per unit,0.01043
+3126,50% Laden,kg CO2e of N2O per unit,0.00232
+3127,50% Laden,kg CO2e of N2O per unit,0.01059
+3128,50% Laden,kg CO2e of N2O per unit,0.01704
+3129,50% Laden,kg CO2e of N2O per unit,0.00249
+31210,50% Laden,kg CO2e of N2O per unit,0.00888
+31211,50% Laden,kg CO2e of N2O per unit,0.01429
+31212,50% Laden,kg CO2e of N2O per unit,0.0019
+31213,50% Laden,kg CO2e of N2O per unit,0.01209
+31214,50% Laden,kg CO2e of N2O per unit,0.01944
+31215,50% Laden,kg CO2e of N2O per unit,0.00158
+31216,50% Laden,kg CO2e of N2O per unit,0.01438
+31217,50% Laden,kg CO2e of N2O per unit,0.02314
+31218,50% Laden,kg CO2e of N2O per unit,0.00159
+31219,50% Laden,kg CO2e of N2O per unit,0.01428
+31220,50% Laden,kg CO2e of N2O per unit,0.02299
+31221,50% Laden,kg CO2e of N2O per unit,0.00178
+31222,50% Laden,kg CO2e of N2O per unit,0.01195
+31223,50% Laden,kg CO2e of N2O per unit,0.01923
+3120,100% Laden,kg CO2e,0.24776
+3121,100% Laden,kg CO2e,0.54068
+3122,100% Laden,kg CO2e,0.87012
+3123,100% Laden,kg CO2e,0.14849
+3124,100% Laden,kg CO2e,0.70603
+3125,100% Laden,kg CO2e,1.13625
+3126,100% Laden,kg CO2e,0.12436
+3127,100% Laden,kg CO2e,1.10905
+3128,100% Laden,kg CO2e,1.78484
+3129,100% Laden,kg CO2e,0.13155
+31210,100% Laden,kg CO2e,0.93695
+31211,100% Laden,kg CO2e,1.50787
+31212,100% Laden,kg CO2e,0.07674
+31213,100% Laden,kg CO2e,0.93552
+31214,100% Laden,kg CO2e,1.50555
+31215,100% Laden,kg CO2e,0.05988
+31216,100% Laden,kg CO2e,1.06921
+31217,100% Laden,kg CO2e,1.72072
+31218,100% Laden,kg CO2e,0.06021
+31219,100% Laden,kg CO2e,1.06414
+31220,100% Laden,kg CO2e,1.71255
+31221,100% Laden,kg CO2e,0.07431
+31222,100% Laden,kg CO2e,1.01203
+31223,100% Laden,kg CO2e,1.6287
+3120,100% Laden,kg CO2e of CO2 per unit,0.24522
+3121,100% Laden,kg CO2e of CO2 per unit,0.53525
+3122,100% Laden,kg CO2e of CO2 per unit,0.86139
+3123,100% Laden,kg CO2e of CO2 per unit,0.14719
+3124,100% Laden,kg CO2e of CO2 per unit,0.69941
+3125,100% Laden,kg CO2e of CO2 per unit,1.12559
+3126,100% Laden,kg CO2e of CO2 per unit,0.12318
+3127,100% Laden,kg CO2e of CO2 per unit,1.09823
+3128,100% Laden,kg CO2e of CO2 per unit,1.76743
+3129,100% Laden,kg CO2e of CO2 per unit,0.13028
+31210,100% Laden,kg CO2e of CO2 per unit,0.92788
+31211,100% Laden,kg CO2e of CO2 per unit,1.49328
+31212,100% Laden,kg CO2e of CO2 per unit,0.07578
+31213,100% Laden,kg CO2e of CO2 per unit,0.92331
+31214,100% Laden,kg CO2e of CO2 per unit,1.48592
+31215,100% Laden,kg CO2e of CO2 per unit,0.05908
+31216,100% Laden,kg CO2e of CO2 per unit,1.05469
+31217,100% Laden,kg CO2e of CO2 per unit,1.69736
+31218,100% Laden,kg CO2e of CO2 per unit,0.05941
+31219,100% Laden,kg CO2e of CO2 per unit,1.04971
+31220,100% Laden,kg CO2e of CO2 per unit,1.68934
+31221,100% Laden,kg CO2e of CO2 per unit,0.07341
+31222,100% Laden,kg CO2e of CO2 per unit,0.99992
+31223,100% Laden,kg CO2e of CO2 per unit,1.60922
+3120,100% Laden,kg CO2e of CH4 per unit,6e-05
+3121,100% Laden,kg CO2e of CH4 per unit,0.00011
+3122,100% Laden,kg CO2e of CH4 per unit,0.00018
+3123,100% Laden,kg CO2e of CH4 per unit,2e-05
+3124,100% Laden,kg CO2e of CH4 per unit,0.00013
+3125,100% Laden,kg CO2e of CH4 per unit,0.00022
+3126,100% Laden,kg CO2e of CH4 per unit,2e-05
+3127,100% Laden,kg CO2e of CH4 per unit,0.00022
+3128,100% Laden,kg CO2e of CH4 per unit,0.00037
+3129,100% Laden,kg CO2e of CH4 per unit,2e-05
+31210,100% Laden,kg CO2e of CH4 per unit,0.00019
+31211,100% Laden,kg CO2e of CH4 per unit,0.0003
+31212,100% Laden,kg CO2e of CH4 per unit,1e-05
+31213,100% Laden,kg CO2e of CH4 per unit,0.00012
+31214,100% Laden,kg CO2e of CH4 per unit,0.00019
+31215,100% Laden,kg CO2e of CH4 per unit,1e-05
+31216,100% Laden,kg CO2e of CH4 per unit,0.00015
+31217,100% Laden,kg CO2e of CH4 per unit,0.00022
+31218,100% Laden,kg CO2e of CH4 per unit,1e-05
+31219,100% Laden,kg CO2e of CH4 per unit,0.00015
+31220,100% Laden,kg CO2e of CH4 per unit,0.00022
+31221,100% Laden,kg CO2e of CH4 per unit,1e-05
+31222,100% Laden,kg CO2e of CH4 per unit,0.00016
+31223,100% Laden,kg CO2e of CH4 per unit,0.00026
+3120,100% Laden,kg CO2e of N2O per unit,0.00248
+3121,100% Laden,kg CO2e of N2O per unit,0.00532
+3122,100% Laden,kg CO2e of N2O per unit,0.00855
+3123,100% Laden,kg CO2e of N2O per unit,0.00128
+3124,100% Laden,kg CO2e of N2O per unit,0.00648
+3125,100% Laden,kg CO2e of N2O per unit,0.01043
+3126,100% Laden,kg CO2e of N2O per unit,0.00116
+3127,100% Laden,kg CO2e of N2O per unit,0.01059
+3128,100% Laden,kg CO2e of N2O per unit,0.01704
+3129,100% Laden,kg CO2e of N2O per unit,0.00124
+31210,100% Laden,kg CO2e of N2O per unit,0.00888
+31211,100% Laden,kg CO2e of N2O per unit,0.01429
+31212,100% Laden,kg CO2e of N2O per unit,0.00095
+31213,100% Laden,kg CO2e of N2O per unit,0.01209
+31214,100% Laden,kg CO2e of N2O per unit,0.01944
+31215,100% Laden,kg CO2e of N2O per unit,0.00079
+31216,100% Laden,kg CO2e of N2O per unit,0.01438
+31217,100% Laden,kg CO2e of N2O per unit,0.02314
+31218,100% Laden,kg CO2e of N2O per unit,0.00079
+31219,100% Laden,kg CO2e of N2O per unit,0.01428
+31220,100% Laden,kg CO2e of N2O per unit,0.02299
+31221,100% Laden,kg CO2e of N2O per unit,0.00089
+31222,100% Laden,kg CO2e of N2O per unit,0.01195
+31223,100% Laden,kg CO2e of N2O per unit,0.01923
+3120,Average laden,kg CO2e,0.52761
+3121,Average laden,kg CO2e,0.49548
+3122,Average laden,kg CO2e,0.79738
+3123,Average laden,kg CO2e,0.36362
+3124,Average laden,kg CO2e,0.60501
+3125,Average laden,kg CO2e,0.97367
+3126,Average laden,kg CO2e,0.17146
+3127,Average laden,kg CO2e,0.99156
+3128,Average laden,kg CO2e,1.59575
+3129,Average laden,kg CO2e,0.19748
+31210,Average laden,kg CO2e,0.83751
+31211,Average laden,kg CO2e,1.34783
+31212,Average laden,kg CO2e,0.12633
+31213,Average laden,kg CO2e,0.78471
+31214,Average laden,kg CO2e,1.26285
+31215,Average laden,kg CO2e,0.07703
+31216,Average laden,kg CO2e,0.93421
+31217,Average laden,kg CO2e,1.50346
+31218,Average laden,kg CO2e,0.078
+31219,Average laden,kg CO2e,0.92854
+31220,Average laden,kg CO2e,1.49432
+31221,Average laden,kg CO2e,0.10163
+31222,Average laden,kg CO2e,0.89121
+31223,Average laden,kg CO2e,1.43425
+3120,Average laden,kg CO2e of CO2 per unit,0.52212
+3121,Average laden,kg CO2e of CO2 per unit,0.49005
+3122,Average laden,kg CO2e of CO2 per unit,0.78865
+3123,Average laden,kg CO2e of CO2 per unit,0.35979
+3124,Average laden,kg CO2e of CO2 per unit,0.59839
+3125,Average laden,kg CO2e of CO2 per unit,0.96301
+3126,Average laden,kg CO2e of CO2 per unit,0.16941
+3127,Average laden,kg CO2e of CO2 per unit,0.98074
+3128,Average laden,kg CO2e of CO2 per unit,1.57834
+3129,Average laden,kg CO2e of CO2 per unit,0.19514
+31210,Average laden,kg CO2e of CO2 per unit,0.82844
+31211,Average laden,kg CO2e of CO2 per unit,1.33324
+31212,Average laden,kg CO2e of CO2 per unit,0.12432
+31213,Average laden,kg CO2e of CO2 per unit,0.7725
+31214,Average laden,kg CO2e of CO2 per unit,1.24322
+31215,Average laden,kg CO2e of CO2 per unit,0.07576
+31216,Average laden,kg CO2e of CO2 per unit,0.91969
+31217,Average laden,kg CO2e of CO2 per unit,1.4801
+31218,Average laden,kg CO2e of CO2 per unit,0.07672
+31219,Average laden,kg CO2e of CO2 per unit,0.91411
+31220,Average laden,kg CO2e of CO2 per unit,1.47111
+31221,Average laden,kg CO2e of CO2 per unit,0.10012
+31222,Average laden,kg CO2e of CO2 per unit,0.8791
+31223,Average laden,kg CO2e of CO2 per unit,1.41477
+3120,Average laden,kg CO2e of CH4 per unit,0.00011
+3121,Average laden,kg CO2e of CH4 per unit,0.00011
+3122,Average laden,kg CO2e of CH4 per unit,0.00018
+3123,Average laden,kg CO2e of CH4 per unit,8e-05
+3124,Average laden,kg CO2e of CH4 per unit,0.00013
+3125,Average laden,kg CO2e of CH4 per unit,0.00022
+3126,Average laden,kg CO2e of CH4 per unit,4e-05
+3127,Average laden,kg CO2e of CH4 per unit,0.00022
+3128,Average laden,kg CO2e of CH4 per unit,0.00037
+3129,Average laden,kg CO2e of CH4 per unit,4e-05
+31210,Average laden,kg CO2e of CH4 per unit,0.00019
+31211,Average laden,kg CO2e of CH4 per unit,0.0003
+31212,Average laden,kg CO2e of CH4 per unit,2e-05
+31213,Average laden,kg CO2e of CH4 per unit,0.00012
+31214,Average laden,kg CO2e of CH4 per unit,0.00019
+31215,Average laden,kg CO2e of CH4 per unit,1e-05
+31216,Average laden,kg CO2e of CH4 per unit,0.00015
+31217,Average laden,kg CO2e of CH4 per unit,0.00022
+31218,Average laden,kg CO2e of CH4 per unit,1e-05
+31219,Average laden,kg CO2e of CH4 per unit,0.00015
+31220,Average laden,kg CO2e of CH4 per unit,0.00022
+31221,Average laden,kg CO2e of CH4 per unit,2e-05
+31222,Average laden,kg CO2e of CH4 per unit,0.00016
+31223,Average laden,kg CO2e of CH4 per unit,0.00026
+3120,Average laden,kg CO2e of N2O per unit,0.00538
+3121,Average laden,kg CO2e of N2O per unit,0.00532
+3122,Average laden,kg CO2e of N2O per unit,0.00855
+3123,Average laden,kg CO2e of N2O per unit,0.00375
+3124,Average laden,kg CO2e of N2O per unit,0.00648
+3125,Average laden,kg CO2e of N2O per unit,0.01043
+3126,Average laden,kg CO2e of N2O per unit,0.00201
+3127,Average laden,kg CO2e of N2O per unit,0.01059
+3128,Average laden,kg CO2e of N2O per unit,0.01704
+3129,Average laden,kg CO2e of N2O per unit,0.00229
+31210,Average laden,kg CO2e of N2O per unit,0.00888
+31211,Average laden,kg CO2e of N2O per unit,0.01429
+31212,Average laden,kg CO2e of N2O per unit,0.00198
+31213,Average laden,kg CO2e of N2O per unit,0.01209
+31214,Average laden,kg CO2e of N2O per unit,0.01944
+31215,Average laden,kg CO2e of N2O per unit,0.00125
+31216,Average laden,kg CO2e of N2O per unit,0.01438
+31217,Average laden,kg CO2e of N2O per unit,0.02314
+31218,Average laden,kg CO2e of N2O per unit,0.00127
+31219,Average laden,kg CO2e of N2O per unit,0.01428
+31220,Average laden,kg CO2e of N2O per unit,0.02299
+31221,Average laden,kg CO2e of N2O per unit,0.00149
+31222,Average laden,kg CO2e of N2O per unit,0.01195
+31223,Average laden,kg CO2e of N2O per unit,0.01923
+3130,0% Laden,kg CO2e,
+3131,0% Laden,kg CO2e,0.54937
+3132,0% Laden,kg CO2e,0.88412
+3133,0% Laden,kg CO2e,
+3134,0% Laden,kg CO2e,0.65559
+3135,0% Laden,kg CO2e,1.05508
+3136,0% Laden,kg CO2e,
+3137,0% Laden,kg CO2e,0.92128
+3138,0% Laden,kg CO2e,1.48266
+3139,0% Laden,kg CO2e,
+31310,0% Laden,kg CO2e,0.80843
+31311,0% Laden,kg CO2e,1.30103
+31312,0% Laden,kg CO2e,
+31313,0% Laden,kg CO2e,0.72566
+31314,0% Laden,kg CO2e,1.16782
+31315,0% Laden,kg CO2e,
+31316,0% Laden,kg CO2e,0.748
+31317,0% Laden,kg CO2e,1.20378
+31318,0% Laden,kg CO2e,
+31319,0% Laden,kg CO2e,0.74715
+31320,0% Laden,kg CO2e,1.20241
+31321,0% Laden,kg CO2e,
+31322,0% Laden,kg CO2e,0.77175
+31323,0% Laden,kg CO2e,1.242
+3130,0% Laden,kg CO2e of CO2 per unit,
+3131,0% Laden,kg CO2e of CO2 per unit,0.54394
+3132,0% Laden,kg CO2e of CO2 per unit,0.87539
+3133,0% Laden,kg CO2e of CO2 per unit,
+3134,0% Laden,kg CO2e of CO2 per unit,0.64897
+3135,0% Laden,kg CO2e of CO2 per unit,1.04442
+3136,0% Laden,kg CO2e of CO2 per unit,
+3137,0% Laden,kg CO2e of CO2 per unit,0.91046
+3138,0% Laden,kg CO2e of CO2 per unit,1.46525
+3139,0% Laden,kg CO2e of CO2 per unit,
+31310,0% Laden,kg CO2e of CO2 per unit,0.79936
+31311,0% Laden,kg CO2e of CO2 per unit,1.28644
+31312,0% Laden,kg CO2e of CO2 per unit,
+31313,0% Laden,kg CO2e of CO2 per unit,0.71345
+31314,0% Laden,kg CO2e of CO2 per unit,1.14819
+31315,0% Laden,kg CO2e of CO2 per unit,
+31316,0% Laden,kg CO2e of CO2 per unit,0.73348
+31317,0% Laden,kg CO2e of CO2 per unit,1.18042
+31318,0% Laden,kg CO2e of CO2 per unit,
+31319,0% Laden,kg CO2e of CO2 per unit,0.73272
+31320,0% Laden,kg CO2e of CO2 per unit,1.1792
+31321,0% Laden,kg CO2e of CO2 per unit,
+31322,0% Laden,kg CO2e of CO2 per unit,0.75964
+31323,0% Laden,kg CO2e of CO2 per unit,1.22252
+3130,0% Laden,kg CO2e of CH4 per unit,
+3131,0% Laden,kg CO2e of CH4 per unit,0.00011
+3132,0% Laden,kg CO2e of CH4 per unit,0.00018
+3133,0% Laden,kg CO2e of CH4 per unit,
+3134,0% Laden,kg CO2e of CH4 per unit,0.00013
+3135,0% Laden,kg CO2e of CH4 per unit,0.00022
+3136,0% Laden,kg CO2e of CH4 per unit,
+3137,0% Laden,kg CO2e of CH4 per unit,0.00022
+3138,0% Laden,kg CO2e of CH4 per unit,0.00037
+3139,0% Laden,kg CO2e of CH4 per unit,
+31310,0% Laden,kg CO2e of CH4 per unit,0.00019
+31311,0% Laden,kg CO2e of CH4 per unit,0.0003
+31312,0% Laden,kg CO2e of CH4 per unit,
+31313,0% Laden,kg CO2e of CH4 per unit,0.00012
+31314,0% Laden,kg CO2e of CH4 per unit,0.00019
+31315,0% Laden,kg CO2e of CH4 per unit,
+31316,0% Laden,kg CO2e of CH4 per unit,0.00015
+31317,0% Laden,kg CO2e of CH4 per unit,0.00022
+31318,0% Laden,kg CO2e of CH4 per unit,
+31319,0% Laden,kg CO2e of CH4 per unit,0.00015
+31320,0% Laden,kg CO2e of CH4 per unit,0.00022
+31321,0% Laden,kg CO2e of CH4 per unit,
+31322,0% Laden,kg CO2e of CH4 per unit,0.00016
+31323,0% Laden,kg CO2e of CH4 per unit,0.00026
+3130,0% Laden,kg CO2e of N2O per unit,
+3131,0% Laden,kg CO2e of N2O per unit,0.00532
+3132,0% Laden,kg CO2e of N2O per unit,0.00855
+3133,0% Laden,kg CO2e of N2O per unit,
+3134,0% Laden,kg CO2e of N2O per unit,0.00648
+3135,0% Laden,kg CO2e of N2O per unit,0.01043
+3136,0% Laden,kg CO2e of N2O per unit,
+3137,0% Laden,kg CO2e of N2O per unit,0.01059
+3138,0% Laden,kg CO2e of N2O per unit,0.01704
+3139,0% Laden,kg CO2e of N2O per unit,
+31310,0% Laden,kg CO2e of N2O per unit,0.00888
+31311,0% Laden,kg CO2e of N2O per unit,0.01429
+31312,0% Laden,kg CO2e of N2O per unit,
+31313,0% Laden,kg CO2e of N2O per unit,0.01209
+31314,0% Laden,kg CO2e of N2O per unit,0.01944
+31315,0% Laden,kg CO2e of N2O per unit,
+31316,0% Laden,kg CO2e of N2O per unit,0.01438
+31317,0% Laden,kg CO2e of N2O per unit,0.02314
+31318,0% Laden,kg CO2e of N2O per unit,
+31319,0% Laden,kg CO2e of N2O per unit,0.01428
+31320,0% Laden,kg CO2e of N2O per unit,0.02299
+31321,0% Laden,kg CO2e of N2O per unit,
+31322,0% Laden,kg CO2e of N2O per unit,0.01195
+31323,0% Laden,kg CO2e of N2O per unit,0.01923
+3130,50% Laden,kg CO2e,0.5468
+3131,50% Laden,kg CO2e,0.59667
+3132,50% Laden,kg CO2e,0.96024
+3133,50% Laden,kg CO2e,0.31477
+3134,50% Laden,kg CO2e,0.7483
+3135,50% Laden,kg CO2e,1.20428
+3136,50% Laden,kg CO2e,0.25145
+3137,50% Laden,kg CO2e,1.12114
+3138,50% Laden,kg CO2e,1.8043
+3139,50% Laden,kg CO2e,0.26888
+31310,50% Laden,kg CO2e,0.96223
+31311,50% Laden,kg CO2e,1.54855
+31312,50% Laden,kg CO2e,0.14833
+31313,50% Laden,kg CO2e,0.90403
+31314,50% Laden,kg CO2e,1.45487
+31315,50% Laden,kg CO2e,0.11115
+31316,50% Laden,kg CO2e,0.99249
+31317,50% Laden,kg CO2e,1.59725
+31318,50% Laden,kg CO2e,0.11189
+31319,50% Laden,kg CO2e,0.98913
+31320,50% Laden,kg CO2e,1.59184
+31321,50% Laden,kg CO2e,0.14309
+31322,50% Laden,kg CO2e,0.97835
+31323,50% Laden,kg CO2e,1.5745
+3130,50% Laden,kg CO2e of CO2 per unit,0.54175
+3131,50% Laden,kg CO2e of CO2 per unit,0.59124
+3132,50% Laden,kg CO2e of CO2 per unit,0.95151
+3133,50% Laden,kg CO2e of CO2 per unit,0.31216
+3134,50% Laden,kg CO2e of CO2 per unit,0.74168
+3135,50% Laden,kg CO2e of CO2 per unit,1.19362
+3136,50% Laden,kg CO2e of CO2 per unit,0.24908
+3137,50% Laden,kg CO2e of CO2 per unit,1.11032
+3138,50% Laden,kg CO2e of CO2 per unit,1.78689
+3139,50% Laden,kg CO2e of CO2 per unit,0.26633
+31310,50% Laden,kg CO2e of CO2 per unit,0.95316
+31311,50% Laden,kg CO2e of CO2 per unit,1.53396
+31312,50% Laden,kg CO2e of CO2 per unit,0.1464
+31313,50% Laden,kg CO2e of CO2 per unit,0.89182
+31314,50% Laden,kg CO2e of CO2 per unit,1.43524
+31315,50% Laden,kg CO2e of CO2 per unit,0.10956
+31316,50% Laden,kg CO2e of CO2 per unit,0.97797
+31317,50% Laden,kg CO2e of CO2 per unit,1.57389
+31318,50% Laden,kg CO2e of CO2 per unit,0.11029
+31319,50% Laden,kg CO2e of CO2 per unit,0.9747
+31320,50% Laden,kg CO2e of CO2 per unit,1.56863
+31321,50% Laden,kg CO2e of CO2 per unit,0.14129
+31322,50% Laden,kg CO2e of CO2 per unit,0.96624
+31323,50% Laden,kg CO2e of CO2 per unit,1.55502
+3130,50% Laden,kg CO2e of CH4 per unit,0.0001
+3131,50% Laden,kg CO2e of CH4 per unit,0.00011
+3132,50% Laden,kg CO2e of CH4 per unit,0.00018
+3133,50% Laden,kg CO2e of CH4 per unit,6e-05
+3134,50% Laden,kg CO2e of CH4 per unit,0.00013
+3135,50% Laden,kg CO2e of CH4 per unit,0.00022
+3136,50% Laden,kg CO2e of CH4 per unit,4e-05
+3137,50% Laden,kg CO2e of CH4 per unit,0.00022
+3138,50% Laden,kg CO2e of CH4 per unit,0.00037
+3139,50% Laden,kg CO2e of CH4 per unit,6e-05
+31310,50% Laden,kg CO2e of CH4 per unit,0.00019
+31311,50% Laden,kg CO2e of CH4 per unit,0.0003
+31312,50% Laden,kg CO2e of CH4 per unit,2e-05
+31313,50% Laden,kg CO2e of CH4 per unit,0.00012
+31314,50% Laden,kg CO2e of CH4 per unit,0.00019
+31315,50% Laden,kg CO2e of CH4 per unit,1e-05
+31316,50% Laden,kg CO2e of CH4 per unit,0.00015
+31317,50% Laden,kg CO2e of CH4 per unit,0.00022
+31318,50% Laden,kg CO2e of CH4 per unit,1e-05
+31319,50% Laden,kg CO2e of CH4 per unit,0.00015
+31320,50% Laden,kg CO2e of CH4 per unit,0.00022
+31321,50% Laden,kg CO2e of CH4 per unit,2e-05
+31322,50% Laden,kg CO2e of CH4 per unit,0.00016
+31323,50% Laden,kg CO2e of CH4 per unit,0.00026
+3130,50% Laden,kg CO2e of N2O per unit,0.00495
+3131,50% Laden,kg CO2e of N2O per unit,0.00532
+3132,50% Laden,kg CO2e of N2O per unit,0.00855
+3133,50% Laden,kg CO2e of N2O per unit,0.00255
+3134,50% Laden,kg CO2e of N2O per unit,0.00648
+3135,50% Laden,kg CO2e of N2O per unit,0.01043
+3136,50% Laden,kg CO2e of N2O per unit,0.00232
+3137,50% Laden,kg CO2e of N2O per unit,0.01059
+3138,50% Laden,kg CO2e of N2O per unit,0.01704
+3139,50% Laden,kg CO2e of N2O per unit,0.00249
+31310,50% Laden,kg CO2e of N2O per unit,0.00888
+31311,50% Laden,kg CO2e of N2O per unit,0.01429
+31312,50% Laden,kg CO2e of N2O per unit,0.0019
+31313,50% Laden,kg CO2e of N2O per unit,0.01209
+31314,50% Laden,kg CO2e of N2O per unit,0.01944
+31315,50% Laden,kg CO2e of N2O per unit,0.00158
+31316,50% Laden,kg CO2e of N2O per unit,0.01438
+31317,50% Laden,kg CO2e of N2O per unit,0.02314
+31318,50% Laden,kg CO2e of N2O per unit,0.00159
+31319,50% Laden,kg CO2e of N2O per unit,0.01428
+31320,50% Laden,kg CO2e of N2O per unit,0.02299
+31321,50% Laden,kg CO2e of N2O per unit,0.00178
+31322,50% Laden,kg CO2e of N2O per unit,0.01195
+31323,50% Laden,kg CO2e of N2O per unit,0.01923
+3130,100% Laden,kg CO2e,0.29508
+3131,100% Laden,kg CO2e,0.64397
+3132,100% Laden,kg CO2e,1.03637
+3133,100% Laden,kg CO2e,0.17689
+3134,100% Laden,kg CO2e,0.84101
+3135,100% Laden,kg CO2e,1.35348
+3136,100% Laden,kg CO2e,0.14814
+3137,100% Laden,kg CO2e,1.321
+3138,100% Laden,kg CO2e,2.12594
+3139,100% Laden,kg CO2e,0.15669
+31310,100% Laden,kg CO2e,1.11603
+31311,100% Laden,kg CO2e,1.79606
+31312,100% Laden,kg CO2e,0.0888
+31313,100% Laden,kg CO2e,1.08239
+31314,100% Laden,kg CO2e,1.74192
+31315,100% Laden,kg CO2e,0.06928
+31316,100% Laden,kg CO2e,1.23699
+31317,100% Laden,kg CO2e,1.99073
+31318,100% Laden,kg CO2e,0.06966
+31319,100% Laden,kg CO2e,1.23112
+31320,100% Laden,kg CO2e,1.98128
+31321,100% Laden,kg CO2e,0.08701
+31322,100% Laden,kg CO2e,1.18495
+31323,100% Laden,kg CO2e,1.90699
+3130,100% Laden,kg CO2e of CO2 per unit,0.29254
+3131,100% Laden,kg CO2e of CO2 per unit,0.63854
+3132,100% Laden,kg CO2e of CO2 per unit,1.02764
+3133,100% Laden,kg CO2e of CO2 per unit,0.17559
+3134,100% Laden,kg CO2e of CO2 per unit,0.83439
+3135,100% Laden,kg CO2e of CO2 per unit,1.34282
+3136,100% Laden,kg CO2e of CO2 per unit,0.14696
+3137,100% Laden,kg CO2e of CO2 per unit,1.31018
+3138,100% Laden,kg CO2e of CO2 per unit,2.10853
+3139,100% Laden,kg CO2e of CO2 per unit,0.15542
+31310,100% Laden,kg CO2e of CO2 per unit,1.10696
+31311,100% Laden,kg CO2e of CO2 per unit,1.78147
+31312,100% Laden,kg CO2e of CO2 per unit,0.08784
+31313,100% Laden,kg CO2e of CO2 per unit,1.07018
+31314,100% Laden,kg CO2e of CO2 per unit,1.72229
+31315,100% Laden,kg CO2e of CO2 per unit,0.06848
+31316,100% Laden,kg CO2e of CO2 per unit,1.22247
+31317,100% Laden,kg CO2e of CO2 per unit,1.96737
+31318,100% Laden,kg CO2e of CO2 per unit,0.06886
+31319,100% Laden,kg CO2e of CO2 per unit,1.21669
+31320,100% Laden,kg CO2e of CO2 per unit,1.95807
+31321,100% Laden,kg CO2e of CO2 per unit,0.08611
+31322,100% Laden,kg CO2e of CO2 per unit,1.17284
+31323,100% Laden,kg CO2e of CO2 per unit,1.88751
+3130,100% Laden,kg CO2e of CH4 per unit,6e-05
+3131,100% Laden,kg CO2e of CH4 per unit,0.00011
+3132,100% Laden,kg CO2e of CH4 per unit,0.00018
+3133,100% Laden,kg CO2e of CH4 per unit,2e-05
+3134,100% Laden,kg CO2e of CH4 per unit,0.00013
+3135,100% Laden,kg CO2e of CH4 per unit,0.00022
+3136,100% Laden,kg CO2e of CH4 per unit,2e-05
+3137,100% Laden,kg CO2e of CH4 per unit,0.00022
+3138,100% Laden,kg CO2e of CH4 per unit,0.00037
+3139,100% Laden,kg CO2e of CH4 per unit,2e-05
+31310,100% Laden,kg CO2e of CH4 per unit,0.00019
+31311,100% Laden,kg CO2e of CH4 per unit,0.0003
+31312,100% Laden,kg CO2e of CH4 per unit,1e-05
+31313,100% Laden,kg CO2e of CH4 per unit,0.00012
+31314,100% Laden,kg CO2e of CH4 per unit,0.00019
+31315,100% Laden,kg CO2e of CH4 per unit,1e-05
+31316,100% Laden,kg CO2e of CH4 per unit,0.00015
+31317,100% Laden,kg CO2e of CH4 per unit,0.00022
+31318,100% Laden,kg CO2e of CH4 per unit,1e-05
+31319,100% Laden,kg CO2e of CH4 per unit,0.00015
+31320,100% Laden,kg CO2e of CH4 per unit,0.00022
+31321,100% Laden,kg CO2e of CH4 per unit,1e-05
+31322,100% Laden,kg CO2e of CH4 per unit,0.00016
+31323,100% Laden,kg CO2e of CH4 per unit,0.00026
+3130,100% Laden,kg CO2e of N2O per unit,0.00248
+3131,100% Laden,kg CO2e of N2O per unit,0.00532
+3132,100% Laden,kg CO2e of N2O per unit,0.00855
+3133,100% Laden,kg CO2e of N2O per unit,0.00128
+3134,100% Laden,kg CO2e of N2O per unit,0.00648
+3135,100% Laden,kg CO2e of N2O per unit,0.01043
+3136,100% Laden,kg CO2e of N2O per unit,0.00116
+3137,100% Laden,kg CO2e of N2O per unit,0.01059
+3138,100% Laden,kg CO2e of N2O per unit,0.01704
+3139,100% Laden,kg CO2e of N2O per unit,0.00124
+31310,100% Laden,kg CO2e of N2O per unit,0.00888
+31311,100% Laden,kg CO2e of N2O per unit,0.01429
+31312,100% Laden,kg CO2e of N2O per unit,0.00095
+31313,100% Laden,kg CO2e of N2O per unit,0.01209
+31314,100% Laden,kg CO2e of N2O per unit,0.01944
+31315,100% Laden,kg CO2e of N2O per unit,0.00079
+31316,100% Laden,kg CO2e of N2O per unit,0.01438
+31317,100% Laden,kg CO2e of N2O per unit,0.02314
+31318,100% Laden,kg CO2e of N2O per unit,0.00079
+31319,100% Laden,kg CO2e of N2O per unit,0.01428
+31320,100% Laden,kg CO2e of N2O per unit,0.02299
+31321,100% Laden,kg CO2e of N2O per unit,0.00089
+31322,100% Laden,kg CO2e of N2O per unit,0.01195
+31323,100% Laden,kg CO2e of N2O per unit,0.01923
+3130,Average laden,kg CO2e,0.62837
+3131,Average laden,kg CO2e,0.59005
+3132,Average laden,kg CO2e,0.94959
+3133,Average laden,kg CO2e,0.43306
+3134,Average laden,kg CO2e,0.72049
+3135,Average laden,kg CO2e,1.15952
+3136,Average laden,kg CO2e,0.20416
+3137,Average laden,kg CO2e,1.18083
+3138,Average laden,kg CO2e,1.90036
+3139,Average laden,kg CO2e,0.23514
+31310,Average laden,kg CO2e,0.99739
+31311,Average laden,kg CO2e,1.60513
+31312,Average laden,kg CO2e,0.14611
+31313,Average laden,kg CO2e,0.90759
+31314,Average laden,kg CO2e,1.46061
+31315,Average laden,kg CO2e,0.08908
+31316,Average laden,kg CO2e,1.08051
+31317,Average laden,kg CO2e,1.7389
+31318,Average laden,kg CO2e,0.0902
+31319,Average laden,kg CO2e,1.07395
+31320,Average laden,kg CO2e,1.72834
+31321,Average laden,kg CO2e,0.11894
+31322,Average laden,kg CO2e,1.04323
+31323,Average laden,kg CO2e,1.67891
+3130,Average laden,kg CO2e of CO2 per unit,0.62288
+3131,Average laden,kg CO2e of CO2 per unit,0.58462
+3132,Average laden,kg CO2e of CO2 per unit,0.94086
+3133,Average laden,kg CO2e of CO2 per unit,0.42923
+3134,Average laden,kg CO2e of CO2 per unit,0.71387
+3135,Average laden,kg CO2e of CO2 per unit,1.14886
+3136,Average laden,kg CO2e of CO2 per unit,0.20211
+3137,Average laden,kg CO2e of CO2 per unit,1.17001
+3138,Average laden,kg CO2e of CO2 per unit,1.88295
+3139,Average laden,kg CO2e of CO2 per unit,0.2328
+31310,Average laden,kg CO2e of CO2 per unit,0.98832
+31311,Average laden,kg CO2e of CO2 per unit,1.59054
+31312,Average laden,kg CO2e of CO2 per unit,0.1441
+31313,Average laden,kg CO2e of CO2 per unit,0.89538
+31314,Average laden,kg CO2e of CO2 per unit,1.44098
+31315,Average laden,kg CO2e of CO2 per unit,0.08781
+31316,Average laden,kg CO2e of CO2 per unit,1.06599
+31317,Average laden,kg CO2e of CO2 per unit,1.71554
+31318,Average laden,kg CO2e of CO2 per unit,0.08892
+31319,Average laden,kg CO2e of CO2 per unit,1.05952
+31320,Average laden,kg CO2e of CO2 per unit,1.70513
+31321,Average laden,kg CO2e of CO2 per unit,0.11743
+31322,Average laden,kg CO2e of CO2 per unit,1.03112
+31323,Average laden,kg CO2e of CO2 per unit,1.65943
+3130,Average laden,kg CO2e of CH4 per unit,0.00011
+3131,Average laden,kg CO2e of CH4 per unit,0.00011
+3132,Average laden,kg CO2e of CH4 per unit,0.00018
+3133,Average laden,kg CO2e of CH4 per unit,8e-05
+3134,Average laden,kg CO2e of CH4 per unit,0.00013
+3135,Average laden,kg CO2e of CH4 per unit,0.00022
+3136,Average laden,kg CO2e of CH4 per unit,4e-05
+3137,Average laden,kg CO2e of CH4 per unit,0.00022
+3138,Average laden,kg CO2e of CH4 per unit,0.00037
+3139,Average laden,kg CO2e of CH4 per unit,4e-05
+31310,Average laden,kg CO2e of CH4 per unit,0.00019
+31311,Average laden,kg CO2e of CH4 per unit,0.0003
+31312,Average laden,kg CO2e of CH4 per unit,2e-05
+31313,Average laden,kg CO2e of CH4 per unit,0.00012
+31314,Average laden,kg CO2e of CH4 per unit,0.00019
+31315,Average laden,kg CO2e of CH4 per unit,1e-05
+31316,Average laden,kg CO2e of CH4 per unit,0.00015
+31317,Average laden,kg CO2e of CH4 per unit,0.00022
+31318,Average laden,kg CO2e of CH4 per unit,1e-05
+31319,Average laden,kg CO2e of CH4 per unit,0.00015
+31320,Average laden,kg CO2e of CH4 per unit,0.00022
+31321,Average laden,kg CO2e of CH4 per unit,2e-05
+31322,Average laden,kg CO2e of CH4 per unit,0.00016
+31323,Average laden,kg CO2e of CH4 per unit,0.00026
+3130,Average laden,kg CO2e of N2O per unit,0.00538
+3131,Average laden,kg CO2e of N2O per unit,0.00532
+3132,Average laden,kg CO2e of N2O per unit,0.00855
+3133,Average laden,kg CO2e of N2O per unit,0.00375
+3134,Average laden,kg CO2e of N2O per unit,0.00648
+3135,Average laden,kg CO2e of N2O per unit,0.01043
+3136,Average laden,kg CO2e of N2O per unit,0.00201
+3137,Average laden,kg CO2e of N2O per unit,0.01059
+3138,Average laden,kg CO2e of N2O per unit,0.01704
+3139,Average laden,kg CO2e of N2O per unit,0.00229
+31310,Average laden,kg CO2e of N2O per unit,0.00888
+31311,Average laden,kg CO2e of N2O per unit,0.01429
+31312,Average laden,kg CO2e of N2O per unit,0.00198
+31313,Average laden,kg CO2e of N2O per unit,0.01209
+31314,Average laden,kg CO2e of N2O per unit,0.01944
+31315,Average laden,kg CO2e of N2O per unit,0.00125
+31316,Average laden,kg CO2e of N2O per unit,0.01438
+31317,Average laden,kg CO2e of N2O per unit,0.02314
+31318,Average laden,kg CO2e of N2O per unit,0.00127
+31319,Average laden,kg CO2e of N2O per unit,0.01428
+31320,Average laden,kg CO2e of N2O per unit,0.02299
+31321,Average laden,kg CO2e of N2O per unit,0.00149
+31322,Average laden,kg CO2e of N2O per unit,0.01195
+31323,Average laden,kg CO2e of N2O per unit,0.01923
+3140,With RF,kg CO2e,4.60397
+3141,With RF,kg CO2e,1.27835
+3142,With RF,kg CO2e,0.89939
+3143,With RF,kg CO2e,0.89939
+3140,With RF,kg CO2e of CO2 per unit,4.57703
+3141,With RF,kg CO2e of CO2 per unit,1.27005
+3142,With RF,kg CO2e of CO2 per unit,0.89392
+3143,With RF,kg CO2e of CO2 per unit,0.89392
+3140,With RF,kg CO2e of CH4 per unit,0.00393
+3141,With RF,kg CO2e of CH4 per unit,8e-05
+3142,With RF,kg CO2e of CH4 per unit,6e-05
+3143,With RF,kg CO2e of CH4 per unit,6e-05
+3140,With RF,kg CO2e of N2O per unit,0.02301
+3141,With RF,kg CO2e of N2O per unit,0.00822
+3142,With RF,kg CO2e of N2O per unit,0.00542
+3143,With RF,kg CO2e of N2O per unit,0.00542
+3140,Without RF,kg CO2e,2.71931
+3141,Without RF,kg CO2e,0.75539
+3142,Without RF,kg CO2e,0.5313
+3143,Without RF,kg CO2e,0.5313
+3140,Without RF,kg CO2e of CO2 per unit,2.69237
+3141,Without RF,kg CO2e of CO2 per unit,0.74709
+3142,Without RF,kg CO2e of CO2 per unit,0.52583
+3143,Without RF,kg CO2e of CO2 per unit,0.52583
+3140,Without RF,kg CO2e of CH4 per unit,0.00393
+3141,Without RF,kg CO2e of CH4 per unit,8e-05
+3142,Without RF,kg CO2e of CH4 per unit,6e-05
+3143,Without RF,kg CO2e of CH4 per unit,6e-05
+3140,Without RF,kg CO2e of N2O per unit,0.02301
+3141,Without RF,kg CO2e of N2O per unit,0.00822
+3142,Without RF,kg CO2e of N2O per unit,0.00542
+3143,Without RF,kg CO2e of N2O per unit,0.00542
+3150,Freight train,kg CO2e,0.02779
+3150,Freight train,kg CO2e of CO2 per unit,0.02749
+3150,Freight train,kg CO2e of CH4 per unit,2e-05
+3150,Freight train,kg CO2e of N2O per unit,0.00028
+3160,"200,000+ dwt",kg CO2e,0.00294
+3161,"120,000–199,999 dwt",kg CO2e,0.00445
+3162,"80,000–119,999 dwt",kg CO2e,0.00597
+3163,"60,000–79,999 dwt",kg CO2e,0.00759
+3164,"10,000–59,999 dwt",kg CO2e,0.00921
+3165,0–9999 dwt,kg CO2e,0.03371
+3166,Average,kg CO2e,0.00457
+3167,"60,000+ dwt",kg CO2e,0.00577
+3168,"20,000–59,999 dwt",kg CO2e,0.01043
+3169,"10,000–19,999 dwt",kg CO2e,0.01893
+31610,5000–9999 dwt,kg CO2e,0.02956
+31611,0–4999 dwt,kg CO2e,0.04556
+31612,Average,kg CO2e,0.00902
+31613,"20,000+ dwt",kg CO2e,0.0085
+31614,"10,000–19,999 dwt",kg CO2e,0.01093
+31615,5000–9999 dwt,kg CO2e,0.01529
+31616,0–4999 dwt,kg CO2e,0.02248
+31617,Average,kg CO2e,0.01031
+31618,"200,000+ m3",kg CO2e,0.00942
+31619,"0–199,999 m3",kg CO2e,0.01468
+31620,Average,kg CO2e,0.01153
+31621,"50,000+ m3",kg CO2e,0.00911
+31622,"0–49,999 m3",kg CO2e,0.04404
+31623,Average,kg CO2e,0.01037
+3160,"200,000+ dwt",kg CO2e of CO2 per unit,0.0029
+3161,"120,000–199,999 dwt",kg CO2e of CO2 per unit,0.0044
+3162,"80,000–119,999 dwt",kg CO2e of CO2 per unit,0.0059
+3163,"60,000–79,999 dwt",kg CO2e of CO2 per unit,0.0075
+3164,"10,000–59,999 dwt",kg CO2e of CO2 per unit,0.0091
+3165,0–9999 dwt,kg CO2e of CO2 per unit,0.0333
+3166,Average,kg CO2e of CO2 per unit,0.00451
+3167,"60,000+ dwt",kg CO2e of CO2 per unit,0.0057
+3168,"20,000–59,999 dwt",kg CO2e of CO2 per unit,0.0103
+3169,"10,000–19,999 dwt",kg CO2e of CO2 per unit,0.0187
+31610,5000–9999 dwt,kg CO2e of CO2 per unit,0.0292
+31611,0–4999 dwt,kg CO2e of CO2 per unit,0.045
+31612,Average,kg CO2e of CO2 per unit,0.00891
+31613,"20,000+ dwt",kg CO2e of CO2 per unit,0.0084
+31614,"10,000–19,999 dwt",kg CO2e of CO2 per unit,0.0108
+31615,5000–9999 dwt,kg CO2e of CO2 per unit,0.0151
+31616,0–4999 dwt,kg CO2e of CO2 per unit,0.0222
+31617,Average,kg CO2e of CO2 per unit,0.01018
+31618,"200,000+ m3",kg CO2e of CO2 per unit,0.0093
+31619,"0–199,999 m3",kg CO2e of CO2 per unit,0.0145
+31620,Average,kg CO2e of CO2 per unit,0.01139
+31621,"50,000+ m3",kg CO2e of CO2 per unit,0.009
+31622,"0–49,999 m3",kg CO2e of CO2 per unit,0.0435
+31623,Average,kg CO2e of CO2 per unit,0.01024
+3160,"200,000+ dwt",kg CO2e of CH4 per unit,1.12e-06
+3161,"120,000–199,999 dwt",kg CO2e of CH4 per unit,1.12e-06
+3162,"80,000–119,999 dwt",kg CO2e of CH4 per unit,2.24e-06
+3163,"60,000–79,999 dwt",kg CO2e of CH4 per unit,2.24e-06
+3164,"10,000–59,999 dwt",kg CO2e of CH4 per unit,3.3600000000000004e-06
+3165,0–9999 dwt,kg CO2e of CH4 per unit,1e-05
+3166,Average,kg CO2e of CH4 per unit,1.12e-06
+3167,"60,000+ dwt",kg CO2e of CH4 per unit,2.24e-06
+3168,"20,000–59,999 dwt",kg CO2e of CH4 per unit,3.3600000000000004e-06
+3169,"10,000–19,999 dwt",kg CO2e of CH4 per unit,1e-05
+31610,5000–9999 dwt,kg CO2e of CH4 per unit,1e-05
+31611,0–4999 dwt,kg CO2e of CH4 per unit,1e-05
+31612,Average,kg CO2e of CH4 per unit,3.3600000000000004e-06
+31613,"20,000+ dwt",kg CO2e of CH4 per unit,3.3600000000000004e-06
+31614,"10,000–19,999 dwt",kg CO2e of CH4 per unit,3.3600000000000004e-06
+31615,5000–9999 dwt,kg CO2e of CH4 per unit,1e-05
+31616,0–4999 dwt,kg CO2e of CH4 per unit,1e-05
+31617,Average,kg CO2e of CH4 per unit,3.3600000000000004e-06
+31618,"200,000+ m3",kg CO2e of CH4 per unit,3.3600000000000004e-06
+31619,"0–199,999 m3",kg CO2e of CH4 per unit,4.48e-06
+31620,Average,kg CO2e of CH4 per unit,3.3600000000000004e-06
+31621,"50,000+ m3",kg CO2e of CH4 per unit,3.3600000000000004e-06
+31622,"0–49,999 m3",kg CO2e of CH4 per unit,1e-05
+31623,Average,kg CO2e of CH4 per unit,3.3600000000000004e-06
+3160,"200,000+ dwt",kg CO2e of N2O per unit,3e-05
+3161,"120,000–199,999 dwt",kg CO2e of N2O per unit,5e-05
+3162,"80,000–119,999 dwt",kg CO2e of N2O per unit,7e-05
+3163,"60,000–79,999 dwt",kg CO2e of N2O per unit,9e-05
+3164,"10,000–59,999 dwt",kg CO2e of N2O per unit,0.00011
+3165,0–9999 dwt,kg CO2e of N2O per unit,0.0004
+3166,Average,kg CO2e of N2O per unit,5e-05
+3167,"60,000+ dwt",kg CO2e of N2O per unit,7e-05
+3168,"20,000–59,999 dwt",kg CO2e of N2O per unit,0.00012
+3169,"10,000–19,999 dwt",kg CO2e of N2O per unit,0.00023
+31610,5000–9999 dwt,kg CO2e of N2O per unit,0.00035
+31611,0–4999 dwt,kg CO2e of N2O per unit,0.00055
+31612,Average,kg CO2e of N2O per unit,0.00011
+31613,"20,000+ dwt",kg CO2e of N2O per unit,0.0001
+31614,"10,000–19,999 dwt",kg CO2e of N2O per unit,0.00013
+31615,5000–9999 dwt,kg CO2e of N2O per unit,0.00018
+31616,0–4999 dwt,kg CO2e of N2O per unit,0.00027
+31617,Average,kg CO2e of N2O per unit,0.00012
+31618,"200,000+ m3",kg CO2e of N2O per unit,0.00011
+31619,"0–199,999 m3",kg CO2e of N2O per unit,0.00018
+31620,Average,kg CO2e of N2O per unit,0.00014
+31621,"50,000+ m3",kg CO2e of N2O per unit,0.00011
+31622,"0–49,999 m3",kg CO2e of N2O per unit,0.00053
+31623,Average,kg CO2e of N2O per unit,0.00012
+3170,"200,000+ dwt",kg CO2e,0.00253
+3171,"100,000–199,999 dwt",kg CO2e,0.00304
+3172,"60,000–99,999 dwt",kg CO2e,0.00415
+3173,"35,000–59,999 dwt",kg CO2e,0.00577
+3174,"10,000–34,999 dwt",kg CO2e,0.008
+3175,0–9999 dwt,kg CO2e,0.02956
+3176,Average,kg CO2e,0.00353
+3177,"10,000+ dwt",kg CO2e,0.01205
+3178,5000–9999 dwt,kg CO2e,0.016
+3179,0–4999 dwt,kg CO2e,0.01407
+31710,"10,000+ dwt 100+ TEU",kg CO2e,0.01114
+31711,5000–9999 dwt 100+ TEU,kg CO2e,0.01772
+31712,0–4999 dwt 100+ TEU,kg CO2e,0.02005
+31713,Average,kg CO2e,0.01321
+31714,8000+ TEU,kg CO2e,0.01266
+31715,5000–7999 TEU,kg CO2e,0.01681
+31716,3000–4999 TEU,kg CO2e,0.01681
+31717,2000–2999 TEU,kg CO2e,0.02025
+31718,1000–1999 TEU,kg CO2e,0.0325
+31719,0–999 TEU,kg CO2e,0.03675
+31720,Average,kg CO2e,0.01612
+31721,4000+ CEU,kg CO2e,0.0324
+31722,0–3999 CEU,kg CO2e,0.05832
+31723,Average,kg CO2e,0.03852
+31724,2000+ LM,kg CO2e,0.05012
+31725,0–1999 LM,kg CO2e,0.06105
+31726,Average,kg CO2e,0.05158
+31727,Average,kg CO2e,0.37612
+31728, All dwt,kg CO2e,0.01306
+3170,"200,000+ dwt",kg CO2e of CO2 per unit,0.0025
+3171,"100,000–199,999 dwt",kg CO2e of CO2 per unit,0.003
+3172,"60,000–99,999 dwt",kg CO2e of CO2 per unit,0.0041
+3173,"35,000–59,999 dwt",kg CO2e of CO2 per unit,0.0057
+3174,"10,000–34,999 dwt",kg CO2e of CO2 per unit,0.0079
+3175,0–9999 dwt,kg CO2e of CO2 per unit,0.0292
+3176,Average,kg CO2e of CO2 per unit,0.00349
+3177,"10,000+ dwt",kg CO2e of CO2 per unit,0.0119
+3178,5000–9999 dwt,kg CO2e of CO2 per unit,0.0158
+3179,0–4999 dwt,kg CO2e of CO2 per unit,0.0139
+31710,"10,000+ dwt 100+ TEU",kg CO2e of CO2 per unit,0.011
+31711,5000–9999 dwt 100+ TEU,kg CO2e of CO2 per unit,0.0175
+31712,0–4999 dwt 100+ TEU,kg CO2e of CO2 per unit,0.0198
+31713,Average,kg CO2e of CO2 per unit,0.01305
+31714,8000+ TEU,kg CO2e of CO2 per unit,0.0125
+31715,5000–7999 TEU,kg CO2e of CO2 per unit,0.0166
+31716,3000–4999 TEU,kg CO2e of CO2 per unit,0.0166
+31717,2000–2999 TEU,kg CO2e of CO2 per unit,0.02
+31718,1000–1999 TEU,kg CO2e of CO2 per unit,0.0321
+31719,0–999 TEU,kg CO2e of CO2 per unit,0.0363
+31720,Average,kg CO2e of CO2 per unit,0.01592
+31721,4000+ CEU,kg CO2e of CO2 per unit,0.032
+31722,0–3999 CEU,kg CO2e of CO2 per unit,0.0576
+31723,Average,kg CO2e of CO2 per unit,0.03805
+31724,2000+ LM,kg CO2e of CO2 per unit,0.0495
+31725,0–1999 LM,kg CO2e of CO2 per unit,0.0603
+31726,Average,kg CO2e of CO2 per unit,0.05095
+31727,Average,kg CO2e of CO2 per unit,0.3715
+31728, All dwt,kg CO2e of CO2 per unit,0.0129
+3170,"200,000+ dwt",kg CO2e of CH4 per unit,1.12e-06
+3171,"100,000–199,999 dwt",kg CO2e of CH4 per unit,1.12e-06
+3172,"60,000–99,999 dwt",kg CO2e of CH4 per unit,1.12e-06
+3173,"35,000–59,999 dwt",kg CO2e of CH4 per unit,2.24e-06
+3174,"10,000–34,999 dwt",kg CO2e of CH4 per unit,2.24e-06
+3175,0–9999 dwt,kg CO2e of CH4 per unit,1e-05
+3176,Average,kg CO2e of CH4 per unit,1.12e-06
+3177,"10,000+ dwt",kg CO2e of CH4 per unit,4.48e-06
+3178,5000–9999 dwt,kg CO2e of CH4 per unit,1e-05
+3179,0–4999 dwt,kg CO2e of CH4 per unit,4.48e-06
+31710,"10,000+ dwt 100+ TEU",kg CO2e of CH4 per unit,3.3600000000000004e-06
+31711,5000–9999 dwt 100+ TEU,kg CO2e of CH4 per unit,1e-05
+31712,0–4999 dwt 100+ TEU,kg CO2e of CH4 per unit,1e-05
+31713,Average,kg CO2e of CH4 per unit,4.48e-06
+31714,8000+ TEU,kg CO2e of CH4 per unit,4.48e-06
+31715,5000–7999 TEU,kg CO2e of CH4 per unit,1e-05
+31716,3000–4999 TEU,kg CO2e of CH4 per unit,1e-05
+31717,2000–2999 TEU,kg CO2e of CH4 per unit,1e-05
+31718,1000–1999 TEU,kg CO2e of CH4 per unit,1e-05
+31719,0–999 TEU,kg CO2e of CH4 per unit,1e-05
+31720,Average,kg CO2e of CH4 per unit,1e-05
+31721,4000+ CEU,kg CO2e of CH4 per unit,1e-05
+31722,0–3999 CEU,kg CO2e of CH4 per unit,2e-05
+31723,Average,kg CO2e of CH4 per unit,1e-05
+31724,2000+ LM,kg CO2e of CH4 per unit,2e-05
+31725,0–1999 LM,kg CO2e of CH4 per unit,2e-05
+31726,Average,kg CO2e of CH4 per unit,2e-05
+31727,Average,kg CO2e of CH4 per unit,0.00012
+31728, All dwt,kg CO2e of CH4 per unit,4.48e-06
+3170,"200,000+ dwt",kg CO2e of N2O per unit,3e-05
+3171,"100,000–199,999 dwt",kg CO2e of N2O per unit,4e-05
+3172,"60,000–99,999 dwt",kg CO2e of N2O per unit,5e-05
+3173,"35,000–59,999 dwt",kg CO2e of N2O per unit,7e-05
+3174,"10,000–34,999 dwt",kg CO2e of N2O per unit,0.0001
+3175,0–9999 dwt,kg CO2e of N2O per unit,0.00035
+3176,Average,kg CO2e of N2O per unit,4e-05
+3177,"10,000+ dwt",kg CO2e of N2O per unit,0.00014
+3178,5000–9999 dwt,kg CO2e of N2O per unit,0.00019
+3179,0–4999 dwt,kg CO2e of N2O per unit,0.00017
+31710,"10,000+ dwt 100+ TEU",kg CO2e of N2O per unit,0.00013
+31711,5000–9999 dwt 100+ TEU,kg CO2e of N2O per unit,0.00021
+31712,0–4999 dwt 100+ TEU,kg CO2e of N2O per unit,0.00024
+31713,Average,kg CO2e of N2O per unit,0.00016
+31714,8000+ TEU,kg CO2e of N2O per unit,0.00015
+31715,5000–7999 TEU,kg CO2e of N2O per unit,0.0002
+31716,3000–4999 TEU,kg CO2e of N2O per unit,0.0002
+31717,2000–2999 TEU,kg CO2e of N2O per unit,0.00024
+31718,1000–1999 TEU,kg CO2e of N2O per unit,0.00039
+31719,0–999 TEU,kg CO2e of N2O per unit,0.00044
+31720,Average,kg CO2e of N2O per unit,0.00019
+31721,4000+ CEU,kg CO2e of N2O per unit,0.00039
+31722,0–3999 CEU,kg CO2e of N2O per unit,0.0007
+31723,Average,kg CO2e of N2O per unit,0.00046
+31724,2000+ LM,kg CO2e of N2O per unit,0.0006
+31725,0–1999 LM,kg CO2e of N2O per unit,0.00073
+31726,Average,kg CO2e of N2O per unit,0.00062
+31727,Average,kg CO2e of N2O per unit,0.0045
+31728, All dwt,kg CO2e of N2O per unit,0.00016

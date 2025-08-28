@@ -1,0 +1,277 @@
+#class Pandas_5T:
+#     def __init__(self, xsl_file,src_range:str,data_range,energy:str,suffix:str) -> None:
+
+#         #(header_dict['Emission source'].lower())
+#         self.table_suffix = suffix
+        
+#         self.file_name = xsl_file
+#         esc_rows = 1
+#         self.sheet_1 = pd.read_excel(f"{xsl_file}.xlsx"
+#                           ,skiprows= esc_rows + data_range[1] -1
+#                           ,nrows= data_range[0] - data_range[1]
+#                           ,usecols= src_range,
+#                           sheet_name= suffix[0]
+#                         #   !['xlsx_ranges'] [header_dict['Emission source'].lower()]
+#                           )
+        
+#         print(self.sheet_1.columns)
+        
+#         self.f_lvls = [header for header in self.sheet_1.columns if not(header.find('Unnamed') + 1)] #NOTE: This row is skipped in the next step right away.
+#         #NOTE: the first row, interpreted by Pandas normally as the header of the DF, where empty cells are arbitrary named: 'Unnamed:N'
+# #TODO: this is definitely applicable to scope1, and probably to the other scopes
+
+#         self.sheet_1 = pd.read_excel(f"{xsl_file}.xlsx"
+#                           ,skiprows= esc_rows + data_range[1]
+#                           ,nrows= data_range[0] - data_range[1] - 1 #TODO: This is right, @AHMED?
+#                           ,usecols= src_range,
+#                           sheet_name= suffix[0]
+#                         #   !['xlsx_ranges'] [header_dict['Emission source'].lower()]
+#                           )
+        
+#         print(self.sheet_1.columns)
+#         self.facts = [field for field in list(self.sheet_1.columns) if (field.find(energy) + 1)]
+
+#         print(energy)
+#         self.main_fields = [field for field in list(self.sheet_1.columns) if field not in self.facts]
+
+#         self.fact_df = dict()
+#         self.main_df = dict()
+# ################################
+# #Reviwed by: Omar Saeed
+# ################################
+#     def factorize(self,id):
+
+#         mangle_dupe_cols = [field.split('.')[0] 
+#                             for field in self.facts]
+#         self.fact_sheet = self.sheet_1.drop(self.main_fields,axis='columns')# 2nd axis
+        
+#         self.fact_df['index'] = np.array([int(id+str(i)) for i in range(self.fact_sheet.shape[0])]*
+#                                                                                                     len(self.facts))#NOTE: because
+#                                                                                                                         # I am unpivoting/flattening the GHG units.
+# #NOTE: KEEP AN EYE OUT FOR id
+#         print(self.facts, mangle_dupe_cols)
+#         self.fact_df[f'Level {len(self.main_fields)+1}'] = np.array([[lvl for _ in range(self.fact_sheet.shape[0] *
+#                                                                                          (
+#                                                                                           len(set(mangle_dupe_cols))
+#                                                                                           )
+#                                                                                          )] 
+#                                                                                          for lvl in self.f_lvls]).flatten()
+#         print("Anyway, keep an eagle_eye out for your INSERT statement!")
+
+# #NOTE:no longer =)     <-   #TODO: WATCH OUT you depend on the specific current sheet...
+#         self.fact_df['GHG/Unit'] =  np.array([[
+#             f #.split('.')[0] #NOTE: recall the implicit suffix by Pandas of col names*
+#             for _ in range(self.fact_sheet.shape[0])]    for f in self.facts]).flatten()
+            
+#         self.fact_df['GHG Conversion Factor'] = np.array([self.fact_sheet[factor] for factor in (self.facts)]).flatten()#HUD: all mangles are one as collection 🙃
+#         print(self.fact_df['GHG Conversion Factor'],self.facts)
+        
+# ################################
+# #Reviwed by: Omar Saeed
+# ################################
+#     def maintain(self,scope,em_src,id):
+#         self.main_sheet = self.sheet_1.drop(self.facts,axis="columns")
+#         # main_suffix = [field.split('.')[1] if len(field.split('.'))-1 else field for field in self.main_sheet.columns]  #NOTE: That because Pandas at first implicitly reads the entire selected sheet, so to handle duplicate column names,
+#         self.main_sheet.columns = [field.split('.')[0] if len(field.split('.'))-1 else field for field in self.main_sheet.columns]  #NOTE: That because Pandas at first implicitly reads the entire selected sheet, so to handle duplicate column names,
+
+
+#             # self.main_sheet.method({field: self.main_sheet[field]}, inplace=True)
+#         # print(self.main_sheet['Activity'].shape)
+# # ((self.main_sheet.shape[0],))
+#         self.main_df['index'] = np.array([int(id+str(i)) for i in range(self.main_sheet.shape[0])])
+# #NOTE: KEEP AN EYE OUT FOR id
+#         self.main_df['Scope'] = np.array([scope for _ in range(self.main_sheet.shape[0])])
+#         self.main_df['Level 1'] = np.array([em_src for _ in range(self.main_sheet.shape[0])])
+       
+#         self.main_sheet[self.main_sheet.columns[0]].ffill(inplace = True)
+#         self.main_sheet[self.main_sheet.columns[1]].ffill(inplace = True)
+#         # if eval(lvl_4):
+#         #     print("Anyway, keep an eagle_eye out for your INSERT statement!")
+#         #     self.main_df['Level 4'] = self.main_sheet[self.main_fields[2]]
+#         my_fs = ['Level 2','Level 3','Level 4']
+#         for f in range(len(self.main_fields)-1):
+#             self.main_df[my_fs[f]] = self.main_sheet[self.main_fields[f]]
+#         self.main_df['UOM'] = self.main_sheet['Unit'] #NOTE: WATCH OUT for potential SUFFIX.
+
+# ################################
+# #Reviwed by: Omar Saeed
+# ################################        
+        
+#     def get_facts(self,sql_file):
+#         """
+#         `sql_file`: src/dst file to read/write the query.
+#         """
+#                 # {'n_l, '.join(map(str, self.f_vals))};""".replace('n_l','\n')
+#         f_vals = pd.read_excel(f'{self.file_name}.xlsx',sheet_name=new_sheets['factors'] + self.table_suffix).values.tolist()
+#         map_facts = f"""{'n_l, '.join(map(str, [tuple(i) for i in tuple(f_vals)]))};""".replace('n_l','\n')\
+#                                                                                         .replace('nan','null')
+#         #NOTE: as I will combine the existing STRing (INSERT header) of the file, so the tuples are converted to STRing of lines.
+#         #TODO: you can suggest a modification/fix here, @AHMED.
+        
+#         mode = input("FIRSTLY, check the target file for any potential redundancy, then Enter the mode upon it: ")
+#         content = open(f"{sql_file}.sql",'r').readlines()
+#         with open(f"{sql_file}.sql",mode) as q_file:# My case is to write in a specific range
+#           modified_content = ''.join(content[:3+len(f_vals)]) + map_facts 
+#           print(modified_content[:15])
+#           q_file.writelines(modified_content)
+       
+#         return map_facts.split('\n')[0]
+    
+#     def get_lvls(self,sql_file):
+
+#         m_vals = pd.read_excel(f'{self.file_name}.xlsx',sheet_name=new_sheets['main'] + self.table_suffix).values.tolist()
+#         map_lvls = f"""{'n_l, '.join(map(str, [tuple(i) for i in tuple(m_vals)]))};""".replace('n_l','\n')\
+#                                                                                         .replace('nan','null')
+        
+#         mode = input("FIRSTLY, check the target file for any potential redundancy, then Enter the mode upon it: ")
+#         content = open(f"{sql_file}.sql",'r').readlines()
+#         with open(f"{sql_file}.sql",mode) as q_file:# My case is to write in a specific range
+#           modified_content = ''.join(content[:3]) + map_lvls 
+#           print(modified_content[:15])
+#           q_file.writelines(modified_content)
+       
+#         return map_lvls.split('\n')[0] #NOTE: It is just LOGging.
+    
+#     def transform(self,scope):
+#         # new_sheets = {'main':"main_sheet", 'factors':"UF_sheet"}
+
+#         for i in self.fact_df.values():
+#             print(len(i))
+#         print("All FACT equal ?")#NOTE: I mean all shapes are equal, like exception handling. just hit ENTER :D
+
+#         for i in self.main_df.values():
+#             print(len(i))
+#         print("All MAIN equal ?")
+#         ##############################################################
+#         self.fact_df = pd.DataFrame.from_dict(self.fact_df)
+
+#         self.main_df = pd.DataFrame.from_dict(self.main_df)
+
+#         ##############################################################
+
+#         # try:
+#         #     1/(len(self.main_df.keys()) - len($['main']['5T_main']['column_name']))#NOTE: when it gives division_by_zero error, so in this case it is correct XD. Yes, where the handling writes the new sheet.
+#         #     if (len(self.fact_df.keys()) - len($['facts']['5T_facts']['column_name'])
+#         #     ):
+#         #      print("\n\n* * *\nfacts != facts\n* * *\n\n")#TODO: from pg_schema through $.json
+#         #     input("main != main . . . \nAdd `Level 4` in the 5T_main['column_name].JSON!\nchange BOTH $\n and REtry the pipeline")#TODO: from pg_schema through $.json
+#         # except:
+#         self.main_df.to_csv(f"{scope}/{self.table_suffix[0]}/{new_sheets['main']}.csv",index=False)
+        
+#         # with pd.ExcelWriter(f"{self.file_name}.xlsx", engine='openpyxl', mode='a') as writer:
+#         #         self.fact_df.to_excel(writer,sheet_name=new_sheets['factors'] + self.table_suffix,index=False)
+#         self.fact_df.to_csv(f"{scope}/{self.table_suffix[0]}/{new_sheets['factors']}.csv",index=False)
+
+#         # with pd.ExcelWriter(f"{self.file_name}.xlsx", engine='openpyxl', mode='a') as writer:
+#         #         self.main_df.to_excel(writer,sheet_name=new_sheets['main'] + self.table_suffix,index=False)
+
+#     def view(self):
+#         """gets the number of the tables related to the same source, 
+#         where 'Unnamed' Untracked"""
+#         f = pd.read_excel(f"{self.file_name}.xlsx",skiprows=2)
+#         return f, self.sheet_1.columns
+#                 # [cl_name for cl_name in f.columns if cl_name.split(':')[0] != "Unnamed"]
+
+
+
+#     # df_sheet1 = pd.read_excel(f"{xsl_file}.xlsx") ده مش دالة يا عزمي 🙃
+#     #NOTE: This is just, because I thought the interpreting of class scope is like the function 😅 Never mind*
+
+
+
+
+# match sc[src]['leveler']:
+#                     case '3T':
+#                         df_3 =Pandas_XT(f_name,
+#                                         sc[src]['leveler'],
+#                                         c_range,r_range,energy,TITLE_NO)
+#                         c = prepare_data(df_3,id_suffix,scope,TITLE_NO)
+#                         # if input("The dicts are ready to be transformed. (already?!)") != "already":
+#                         yield (pd.DataFrame.from_dict(c.main_df), pd.DataFrame.from_dict(c.fact_df))
+                                
+#                                 # print(df_3.sheet_1.head())
+#                                 # continue
+#                     case '5T':#T_scope3':
+#                         df_5 =Pandas_5T(f_name,c_range,r_range,energy,TITLE_NO) 
+#                         c = prepare_data(df_5,id_suffix,scope,TITLE_NO)
+#                         # if input("The dicts are ready to be transformed. (already?!)") != "already":
+#                         yield (pd.DataFrame.from_dict(c.main_df), pd.DataFrame.from_dict(c.fact_df))
+#                     case _:
+#                         print("Check the filename!",f_name.split('\\')[-1])
+
+
+
+#################################
+    def maintain(self,scope,em_src,id):
+        """
+        Order matters in adding the columns for appropriate mapping to INSERT command.
+        """
+
+            # self.sheet_1.method({field: self.sheet_1[field]}, inplace=True)
+# ((self.sheet_1.shape[0],))
+#NOTE: KEEP AN EYE OUT FOR id
+
+# if len(self.main_fields) > len()
+        my_fs = ['Level 2','Level 3','Level 4']
+        #NOTE:at implementing PL_2, had some conflicts in 7 sources along s2 & s3, feasible for smooth INSERT.
+
+        
+            # self.transit_df[f'Level {len(self.main_fields)+1}'] = np.array([[lvl for _ in range((self.sheet_1.shape[0])#//len(self.f_lvls)) 
+            #                                                                                 #  *
+            #                                                                                 #  (
+            #                                                                                 #   len(set(mangle_dupe_cols))
+            #                                                                                 #   )
+            #                                                                                  )] 
+            #                                                                                  for lvl in self.f_lvls]).flatten()
+
+            
+        #NOTE(ln.150) self.transit_df['UOM'] = self.sheet_1['Unit'] #NOTE: WATCH OUT for potential SUFFIX.
+        for i in self.transit_df.values():
+            print(len(i))
+        print(self.transit_df.pop('Year','Nein Jar'))
+
+         
+        
+
+    def get_facts(self,sql_file):
+        """
+        `sql_file`: src/dst file to read/write the query.
+        """
+                # {'n_l, '.join(map(str, self.f_vals))};""".replace('n_l','\n')
+        f_vals = pd.read_excel(f'{self.file_name}.xlsx',sheet_name= new_sheets['factors'] 
+                            #    + self.table_suffix
+                               ).values.tolist()
+        map_facts = f"""{'n_l, '.join(map(str, [tuple(i) for i in tuple(f_vals)]))};""".replace('n_l','\n')\
+                                                                                        .replace('nan','null')
+        #NOTE: as I will combine the existing STRing (INSERT header) of the file, so the tuples are converted to STRing of lines.
+        #TODO: you can suggest a modification/fix here, @AHMED.
+        
+        mode = input("FIRSTLY, check the target file for any potential redundancy, then Enter the mode upon it: ")
+        content = open(f"{sql_file}.sql",'r').readlines()
+        with open(f"{sql_file}.sql",mode) as q_file:# My case is to write in a specific range
+          modified_content = ''.join(content[:3+len(f_vals)]) + map_facts 
+          print(modified_content[:15])
+          q_file.writelines(modified_content)
+       
+        return map_facts.split('\n')[0]
+    
+    def get_lvls(self,sql_file):
+        m_vals = pd.read_excel(f'{self.file_name}.xlsx',sheet_name=new_sheets['main'] 
+                            #    + self.table_suffix
+                               ).values.tolist()
+        map_lvls = f"""{'n_l, '.join(map(str, [tuple(i) for i in tuple(m_vals)]))};""".replace('n_l','\n')\
+                                                                                        .replace('nan','null')
+        
+        mode = input("FIRSTLY, check the target file for any potential redundancy, then Enter the mode upon it: ")
+        content = open(f"{sql_file}.sql",'r').readlines()
+        with open(f"{sql_file}.sql",mode) as q_file:# My case is to write in a specific range
+          modified_content = ''.join(content[:3]) + map_lvls 
+          print(modified_content[:15])
+          q_file.writelines(modified_content)
+       
+        return map_lvls.split('\n')[0] #NOTE: It is just LOGging.
+
+
+
+
+from 252 to 183

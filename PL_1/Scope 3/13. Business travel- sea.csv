@@ -1,0 +1,13 @@
+index,Scope,Level 1,Activity,Type,UOM,GHG/Unit,GHG Conversion Factor
+31310,Scope 3,Business travel- sea,Ferry,Foot passenger,passenger.km,kg CO2e,0.01871
+31311,Scope 3,Business travel- sea,Ferry,Car passenger,passenger.km,kg CO2e,0.12933
+31312,Scope 3,Business travel- sea,Ferry,Average (all passenger),passenger.km,kg CO2e,0.1127
+31310,Scope 3,Business travel- sea,Ferry,Foot passenger,passenger.km,kg CO2e of CO2 per unit,0.01848
+31311,Scope 3,Business travel- sea,Ferry,Car passenger,passenger.km,kg CO2e of CO2 per unit,0.12774
+31312,Scope 3,Business travel- sea,Ferry,Average (all passenger),passenger.km,kg CO2e of CO2 per unit,0.11131
+31310,Scope 3,Business travel- sea,Ferry,Foot passenger,passenger.km,kg CO2e of CH4 per unit,1e-05
+31311,Scope 3,Business travel- sea,Ferry,Car passenger,passenger.km,kg CO2e of CH4 per unit,4e-05
+31312,Scope 3,Business travel- sea,Ferry,Average (all passenger),passenger.km,kg CO2e of CH4 per unit,4e-05
+31310,Scope 3,Business travel- sea,Ferry,Foot passenger,passenger.km,kg CO2e of N2O per unit,0.00022
+31311,Scope 3,Business travel- sea,Ferry,Car passenger,passenger.km,kg CO2e of N2O per unit,0.00155
+31312,Scope 3,Business travel- sea,Ferry,Average (all passenger),passenger.km,kg CO2e of N2O per unit,0.00135

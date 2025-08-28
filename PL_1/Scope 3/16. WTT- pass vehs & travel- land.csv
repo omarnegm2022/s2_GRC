@@ -1,0 +1,228 @@
+index,Scope,Level 1,Activity,Type,Last level,UOM,GHG/Unit,GHG Conversion Factor
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Diesel,km,kg CO2e,0.02613
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Diesel,miles,kg CO2e,0.04205
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Diesel,km,kg CO2e,0.03208
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Diesel,miles,kg CO2e,0.05162
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Diesel,km,kg CO2e,0.03482
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Diesel,miles,kg CO2e,0.05603
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Diesel,km,kg CO2e,0.03915
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Diesel,miles,kg CO2e,0.06301
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Diesel,km,kg CO2e,0.0415
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Diesel,miles,kg CO2e,0.06679
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Diesel,km,kg CO2e,0.05061
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Diesel,miles,kg CO2e,0.08145
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Diesel,km,kg CO2e,0.04154
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Diesel,miles,kg CO2e,0.06686
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Diesel,km,kg CO2e,0.0483
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Diesel,miles,kg CO2e,0.07773
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Diesel,km,kg CO2e,0.04335
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Diesel,miles,kg CO2e,0.06977
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Petrol,km,kg CO2e,0.03655
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Petrol,miles,kg CO2e,0.05881
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Petrol,km,kg CO2e,0.04019
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Petrol,miles,kg CO2e,0.06469
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Petrol,km,kg CO2e,0.04582
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Petrol,miles,kg CO2e,0.07375
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Petrol,km,kg CO2e,0.05301
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Petrol,miles,kg CO2e,0.08531
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Petrol,km,kg CO2e,0.05824
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Petrol,miles,kg CO2e,0.09373
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Petrol,km,kg CO2e,0.08949
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Petrol,miles,kg CO2e,0.14403
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Petrol,km,kg CO2e,0.06587
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Petrol,miles,kg CO2e,0.10601
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Petrol,km,kg CO2e,0.0549
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Petrol,miles,kg CO2e,0.08836
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Petrol,km,kg CO2e,0.05114
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Petrol,miles,kg CO2e,0.08231
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Hybrid,km,kg CO2e,
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Hybrid,miles,kg CO2e,
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Hybrid,km,kg CO2e,
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Hybrid,miles,kg CO2e,
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Hybrid,km,kg CO2e,
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Hybrid,miles,kg CO2e,
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Hybrid,km,kg CO2e,
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Hybrid,miles,kg CO2e,
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Hybrid,km,kg CO2e,
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Hybrid,miles,kg CO2e,
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Hybrid,km,kg CO2e,
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Hybrid,miles,kg CO2e,
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Hybrid,km,kg CO2e,
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Hybrid,miles,kg CO2e,
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Hybrid,km,kg CO2e,
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Hybrid,miles,kg CO2e,
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Hybrid,km,kg CO2e,
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Hybrid,miles,kg CO2e,
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,CNG,km,kg CO2e,
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,CNG,miles,kg CO2e,
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,CNG,km,kg CO2e,
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,CNG,miles,kg CO2e,
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,CNG,km,kg CO2e,
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,CNG,miles,kg CO2e,
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,CNG,km,kg CO2e,
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,CNG,miles,kg CO2e,
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,CNG,km,kg CO2e,
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,CNG,miles,kg CO2e,
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,CNG,km,kg CO2e,
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,CNG,miles,kg CO2e,
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,CNG,km,kg CO2e,
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,CNG,miles,kg CO2e,
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,CNG,km,kg CO2e,
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,CNG,miles,kg CO2e,
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,CNG,km,kg CO2e,
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,CNG,miles,kg CO2e,
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,LPG,km,kg CO2e,
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,LPG,miles,kg CO2e,
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,LPG,km,kg CO2e,
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,LPG,miles,kg CO2e,
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,LPG,km,kg CO2e,
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,LPG,miles,kg CO2e,
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,LPG,km,kg CO2e,
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,LPG,miles,kg CO2e,
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,LPG,km,kg CO2e,
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,LPG,miles,kg CO2e,
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,LPG,km,kg CO2e,
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,LPG,miles,kg CO2e,
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,LPG,km,kg CO2e,
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,LPG,miles,kg CO2e,
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,LPG,km,kg CO2e,
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,LPG,miles,kg CO2e,
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,LPG,km,kg CO2e,
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,LPG,miles,kg CO2e,
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Unknown,km,kg CO2e,0.03648
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Unknown,miles,kg CO2e,0.05871
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Unknown,km,kg CO2e,0.03929
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Unknown,miles,kg CO2e,0.06324
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Unknown,km,kg CO2e,0.04114
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Unknown,miles,kg CO2e,0.0662
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Unknown,km,kg CO2e,0.04255
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Unknown,miles,kg CO2e,0.06847
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Unknown,km,kg CO2e,0.04557
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Unknown,miles,kg CO2e,0.07334
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Unknown,km,kg CO2e,0.06834
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Unknown,miles,kg CO2e,0.10998
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Unknown,km,kg CO2e,0.06208
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Unknown,miles,kg CO2e,0.09991
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Unknown,km,kg CO2e,0.05061
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Unknown,miles,kg CO2e,0.08145
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Unknown,km,kg CO2e,0.04538
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Unknown,miles,kg CO2e,0.07303
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.0152
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.02446
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.0242
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.03894
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.02629
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.04231
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.02588
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.04165
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.03629
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.05841
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.03615
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.05817
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.03308
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.05323
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.02715
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.04369
+31610,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Battery Electric Vehicle,km,kg CO2e,0.00851
+31611,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Mini,Battery Electric Vehicle,miles,kg CO2e,0.0137
+31612,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Battery Electric Vehicle,km,kg CO2e,0.00971
+31613,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Supermini,Battery Electric Vehicle,miles,kg CO2e,0.01563
+31614,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Battery Electric Vehicle,km,kg CO2e,0.0102
+31615,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Lower medium,Battery Electric Vehicle,miles,kg CO2e,0.01642
+31616,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Battery Electric Vehicle,km,kg CO2e,0.01044
+31617,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Upper medium,Battery Electric Vehicle,miles,kg CO2e,0.0168
+31618,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Battery Electric Vehicle,km,kg CO2e,0.00944
+31619,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Executive,Battery Electric Vehicle,miles,kg CO2e,0.01519
+316110,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Battery Electric Vehicle,km,kg CO2e,0.01272
+316111,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Luxury,Battery Electric Vehicle,miles,kg CO2e,0.02047
+316112,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Battery Electric Vehicle,km,kg CO2e,0.01628
+316113,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Sports,Battery Electric Vehicle,miles,kg CO2e,0.02619
+316114,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,km,kg CO2e,0.01106
+316115,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),Dual purpose 4X4,Battery Electric Vehicle,miles,kg CO2e,0.0178
+316116,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Battery Electric Vehicle,km,kg CO2e,0.01455
+316117,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by market segment),MPV,Battery Electric Vehicle,miles,kg CO2e,0.02341
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Diesel,km,kg CO2e,0.03409
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Diesel,miles,kg CO2e,0.05486
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Diesel,km,kg CO2e,0.04103
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Diesel,miles,kg CO2e,0.06603
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Diesel,km,kg CO2e,0.0507
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Diesel,miles,kg CO2e,0.08159
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Diesel,km,kg CO2e,0.04146
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Diesel,miles,kg CO2e,0.06673
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Petrol,km,kg CO2e,0.04015
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Petrol,miles,kg CO2e,0.06461
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Petrol,km,kg CO2e,0.04957
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Petrol,miles,kg CO2e,0.07977
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Petrol,km,kg CO2e,0.07528
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Petrol,miles,kg CO2e,0.12115
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Petrol,km,kg CO2e,0.04599
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Petrol,miles,kg CO2e,0.07401
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Hybrid,km,kg CO2e,0.03026
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Hybrid,miles,kg CO2e,0.0487
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Hybrid,km,kg CO2e,0.02998
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Hybrid,miles,kg CO2e,0.04824
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Hybrid,km,kg CO2e,0.03961
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Hybrid,miles,kg CO2e,0.06374
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Hybrid,km,kg CO2e,0.03315
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Hybrid,miles,kg CO2e,0.05335
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,CNG,km,kg CO2e,
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,CNG,miles,kg CO2e,
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,CNG,km,kg CO2e,0.03211
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,CNG,miles,kg CO2e,0.05167
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,CNG,km,kg CO2e,0.04876
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,CNG,miles,kg CO2e,0.07847
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,CNG,km,kg CO2e,0.03591
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,CNG,miles,kg CO2e,0.05779
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,LPG,km,kg CO2e,
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,LPG,miles,kg CO2e,
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,LPG,km,kg CO2e,0.02093
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,LPG,miles,kg CO2e,0.03368
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,LPG,km,kg CO2e,0.03179
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,LPG,miles,kg CO2e,0.05115
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,LPG,km,kg CO2e,0.02341
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,LPG,miles,kg CO2e,0.03767
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Unknown,km,kg CO2e,0.03836
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Unknown,miles,kg CO2e,0.06173
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Unknown,km,kg CO2e,0.04518
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Unknown,miles,kg CO2e,0.07271
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Unknown,km,kg CO2e,0.05764
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Unknown,miles,kg CO2e,0.09276
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Unknown,km,kg CO2e,0.04399
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Unknown,miles,kg CO2e,0.07079
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.0152
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.02446
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.02524
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.04063
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.03221
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.05184
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.02934
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.04721
+31620,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Battery Electric Vehicle,km,kg CO2e,0.00948
+31621,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Small car,Battery Electric Vehicle,miles,kg CO2e,0.01525
+31622,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Battery Electric Vehicle,km,kg CO2e,0.01022
+31623,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Medium car,Battery Electric Vehicle,miles,kg CO2e,0.01645
+31624,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Battery Electric Vehicle,km,kg CO2e,0.01088
+31625,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Large car,Battery Electric Vehicle,miles,kg CO2e,0.0175
+31626,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Battery Electric Vehicle,km,kg CO2e,0.01049
+31627,Scope 3,WTT- pass vehs & travel- land,WTT- cars (by size),Average car,Battery Electric Vehicle,miles,kg CO2e,0.01688
+31630,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Small,,km,kg CO2e,0.02148
+31631,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Small,,miles,kg CO2e,0.03457
+31632,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Medium,,km,kg CO2e,0.02608
+31633,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Medium,,miles,kg CO2e,0.04196
+31634,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Large,,km,kg CO2e,0.03469
+31635,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Large,,miles,kg CO2e,0.05583
+31636,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Average,,km,kg CO2e,0.02956
+31637,Scope 3,WTT- pass vehs & travel- land,WTT- motorbike,Average,,miles,kg CO2e,0.04757
+31640,Scope 3,WTT- pass vehs & travel- land,WTT- taxis,Regular taxi,,passenger.km,kg CO2e,0.03697
+31641,Scope 3,WTT- pass vehs & travel- land,WTT- taxis,Regular taxi,,km,kg CO2e,0.05176
+31642,Scope 3,WTT- pass vehs & travel- land,WTT- taxis,Black cab,,passenger.km,kg CO2e,0.0509
+31643,Scope 3,WTT- pass vehs & travel- land,WTT- taxis,Black cab,,km,kg CO2e,0.07634
+31650,Scope 3,WTT- pass vehs & travel- land,WTT- bus,Local bus (not London),,passenger.km,kg CO2e,0.03174
+31651,Scope 3,WTT- pass vehs & travel- land,WTT- bus,Local London bus,,passenger.km,kg CO2e,0.01821
+31652,Scope 3,WTT- pass vehs & travel- land,WTT- bus,Average local bus,,passenger.km,kg CO2e,0.02649
+31653,Scope 3,WTT- pass vehs & travel- land,WTT- bus,Coach,,passenger.km,kg CO2e,0.00656
+31660,Scope 3,WTT- pass vehs & travel- land,WTT- rail,National rail,,passenger.km,kg CO2e,0.00897
+31661,Scope 3,WTT- pass vehs & travel- land,WTT- rail,International rail,,passenger.km,kg CO2e,0.00117
+31662,Scope 3,WTT- pass vehs & travel- land,WTT- rail,Light rail and tram,,passenger.km,kg CO2e,0.00749
